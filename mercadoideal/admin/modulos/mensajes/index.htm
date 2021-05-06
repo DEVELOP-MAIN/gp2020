@@ -1,0 +1,303 @@
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Panel de control</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+<link href="../../css/estructura.css" rel="stylesheet" type="text/css" />
+<link href="../../css/listados.css" rel="stylesheet" type="text/css" />
+<link href="../../css/datepicker.css" rel="stylesheet" type="text/css" />
+<link href="../../css/forms.css" rel="stylesheet" type="text/css" />
+<link href="../../css/protoload.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="../../js/config.js"></script>
+<script type="text/javascript" src="../../js/prototype.js"></script>
+<script type="text/javascript" src="../../js/protoload.js"></script>
+<script type="text/javascript" src="../../js/scriptaculous.js"></script>
+<script type="text/javascript" src="../../js/sortable.js"></script>
+<script type="text/javascript" src="../../js/validation.js"></script>
+<script type="text/javascript" src="../../js/fabtabulous.js"></script>
+<script type="text/javascript" src="../../js/datepicker.js"></script>
+<script type="text/javascript" src="../../js/datefunctions.js"></script>
+<script type="text/javascript" src="../../js/nicEdit.js"></script>
+<script type="text/javascript" src="../seguridad/js/conectado_a.js"></script>
+<script type="text/javascript" src="js/mensajes.js"></script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="inicia();">
+	<table width="97%" border="0" align="center" cellpadding="0" cellspacing="0">
+		<tr>
+		  <td height="48" align="left" valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+		    <tr>
+		      <td width="60%" height="110" valign="middle"><img src="../../img/logo_mercadoideal.png" width="185" height="93" alt="Mercado Ideal"/></td>
+		      <td width="20%" align="center">&#160;</td>
+		      <td width="20%" align="right" valign="middle" class="textoBlanco12Bold"><img src="../../img/logo_brahma-quilmes2.png" width="215" height="72" alt="Brahma Quilmes"/></td>
+	        </tr>
+	      </table></td>
+	  </tr>
+		<tr>
+			<td align="center" valign="top" bgcolor="#E3E3E3">
+				<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffcc18">
+					<tr>
+						<td width="70" height="67" align="left" valign="middle"><img src="../../img/tt_usuario.gif" width="84" height="17" style="margin-left:15px" /></td>
+						<td width="50%" align="left" valign="middle"><div id="loggeduser"></div></td>
+						<td width="50%" align="left" valign="middle"><div id="fecha"></div></td>
+						<td width="55" align="left" valign="middle"><a href="../login/"><img src="../../img/tt_salir.gif" width="53" height="17" border="0" style="margin-right:15px"/></a></td>
+					</tr>
+				</table>
+				<!--Menu Desplegable-->
+				<script src="../../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+				<link href="../../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+				<div id="menu" class="desplegable"></div>
+				<!--Fin Menu-->
+				<table width="97%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="BoxContenidos">
+					<tr>
+						<td align="center">
+							<table width="97%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td width="33%">
+										<div id="titulo" style="display:block;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td height="50" align="left" valign="middle" class="textoMarron14sinhover">Administraci&#243;n de Mensajes</td>
+												</tr>
+											</table>
+										</div>
+										<div id="titulosecciones" style="display:none;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr><td height="35" align="left" valign="middle" class="textoMarron14sinhover"><strong><div id="usuario"></div></strong></td>
+												</tr>
+											</table>
+										</div>
+										<div id="disponibles">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr valign="top">
+													<td width="20%" align="left"> 
+														<div id="buscador">
+															<form id="frm_buscador" name="frm_buscador" action="#" onsubmit="return false;">
+																<table width="100%" border="0" cellpadding="0" cellspacing="0" class="BoxListados">
+																	<tr bgcolor="#c5c5c5"> 
+																		<td height="27" bgcolor="#C5C5C5" class="textoBlanco12Bold">&#160;&#160;Buscador</td>
+																	</tr>
+																	<tr> 
+																		<td><img src="../../img/10X10.gif" width="10" height="5" /></td>
+																	</tr>
+																	<tr> 
+																		<td height="25" class="textoPetroleo12d">
+																			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																				<tr> 
+																					<td height="15" class="textoPetroleo12b">Estado</td>
+																				</tr>
+																				<tr> 
+																					<td height="35" class="textoPetroleo12"> 
+																						<select name="filtro_estado" class="selectINPUT2" id="filtro_estado">
+																							<option value="no leido">no le&#237;dos</option>                                  
+																							<option value="leido">le&#237;dos</option>                                  
+																							<option value="respondido">respondidos</option>
+																							<option value="">todos</option>                                  
+																						</select>		
+																					</td>
+																				</tr>
+																				<tr> 
+																					<td height="35" align="center"> 
+																						<input name="button" type="button" class="btnFormulariosBuscar" value="Buscar" onclick="buscar();return false;"/>																					
+																				  </td>
+																				</tr>
+																		  </table>																		
+																		</td>
+																	</tr>
+																</table>
+															</form>
+														</div><!--cierra div buscador-->
+														<div id="ayuda" style="display:none;">
+															<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																<tr>
+																	<td>
+																		<div id="alta_asistencia">
+																			<table width="100%" border="0" cellpadding="0" cellspacing="0" class="BoxListados">
+																				<tr bgcolor="#c5c5c5"> 
+																					<td height="35" bgcolor="#c5c5c5" class="textoBlanco12Bold" align="center">&#160;Asistencia al Usuario</td>
+																				</tr>
+																				<tr> 
+																					<td><img src="../../img/10X10.gif" width="10" height="5"></td>
+																				</tr>
+																				<tr> 
+																					<td height="25" class="textoPetroleo12">
+																						<table width="98%" border="0" cellspacing="0" cellpadding="0">
+																							<tr valign="top"> 
+																								<td width="10%" height="25" align="center"><img src="../../img/icon_ayuda.png" width="31" height="31"></td>
+																								<td width="90%" align="left" class="textoPetroleo12Ayuda">
+																									<div id="textoayuda"></div>
+																								</td>
+																							</tr>
+																							<tr> 
+																								<td align="center" class="textoPetroleo12"><img src="../../img/10X10.gif" width="10" height="10"></td>
+																								<td align="center" class="textoPetroleo12"><img src="../../img/10X10.gif" width="10" height="10"></td>
+																							</tr>
+																						</table>
+																					</td>
+																				</tr>
+																			</table>	
+																		</div>
+																		<div id="alta_verificando" style="display:none">
+																			<table width="100%" height="100%" border="0" cellpadding="10" cellspacing="0">
+																				<tr>
+																					<td align="center" valign="middle" class="textoPetroleo12Ayuda">
+																						<img src="../../img/an_aguarde.gif" width="106" height="106" />
+																					</td>
+																				</tr>
+																			</table>  
+																		</div>
+																	</td>
+																</tr>
+															</table>
+														</div><!--cierra div ayuda-->
+													</td>
+													<td width="1%"><img src="../../img/10X10.gif" width="10" height="10" /></td>
+													<td width="79%" align="left">
+														<!--LISTADO-->
+														<div id="listado">
+															<table bgcolor="#c5c5c5" class="textoBlanco12" id="table-0" cellspacing="0" height="60" width="100%">
+																<tr>
+																	<td align="center" height="60" valign="middle">No se encontraron resultados para su b&#250;squeda</td>			
+																</tr>
+															</table>
+														</div>
+														<!--cierra LISTADO-->
+														<!--ALTA MENSAJE-->
+														<div id="alta" style="display:none;">
+															<form id="frm_alta" name="frm_alta" method="POST" onsubmit="return false;">
+																<input type="hidden" id="idmensaje" name="idmensaje" value="">
+																<div class="linkVolver">
+																	<a href="../mensajes/">&#x25c4 Volver al listado</a>
+																</div>
+																<table width="100%" border="0" cellpadding="8" cellspacing="0" class="BoxListados">
+																	<tr> 
+																		<td height="35" align="center" valign="middle" bgcolor="#c5c5c5" class="textoPetroleo14"> 
+																			<div id="frmtitulo"></div>
+																		</td>
+																	</tr>
+																	<tr> 
+																		<td align="center" valign="middle">
+																			<table width="70%" border="0" cellspacing="0" cellpadding="0">
+																				<tr class="textoPetroleo12"> 
+																					<td width="50%" align="left">Fecha</td>
+																					<td width="50%" align="left">Motivo de consulta</td>
+																				</tr>
+																				<tr class="textoPetroleo12"> 
+																					<td align="left" valign="top"> 
+																						<input id="frm_alta_fecha" name="frm_alta_fecha" type="text" class="campos validate-date" size="10" value="" />
+																					</td>
+																					<td align="left" valign="top"> 
+																						<select id="frm_alta_tipo" name="frm_alta_tipo" class="campos">
+																							<option value="">seleccione un tipo</option>
+																							<option value="1">Consulta por c&#243;digo</option>
+																							<option value="2">Consulta por canje</option>
+																							<option value="3">Otra consulta</option>
+																						</select>
+																					</td>
+																				</tr>
+																				<tr class="textoPetroleo12"> 
+																					<td align="left">Qui&#233;n</td>
+																					<td align="left">Apellido y nombre</td>
+																				</tr>
+																				<tr class="textoPetroleo12">
+																					<td align="left" valign="top">
+																						<input id="frm_alta_quien" name="frm_alta_quien" type="text" class="textINPUT" size="32">
+																					</td>
+																					<td align="left" valign="top">
+																						<input id="frm_alta_apellidoynombre" name="frm_alta_apellidoynombre" type="text" class="textINPUT" size="32">
+																					</td>	
+																				</tr>
+																				<tr class="textoPetroleo12"> 
+																					<td align="left" colspan="2">Mensaje</td>																				
+																				</tr>
+																				<tr class="textoPetroleo12"> 
+																					<td align="left" valign="top" colspan="2"> 
+																						<textarea name="frm_alta_mensaje" cols="70" rows="5" class="campos" id="frm_alta_mensaje"></textarea>
+																					</td>																				
+																				</tr>
+																			</table>
+																		</td>
+																	</tr>
+																	<tr> 
+																		<td height="35" align="center" valign="middle" bgcolor="#c5c5c5"> 
+																			<button type="button" id="btnagregar" name="btnagregar" class="btnFormularios2" onclick="verificarAlta();">Guardar</button>
+																			<button style="display:none;" type="button" id="btneditar" name="btneditar" class="btnFormularios2" onclick="verificarEdicion();">Guardar</button>
+																			<button style="display:none;" type="button" id="btneliminar" name="btneliminar" class="btnFormularios2" onclick="verificarEliminar();">Borrar</button>
+																			<button type="reset" name="cancelar" class="btnFormularios2" onclick="Cancelar();">Cancelar</button>
+																		</td>
+																	</tr>
+																</table>
+															</form>	
+														</div>
+														<!--cierra ALTA MENSAJE-->
+														<!--ALTA RESPUESTA-->
+														<div id="respuesta" style="display:none;">
+															<form id="frm_respuesta" name="frm_respuesta" method="POST" onsubmit="return false;">
+																<input type="hidden" id="idmensaje_rta" name="idmensaje_rta" value="">
+																<div class="linkVolver">
+																	<a href="../mensajes/">&#x25c4 Volver al listado</a>
+																</div>
+																<table width="100%" border="0" cellpadding="8" cellspacing="0" class="BoxListados">
+																	<tr> 
+																		<td height="35" align="center" valign="middle" bgcolor="#c5c5c5" class="textoPetroleo14"> 
+																			<div id="frmtitulo">RESPONDER MENSAJE</div>
+																		</td>
+																	</tr>
+																	<tr> 
+																		<td align="center" valign="middle" id="data_mensaje"></td>
+																	</tr>
+																	<tr> 
+																		<td align="center" valign="middle">
+																			<table width="70%" border="0" cellspacing="0" cellpadding="0">
+																				<tr class="textoPetroleo12"> 
+																					<td width="50%" align="left"><strong>Respuesta</strong></td>																				
+																				</tr>
+																				<tr class="textoPetroleo12"> 
+																					<td align="left" valign="top"> 
+																						<textarea name="frm_rta_respuesta" rows="5" class="campos required" id="frm_rta_respuesta" style="width:100%"></textarea>
+																					</td>																				
+																				</tr>																			
+																			</table>
+																		</td>
+																	</tr>
+																	<tr> 
+																		<td height="35" align="center" valign="middle" bgcolor="#c5c5c5"> 
+																			<button type="button" id="btnresponder" name="btnresponder" class="btnFormularios2" onclick="verificarResponder();">Responder</button>
+																			<button type="reset" name="cancelar" class="btnFormularios2" onclick="Cancelar();">Volver</button>
+																		</td>
+																	</tr>
+																</table>
+															</form>	
+														</div>
+														<!--cierra ALTA RESPUESTA-->
+													</td>
+												</tr>
+											</table>
+										</div>
+									</td>
+	              </tr>
+	            </table>
+	            <table width="97%" border="0" cellspacing="0" cellpadding="0">
+				        <tr> 
+				          <td>&#160;</td>
+				        </tr>
+				      </table>
+	          </td>
+	        </tr>
+	      </table>
+			</td>
+	  </tr>
+	</table>
+</body>
+</html>

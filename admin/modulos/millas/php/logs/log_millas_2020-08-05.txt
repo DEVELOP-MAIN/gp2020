@@ -1,0 +1,996 @@
+Procesando la linea 1
+- FILA 1 SE CARGARON: 328 MILLAS 
+Procesando la linea 2
+- FILA 2 SE CARGARON: 112 MILLAS 
+Procesando la linea 3
+- FILA 3 SE CARGARON: 0 MILLAS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 484 MILLAS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 154 MILLAS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 0 MILLAS 
+Procesando la linea 7
+- FILA 7 SE CARGARON: 816 MILLAS 
+Procesando la linea 8
+- FILA 8 SE CARGARON: 612 MILLAS 
+Procesando la linea 9
+- FILA 9 SE CARGARON: 578 MILLAS 
+Procesando la linea 10
+- FILA 10 SE CARGARON: 0 MILLAS 
+Procesando la linea 11
+- FILA 11 SE CARGARON: 0 MILLAS 
+Procesando la linea 12
+- FILA 12 SE CARGARON: 0 MILLAS 
+Procesando la linea 13
+- FILA 13 SE CARGARON: 336 MILLAS 
+Procesando la linea 14
+- FILA 14 SE CARGARON: 0 MILLAS 
+Procesando la linea 15
+- FILA 15 SE CARGARON: 0 MILLAS 
+Procesando la linea 16
+- FILA 16 SE CARGARON: 672 MILLAS 
+Procesando la linea 17
+- FILA 17 SE CARGARON: 504 MILLAS 
+Procesando la linea 18
+- FILA 18 SE CARGARON: 504 MILLAS 
+Procesando la linea 19
+- FILA 19 SE CARGARON: 336 MILLAS 
+Procesando la linea 20
+- FILA 20 SE CARGARON: 252 MILLAS 
+Procesando la linea 21
+- FILA 21 SE CARGARON: 252 MILLAS 
+Procesando la linea 22
+- FILA 22 SE CARGARON: 288 MILLAS 
+Procesando la linea 23
+- FILA 23 SE CARGARON: 180 MILLAS 
+Procesando la linea 24
+- FILA 24 SE CARGARON: 0 MILLAS 
+Procesando la linea 25
+- FILA 25 SE CARGARON: 288 MILLAS 
+Procesando la linea 26
+- FILA 26 SE CARGARON: 216 MILLAS 
+Procesando la linea 27
+- FILA 27 SE CARGARON: 0 MILLAS 
+Procesando la linea 28
+- FILA 28 SE CARGARON: 209 MILLAS 
+Procesando la linea 29
+- FILA 29 SE CARGARON: 0 MILLAS 
+Procesando la linea 30
+- FILA 30 SE CARGARON: 0 MILLAS 
+Procesando la linea 31
+- FILA 31 SE CARGARON: 0 MILLAS 
+Procesando la linea 32
+- FILA 32 SE CARGARON: 160 MILLAS 
+Procesando la linea 33
+- FILA 33 SE CARGARON: 180 MILLAS 
+Procesando la linea 34
+- FILA 34 SE CARGARON: 1.800 MILLAS 
+Procesando la linea 35
+- FILA 35 SE CARGARON: 0 MILLAS 
+Procesando la linea 36
+- FILA 36 SE CARGARON: 0 MILLAS 
+Procesando la linea 37
+- FILA 37 SE CARGARON: 672 MILLAS 
+Procesando la linea 38
+- FILA 38 SE CARGARON: 504 MILLAS 
+Procesando la linea 39
+- FILA 39 SE CARGARON: 504 MILLAS 
+Procesando la linea 40
+- FILA 40 SE CARGARON: 720 MILLAS 
+Procesando la linea 41
+- FILA 41 SE CARGARON: 540 MILLAS 
+Procesando la linea 42
+- FILA 42 SE CARGARON: 0 MILLAS 
+Procesando la linea 43
+- FILA 43 SE CARGARON: 644 MILLAS 
+Procesando la linea 44
+- FILA 44 SE CARGARON: 504 MILLAS 
+Procesando la linea 45
+- FILA 45 SE CARGARON: 504 MILLAS 
+Procesando la linea 46
+- FILA 46 SE CARGARON: 384 MILLAS 
+Procesando la linea 47
+- FILA 47 SE CARGARON: 0 MILLAS 
+Procesando la linea 48
+- FILA 48 SE CARGARON: 0 MILLAS 
+Procesando la linea 49
+- FILA 49 SE CARGARON: 1.104 MILLAS 
+Procesando la linea 50
+- FILA 50 SE CARGARON: 0 MILLAS 
+Procesando la linea 51
+- FILA 51 SE CARGARON: 0 MILLAS 
+Procesando la linea 52
+- FILA 52 SE CARGARON: 1.440 MILLAS 
+Procesando la linea 53
+- FILA 53 SE CARGARON: 1.152 MILLAS 
+Procesando la linea 54
+- FILA 54 SE CARGARON: 1.152 MILLAS 
+Procesando la linea 55
+- FILA 55 SE CARGARON: 1.610 MILLAS 
+Procesando la linea 56
+- FILA 56 SE CARGARON: 1.260 MILLAS 
+Procesando la linea 57
+- FILA 57 SE CARGARON: 1.260 MILLAS 
+Procesando la linea 58
+- FILA 58 SE CARGARON: 209 MILLAS 
+Procesando la linea 59
+- FILA 59 SE CARGARON: 0 MILLAS 
+Procesando la linea 60
+- FILA 60 SE CARGARON: 0 MILLAS 
+Procesando la linea 61
+- FILA 61 SE CARGARON: 1.104 MILLAS 
+Procesando la linea 62
+- FILA 62 SE CARGARON: 828 MILLAS 
+Procesando la linea 63
+- FILA 63 SE CARGARON: 0 MILLAS 
+Procesando la linea 64
+- FILA 64 SE CARGARON: 440 MILLAS 
+Procesando la linea 65
+- FILA 65 SE CARGARON: 0 MILLAS 
+Procesando la linea 66
+- FILA 66 SE CARGARON: 0 MILLAS 
+Procesando la linea 67
+- FILA 67 SE CARGARON: 0 MILLAS 
+Procesando la linea 68
+- FILA 68 SE CARGARON: 0 MILLAS 
+Procesando la linea 69
+- FILA 69 SE CARGARON: 0 MILLAS 
+Procesando la linea 70
+- FILA 70 SE CARGARON: 0 MILLAS 
+Procesando la linea 71
+- FILA 71 SE CARGARON: 0 MILLAS 
+Procesando la linea 72
+- FILA 72 SE CARGARON: 0 MILLAS 
+Procesando la linea 73
+- FILA 73 SE CARGARON: 816 MILLAS 
+Procesando la linea 74
+- FILA 74 SE CARGARON: 595 MILLAS 
+Procesando la linea 75
+- FILA 75 SE CARGARON: 612 MILLAS 
+Procesando la linea 76
+- FILA 76 SE CARGARON: 480 MILLAS 
+Procesando la linea 77
+- FILA 77 SE CARGARON: 360 MILLAS 
+Procesando la linea 78
+- FILA 78 SE CARGARON: 330 MILLAS 
+Procesando la linea 79
+- FILA 79 SE CARGARON: 352 MILLAS 
+Procesando la linea 80
+- FILA 80 SE CARGARON: 0 MILLAS 
+Procesando la linea 81
+- FILA 81 SE CARGARON: 0 MILLAS 
+Procesando la linea 82
+- FILA 82 SE CARGARON: 288 MILLAS 
+Procesando la linea 83
+- FILA 83 SE CARGARON: 216 MILLAS 
+Procesando la linea 84
+- FILA 84 SE CARGARON: 84 MILLAS 
+Procesando la linea 85
+- FILA 85 SE CARGARON: 306 MILLAS 
+Procesando la linea 86
+- FILA 86 SE CARGARON: 561 MILLAS 
+Procesando la linea 87
+- FILA 87 SE CARGARON: 0 MILLAS 
+Procesando la linea 88
+- FILA 88 SE CARGARON: 451 MILLAS 
+Procesando la linea 89
+- FILA 89 SE CARGARON: 396 MILLAS 
+Procesando la linea 90
+- FILA 90 SE CARGARON: 396 MILLAS 
+Procesando la linea 91
+- FILA 91 SE CARGARON: 288 MILLAS 
+Procesando la linea 92
+- FILA 92 SE CARGARON: 216 MILLAS 
+Procesando la linea 93
+- FILA 93 SE CARGARON: 0 MILLAS 
+Procesando la linea 94
+- FILA 94 SE CARGARON: 258 MILLAS 
+Procesando la linea 95
+- FILA 95 SE CARGARON: 216 MILLAS 
+Procesando la linea 96
+- FILA 96 SE CARGARON: 192 MILLAS 
+Procesando la linea 97
+- FILA 97 SE CARGARON: 336 MILLAS 
+Procesando la linea 98
+- FILA 98 SE CARGARON: 0 MILLAS 
+Procesando la linea 99
+- FILA 99 SE CARGARON: 0 MILLAS 
+Procesando la linea 100
+- FILA 100 SE CARGARON: 451 MILLAS 
+Procesando la linea 101
+- FILA 101 SE CARGARON: 0 MILLAS 
+Procesando la linea 102
+- FILA 102 SE CARGARON: 0 MILLAS 
+Procesando la linea 103
+- FILA 103 SE CARGARON: 301 MILLAS 
+Procesando la linea 104
+- FILA 104 SE CARGARON: 0 MILLAS 
+Procesando la linea 105
+- FILA 105 SE CARGARON: 0 MILLAS 
+Procesando la linea 106
+- FILA 106 SE CARGARON: 95 MILLAS 
+Procesando la linea 107
+- FILA 107 SE CARGARON: 0 MILLAS 
+Procesando la linea 108
+- FILA 108 SE CARGARON: 0 MILLAS 
+Procesando la linea 109
+- FILA 109 SE CARGARON: 120 MILLAS 
+Procesando la linea 110
+- FILA 110 SE CARGARON: 0 MILLAS 
+Procesando la linea 111
+- FILA 111 SE CARGARON: 0 MILLAS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 44 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 4
+- FILA 4 SE CARGARON: 41 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 5
+- FILA 5 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 6
+- FILA 6 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 7
+- FILA 7 SE CARGARON: 18 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 8
+- FILA 8 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 9
+- FILA 9 SE CARGARON: 14 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 10
+- FILA 10 SE CARGARON: 48 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 11
+- FILA 11 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 12
+- FILA 12 SE CARGARON: 30 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 13
+- FILA 13 SE CARGARON: 46 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 14
+- FILA 14 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 15
+- FILA 15 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 16
+- FILA 16 SE CARGARON: 48 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 17
+- FILA 17 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 18
+- FILA 18 SE CARGARON: 34 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 19
+- FILA 19 SE CARGARON: 41 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 20
+- FILA 20 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 21
+- FILA 21 SE CARGARON: 34 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 22
+- FILA 22 SE CARGARON: 43 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 23
+- FILA 23 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 24
+- FILA 24 SE CARGARON: 34 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 25
+- FILA 25 SE CARGARON: 20 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 26
+- FILA 26 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 27
+- FILA 27 SE CARGARON: 30 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 28
+- FILA 28 SE CARGARON: 47 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 29
+- FILA 29 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 30
+- FILA 30 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 31
+- FILA 31 SE CARGARON: 40 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 32
+- FILA 32 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 33
+- FILA 33 SE CARGARON: 34 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 34
+- FILA 34 SE CARGARON: 42 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 35
+- FILA 35 SE CARGARON: 34 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 36
+- FILA 36 SE CARGARON: 35 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 37
+- FILA 37 SE CARGARON: 40 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 38
+- FILA 38 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 39
+- FILA 39 SE CARGARON: 34 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 40
+- FILA 40 SE CARGARON: 48 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 41
+- FILA 41 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 42
+- FILA 42 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 43
+- FILA 43 SE CARGARON: 40 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 44
+- FILA 44 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 45
+- FILA 45 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 46
+- FILA 46 SE CARGARON: 44 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 47
+- FILA 47 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 48
+- FILA 48 SE CARGARON: 34 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 49
+- FILA 49 SE CARGARON: 18 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 50
+- FILA 50 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 51
+- FILA 51 SE CARGARON: 0 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 52
+- FILA 52 SE CARGARON: 18 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 53
+- FILA 53 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 54
+- FILA 54 SE CARGARON: 35 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 55
+- FILA 55 SE CARGARON: 0 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 56
+- FILA 56 SE CARGARON: 30 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 57
+- FILA 57 SE CARGARON: 30 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 58
+- FILA 58 SE CARGARON: 43 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 59
+- FILA 59 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 60
+- FILA 60 SE CARGARON: 0 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 61
+- FILA 61 SE CARGARON: 46 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 62
+- FILA 62 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 63
+- FILA 63 SE CARGARON: 35 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 64
+- FILA 64 SE CARGARON: 44 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 65
+- FILA 65 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 66
+- FILA 66 SE CARGARON: 30 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 67
+- FILA 67 SE CARGARON: 48 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 68
+- FILA 68 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 69
+- FILA 69 SE CARGARON: 34 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 70
+- FILA 70 SE CARGARON: 45 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 71
+- FILA 71 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 72
+- FILA 72 SE CARGARON: 13 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 73
+- FILA 73 SE CARGARON: 45 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 74
+- FILA 74 SE CARGARON: 34 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 75
+- FILA 75 SE CARGARON: 0 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 76
+- FILA 76 SE CARGARON: 40 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 77
+- FILA 77 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 78
+- FILA 78 SE CARGARON: 0 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 79
+- FILA 79 SE CARGARON: 42 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 80
+- FILA 80 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 81
+- FILA 81 SE CARGARON: 0 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 82
+- FILA 82 SE CARGARON: 48 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 83
+- FILA 83 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 84
+- FILA 84 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 85
+- FILA 85 SE CARGARON: 19 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 86
+- FILA 86 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 87
+- FILA 87 SE CARGARON: 14 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 88
+- FILA 88 SE CARGARON: 43 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 89
+- FILA 89 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 90
+- FILA 90 SE CARGARON: 14 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 91
+- FILA 91 SE CARGARON: 46 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 92
+- FILA 92 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 93
+- FILA 93 SE CARGARON: 0 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 94
+- FILA 94 SE CARGARON: 48 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 95
+- FILA 95 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 96
+- FILA 96 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 97
+- FILA 97 SE CARGARON: 46 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 98
+- FILA 98 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 99
+- FILA 99 SE CARGARON: 0 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 100
+- FILA 100 SE CARGARON: 44 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 101
+- FILA 101 SE CARGARON: 32 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 102
+- FILA 102 SE CARGARON: 32 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 103
+- FILA 103 SE CARGARON: 48 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 104
+- FILA 104 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 105
+- FILA 105 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 106
+- FILA 106 SE CARGARON: 48 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 107
+- FILA 107 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 108
+- FILA 108 SE CARGARON: 32 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 109
+- FILA 109 SE CARGARON: 41 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 110
+- FILA 110 SE CARGARON: 35 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 111
+- FILA 111 SE CARGARON: 32 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 112
+- FILA 112 SE CARGARON: 48 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 113
+- FILA 113 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 114
+- FILA 114 SE CARGARON: 32 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 115
+- FILA 115 SE CARGARON: 48 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 116
+- FILA 116 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 117
+- FILA 117 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 118
+- FILA 118 SE CARGARON: 48 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 119
+- FILA 119 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 120
+- FILA 120 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 121
+- FILA 121 SE CARGARON: 40 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 122
+- FILA 122 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 123
+- FILA 123 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 124
+- FILA 124 SE CARGARON: 46 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 125
+- FILA 125 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 126
+- FILA 126 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 127
+- FILA 127 SE CARGARON: 48 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 128
+- FILA 128 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 129
+- FILA 129 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 130
+- FILA 130 SE CARGARON: 20 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 131
+- FILA 131 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 132
+- FILA 132 SE CARGARON: 33 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 133
+- FILA 133 SE CARGARON: 43 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 134
+- FILA 134 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 135
+- FILA 135 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 136
+- FILA 136 SE CARGARON: 20 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 137
+- FILA 137 SE CARGARON: 36 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 138
+- FILA 138 SE CARGARON: 33 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO #N/D</font>
+Procesando la linea 1
+- FILA 1 SE CARGARON: 328 MILLAS 
+Procesando la linea 2
+- FILA 2 SE CARGARON: 112 MILLAS 
+Procesando la linea 3
+- FILA 3 SE CARGARON: 0 MILLAS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 484 MILLAS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 154 MILLAS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 0 MILLAS 
+Procesando la linea 7
+- FILA 7 SE CARGARON: 816 MILLAS 
+Procesando la linea 8
+- FILA 8 SE CARGARON: 612 MILLAS 
+Procesando la linea 9
+- FILA 9 SE CARGARON: 578 MILLAS 
+Procesando la linea 10
+- FILA 10 SE CARGARON: 0 MILLAS 
+Procesando la linea 11
+- FILA 11 SE CARGARON: 0 MILLAS 
+Procesando la linea 12
+- FILA 12 SE CARGARON: 0 MILLAS 
+Procesando la linea 13
+- FILA 13 SE CARGARON: 336 MILLAS 
+Procesando la linea 14
+- FILA 14 SE CARGARON: 0 MILLAS 
+Procesando la linea 15
+- FILA 15 SE CARGARON: 0 MILLAS 
+Procesando la linea 16
+- FILA 16 SE CARGARON: 672 MILLAS 
+Procesando la linea 17
+- FILA 17 SE CARGARON: 504 MILLAS 
+Procesando la linea 18
+- FILA 18 SE CARGARON: 504 MILLAS 
+Procesando la linea 19
+- FILA 19 SE CARGARON: 336 MILLAS 
+Procesando la linea 20
+- FILA 20 SE CARGARON: 252 MILLAS 
+Procesando la linea 21
+- FILA 21 SE CARGARON: 252 MILLAS 
+Procesando la linea 22
+- FILA 22 SE CARGARON: 288 MILLAS 
+Procesando la linea 23
+- FILA 23 SE CARGARON: 180 MILLAS 
+Procesando la linea 24
+- FILA 24 SE CARGARON: 0 MILLAS 
+Procesando la linea 25
+- FILA 25 SE CARGARON: 288 MILLAS 
+Procesando la linea 26
+- FILA 26 SE CARGARON: 216 MILLAS 
+Procesando la linea 27
+- FILA 27 SE CARGARON: 0 MILLAS 
+Procesando la linea 28
+- FILA 28 SE CARGARON: 209 MILLAS 
+Procesando la linea 29
+- FILA 29 SE CARGARON: 0 MILLAS 
+Procesando la linea 30
+- FILA 30 SE CARGARON: 0 MILLAS 
+Procesando la linea 31
+- FILA 31 SE CARGARON: 0 MILLAS 
+Procesando la linea 32
+- FILA 32 SE CARGARON: 160 MILLAS 
+Procesando la linea 33
+- FILA 33 SE CARGARON: 180 MILLAS 
+Procesando la linea 34
+- FILA 34 SE CARGARON: 1800 MILLAS 
+Procesando la linea 35
+- FILA 35 SE CARGARON: 0 MILLAS 
+Procesando la linea 36
+- FILA 36 SE CARGARON: 0 MILLAS 
+Procesando la linea 37
+- FILA 37 SE CARGARON: 672 MILLAS 
+Procesando la linea 38
+- FILA 38 SE CARGARON: 504 MILLAS 
+Procesando la linea 39
+- FILA 39 SE CARGARON: 504 MILLAS 
+Procesando la linea 40
+- FILA 40 SE CARGARON: 720 MILLAS 
+Procesando la linea 41
+- FILA 41 SE CARGARON: 540 MILLAS 
+Procesando la linea 42
+- FILA 42 SE CARGARON: 0 MILLAS 
+Procesando la linea 43
+- FILA 43 SE CARGARON: 644 MILLAS 
+Procesando la linea 44
+- FILA 44 SE CARGARON: 504 MILLAS 
+Procesando la linea 45
+- FILA 45 SE CARGARON: 504 MILLAS 
+Procesando la linea 46
+- FILA 46 SE CARGARON: 384 MILLAS 
+Procesando la linea 47
+- FILA 47 SE CARGARON: 0 MILLAS 
+Procesando la linea 48
+- FILA 48 SE CARGARON: 0 MILLAS 
+Procesando la linea 49
+- FILA 49 SE CARGARON: 1104 MILLAS 
+Procesando la linea 50
+- FILA 50 SE CARGARON: 0 MILLAS 
+Procesando la linea 51
+- FILA 51 SE CARGARON: 0 MILLAS 
+Procesando la linea 52
+- FILA 52 SE CARGARON: 1440 MILLAS 
+Procesando la linea 53
+- FILA 53 SE CARGARON: 1152 MILLAS 
+Procesando la linea 54
+- FILA 54 SE CARGARON: 1152 MILLAS 
+Procesando la linea 55
+- FILA 55 SE CARGARON: 1610 MILLAS 
+Procesando la linea 56
+- FILA 56 SE CARGARON: 1260 MILLAS 
+Procesando la linea 57
+- FILA 57 SE CARGARON: 1260 MILLAS 
+Procesando la linea 58
+- FILA 58 SE CARGARON: 209 MILLAS 
+Procesando la linea 59
+- FILA 59 SE CARGARON: 0 MILLAS 
+Procesando la linea 60
+- FILA 60 SE CARGARON: 0 MILLAS 
+Procesando la linea 61
+- FILA 61 SE CARGARON: 1104 MILLAS 
+Procesando la linea 62
+- FILA 62 SE CARGARON: 828 MILLAS 
+Procesando la linea 63
+- FILA 63 SE CARGARON: 0 MILLAS 
+Procesando la linea 64
+- FILA 64 SE CARGARON: 440 MILLAS 
+Procesando la linea 65
+- FILA 65 SE CARGARON: 0 MILLAS 
+Procesando la linea 66
+- FILA 66 SE CARGARON: 0 MILLAS 
+Procesando la linea 67
+- FILA 67 SE CARGARON: 0 MILLAS 
+Procesando la linea 68
+- FILA 68 SE CARGARON: 0 MILLAS 
+Procesando la linea 69
+- FILA 69 SE CARGARON: 0 MILLAS 
+Procesando la linea 70
+- FILA 70 SE CARGARON: 0 MILLAS 
+Procesando la linea 71
+- FILA 71 SE CARGARON: 0 MILLAS 
+Procesando la linea 72
+- FILA 72 SE CARGARON: 0 MILLAS 
+Procesando la linea 73
+- FILA 73 SE CARGARON: 816 MILLAS 
+Procesando la linea 74
+- FILA 74 SE CARGARON: 595 MILLAS 
+Procesando la linea 75
+- FILA 75 SE CARGARON: 612 MILLAS 
+Procesando la linea 76
+- FILA 76 SE CARGARON: 480 MILLAS 
+Procesando la linea 77
+- FILA 77 SE CARGARON: 360 MILLAS 
+Procesando la linea 78
+- FILA 78 SE CARGARON: 330 MILLAS 
+Procesando la linea 79
+- FILA 79 SE CARGARON: 352 MILLAS 
+Procesando la linea 80
+- FILA 80 SE CARGARON: 0 MILLAS 
+Procesando la linea 81
+- FILA 81 SE CARGARON: 0 MILLAS 
+Procesando la linea 82
+- FILA 82 SE CARGARON: 288 MILLAS 
+Procesando la linea 83
+- FILA 83 SE CARGARON: 216 MILLAS 
+Procesando la linea 84
+- FILA 84 SE CARGARON: 84 MILLAS 
+Procesando la linea 85
+- FILA 85 SE CARGARON: 306 MILLAS 
+Procesando la linea 86
+- FILA 86 SE CARGARON: 561 MILLAS 
+Procesando la linea 87
+- FILA 87 SE CARGARON: 0 MILLAS 
+Procesando la linea 88
+- FILA 88 SE CARGARON: 451 MILLAS 
+Procesando la linea 89
+- FILA 89 SE CARGARON: 396 MILLAS 
+Procesando la linea 90
+- FILA 90 SE CARGARON: 396 MILLAS 
+Procesando la linea 91
+- FILA 91 SE CARGARON: 288 MILLAS 
+Procesando la linea 92
+- FILA 92 SE CARGARON: 216 MILLAS 
+Procesando la linea 93
+- FILA 93 SE CARGARON: 0 MILLAS 
+Procesando la linea 94
+- FILA 94 SE CARGARON: 258 MILLAS 
+Procesando la linea 95
+- FILA 95 SE CARGARON: 216 MILLAS 
+Procesando la linea 96
+- FILA 96 SE CARGARON: 192 MILLAS 
+Procesando la linea 97
+- FILA 97 SE CARGARON: 336 MILLAS 
+Procesando la linea 98
+- FILA 98 SE CARGARON: 0 MILLAS 
+Procesando la linea 99
+- FILA 99 SE CARGARON: 0 MILLAS 
+Procesando la linea 100
+- FILA 100 SE CARGARON: 451 MILLAS 
+Procesando la linea 101
+- FILA 101 SE CARGARON: 0 MILLAS 
+Procesando la linea 102
+- FILA 102 SE CARGARON: 0 MILLAS 
+Procesando la linea 103
+- FILA 103 SE CARGARON: 301 MILLAS 
+Procesando la linea 104
+- FILA 104 SE CARGARON: 0 MILLAS 
+Procesando la linea 105
+- FILA 105 SE CARGARON: 0 MILLAS 
+Procesando la linea 106
+- FILA 106 SE CARGARON: 95 MILLAS 
+Procesando la linea 107
+- FILA 107 SE CARGARON: 0 MILLAS 
+Procesando la linea 108
+- FILA 108 SE CARGARON: 0 MILLAS 
+Procesando la linea 109
+- FILA 109 SE CARGARON: 120 MILLAS 
+Procesando la linea 110
+- FILA 110 SE CARGARON: 0 MILLAS 
+Procesando la linea 111
+- FILA 111 SE CARGARON: 0 MILLAS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 44 MILLAS 
+Procesando la linea 2
+- FILA 2 SE CARGARON: 36 MILLAS 
+Procesando la linea 3
+- FILA 3 SE CARGARON: 36 MILLAS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 41 MILLAS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 36 MILLAS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 36 MILLAS 
+Procesando la linea 7
+- FILA 7 SE CARGARON: 18 MILLAS 
+Procesando la linea 8
+- FILA 8 SE CARGARON: 36 MILLAS 
+Procesando la linea 9
+- FILA 9 SE CARGARON: 14 MILLAS 
+Procesando la linea 10
+- FILA 10 SE CARGARON: 48 MILLAS 
+Procesando la linea 11
+- FILA 11 SE CARGARON: 36 MILLAS 
+Procesando la linea 12
+- FILA 12 SE CARGARON: 30 MILLAS 
+Procesando la linea 13
+- FILA 13 SE CARGARON: 46 MILLAS 
+Procesando la linea 14
+- FILA 14 SE CARGARON: 36 MILLAS 
+Procesando la linea 15
+- FILA 15 SE CARGARON: 36 MILLAS 
+Procesando la linea 16
+- FILA 16 SE CARGARON: 48 MILLAS 
+Procesando la linea 17
+- FILA 17 SE CARGARON: 36 MILLAS 
+Procesando la linea 18
+- FILA 18 SE CARGARON: 34 MILLAS 
+Procesando la linea 19
+- FILA 19 SE CARGARON: 41 MILLAS 
+Procesando la linea 20
+- FILA 20 SE CARGARON: 36 MILLAS 
+Procesando la linea 21
+- FILA 21 SE CARGARON: 34 MILLAS 
+Procesando la linea 22
+- FILA 22 SE CARGARON: 43 MILLAS 
+Procesando la linea 23
+- FILA 23 SE CARGARON: 36 MILLAS 
+Procesando la linea 24
+- FILA 24 SE CARGARON: 34 MILLAS 
+Procesando la linea 25
+- FILA 25 SE CARGARON: 20 MILLAS 
+Procesando la linea 26
+- FILA 26 SE CARGARON: 36 MILLAS 
+Procesando la linea 27
+- FILA 27 SE CARGARON: 30 MILLAS 
+Procesando la linea 28
+- FILA 28 SE CARGARON: 47 MILLAS 
+Procesando la linea 29
+- FILA 29 SE CARGARON: 36 MILLAS 
+Procesando la linea 30
+- FILA 30 SE CARGARON: 36 MILLAS 
+Procesando la linea 31
+- FILA 31 SE CARGARON: 40 MILLAS 
+Procesando la linea 32
+- FILA 32 SE CARGARON: 36 MILLAS 
+Procesando la linea 33
+- FILA 33 SE CARGARON: 34 MILLAS 
+Procesando la linea 34
+- FILA 34 SE CARGARON: 42 MILLAS 
+Procesando la linea 35
+- FILA 35 SE CARGARON: 34 MILLAS 
+Procesando la linea 36
+- FILA 36 SE CARGARON: 35 MILLAS 
+Procesando la linea 37
+- FILA 37 SE CARGARON: 40 MILLAS 
+Procesando la linea 38
+- FILA 38 SE CARGARON: 36 MILLAS 
+Procesando la linea 39
+- FILA 39 SE CARGARON: 34 MILLAS 
+Procesando la linea 40
+- FILA 40 SE CARGARON: 48 MILLAS 
+Procesando la linea 41
+- FILA 41 SE CARGARON: 36 MILLAS 
+Procesando la linea 42
+- FILA 42 SE CARGARON: 36 MILLAS 
+Procesando la linea 43
+- FILA 43 SE CARGARON: 40 MILLAS 
+Procesando la linea 44
+- FILA 44 SE CARGARON: 36 MILLAS 
+Procesando la linea 45
+- FILA 45 SE CARGARON: 36 MILLAS 
+Procesando la linea 46
+- FILA 46 SE CARGARON: 44 MILLAS 
+Procesando la linea 47
+- FILA 47 SE CARGARON: 36 MILLAS 
+Procesando la linea 48
+- FILA 48 SE CARGARON: 34 MILLAS 
+Procesando la linea 49
+- FILA 49 SE CARGARON: 18 MILLAS 
+Procesando la linea 50
+- FILA 50 SE CARGARON: 36 MILLAS 
+Procesando la linea 51
+- FILA 51 SE CARGARON: 0 MILLAS 
+Procesando la linea 52
+- FILA 52 SE CARGARON: 18 MILLAS 
+Procesando la linea 53
+- FILA 53 SE CARGARON: 36 MILLAS 
+Procesando la linea 54
+- FILA 54 SE CARGARON: 35 MILLAS 
+Procesando la linea 55
+- FILA 55 SE CARGARON: 0 MILLAS 
+Procesando la linea 56
+- FILA 56 SE CARGARON: 30 MILLAS 
+Procesando la linea 57
+- FILA 57 SE CARGARON: 30 MILLAS 
+Procesando la linea 58
+- FILA 58 SE CARGARON: 43 MILLAS 
+Procesando la linea 59
+- FILA 59 SE CARGARON: 36 MILLAS 
+Procesando la linea 60
+- FILA 60 SE CARGARON: 0 MILLAS 
+Procesando la linea 61
+- FILA 61 SE CARGARON: 46 MILLAS 
+Procesando la linea 62
+- FILA 62 SE CARGARON: 36 MILLAS 
+Procesando la linea 63
+- FILA 63 SE CARGARON: 35 MILLAS 
+Procesando la linea 64
+- FILA 64 SE CARGARON: 44 MILLAS 
+Procesando la linea 65
+- FILA 65 SE CARGARON: 36 MILLAS 
+Procesando la linea 66
+- FILA 66 SE CARGARON: 30 MILLAS 
+Procesando la linea 67
+- FILA 67 SE CARGARON: 48 MILLAS 
+Procesando la linea 68
+- FILA 68 SE CARGARON: 36 MILLAS 
+Procesando la linea 69
+- FILA 69 SE CARGARON: 34 MILLAS 
+Procesando la linea 70
+- FILA 70 SE CARGARON: 45 MILLAS 
+Procesando la linea 71
+- FILA 71 SE CARGARON: 36 MILLAS 
+Procesando la linea 72
+- FILA 72 SE CARGARON: 13 MILLAS 
+Procesando la linea 73
+- FILA 73 SE CARGARON: 45 MILLAS 
+Procesando la linea 74
+- FILA 74 SE CARGARON: 34 MILLAS 
+Procesando la linea 75
+- FILA 75 SE CARGARON: 0 MILLAS 
+Procesando la linea 76
+- FILA 76 SE CARGARON: 40 MILLAS 
+Procesando la linea 77
+- FILA 77 SE CARGARON: 36 MILLAS 
+Procesando la linea 78
+- FILA 78 SE CARGARON: 0 MILLAS 
+Procesando la linea 79
+- FILA 79 SE CARGARON: 42 MILLAS 
+Procesando la linea 80
+- FILA 80 SE CARGARON: 36 MILLAS 
+Procesando la linea 81
+- FILA 81 SE CARGARON: 0 MILLAS 
+Procesando la linea 82
+- FILA 82 SE CARGARON: 48 MILLAS 
+Procesando la linea 83
+- FILA 83 SE CARGARON: 36 MILLAS 
+Procesando la linea 84
+- FILA 84 SE CARGARON: 36 MILLAS 
+Procesando la linea 85
+- FILA 85 SE CARGARON: 19 MILLAS 
+Procesando la linea 86
+- FILA 86 SE CARGARON: 36 MILLAS 
+Procesando la linea 87
+- FILA 87 SE CARGARON: 14 MILLAS 
+Procesando la linea 88
+- FILA 88 SE CARGARON: 43 MILLAS 
+Procesando la linea 89
+- FILA 89 SE CARGARON: 36 MILLAS 
+Procesando la linea 90
+- FILA 90 SE CARGARON: 14 MILLAS 
+Procesando la linea 91
+- FILA 91 SE CARGARON: 46 MILLAS 
+Procesando la linea 92
+- FILA 92 SE CARGARON: 36 MILLAS 
+Procesando la linea 93
+- FILA 93 SE CARGARON: 0 MILLAS 
+Procesando la linea 94
+- FILA 94 SE CARGARON: 48 MILLAS 
+Procesando la linea 95
+- FILA 95 SE CARGARON: 36 MILLAS 
+Procesando la linea 96
+- FILA 96 SE CARGARON: 36 MILLAS 
+Procesando la linea 97
+- FILA 97 SE CARGARON: 46 MILLAS 
+Procesando la linea 98
+- FILA 98 SE CARGARON: 36 MILLAS 
+Procesando la linea 99
+- FILA 99 SE CARGARON: 0 MILLAS 
+Procesando la linea 100
+- FILA 100 SE CARGARON: 44 MILLAS 
+Procesando la linea 101
+- FILA 101 SE CARGARON: 32 MILLAS 
+Procesando la linea 102
+- FILA 102 SE CARGARON: 32 MILLAS 
+Procesando la linea 103
+- FILA 103 SE CARGARON: 48 MILLAS 
+Procesando la linea 104
+- FILA 104 SE CARGARON: 36 MILLAS 
+Procesando la linea 105
+- FILA 105 SE CARGARON: 36 MILLAS 
+Procesando la linea 106
+- FILA 106 SE CARGARON: 48 MILLAS 
+Procesando la linea 107
+- FILA 107 SE CARGARON: 36 MILLAS 
+Procesando la linea 108
+- FILA 108 SE CARGARON: 32 MILLAS 
+Procesando la linea 109
+- FILA 109 SE CARGARON: 41 MILLAS 
+Procesando la linea 110
+- FILA 110 SE CARGARON: 35 MILLAS 
+Procesando la linea 111
+- FILA 111 SE CARGARON: 32 MILLAS 
+Procesando la linea 112
+- FILA 112 SE CARGARON: 48 MILLAS 
+Procesando la linea 113
+- FILA 113 SE CARGARON: 36 MILLAS 
+Procesando la linea 114
+- FILA 114 SE CARGARON: 32 MILLAS 
+Procesando la linea 115
+- FILA 115 SE CARGARON: 48 MILLAS 
+Procesando la linea 116
+- FILA 116 SE CARGARON: 36 MILLAS 
+Procesando la linea 117
+- FILA 117 SE CARGARON: 36 MILLAS 
+Procesando la linea 118
+- FILA 118 SE CARGARON: 48 MILLAS 
+Procesando la linea 119
+- FILA 119 SE CARGARON: 36 MILLAS 
+Procesando la linea 120
+- FILA 120 SE CARGARON: 36 MILLAS 
+Procesando la linea 121
+- FILA 121 SE CARGARON: 40 MILLAS 
+Procesando la linea 122
+- FILA 122 SE CARGARON: 36 MILLAS 
+Procesando la linea 123
+- FILA 123 SE CARGARON: 36 MILLAS 
+Procesando la linea 124
+- FILA 124 SE CARGARON: 46 MILLAS 
+Procesando la linea 125
+- FILA 125 SE CARGARON: 36 MILLAS 
+Procesando la linea 126
+- FILA 126 SE CARGARON: 36 MILLAS 
+Procesando la linea 127
+- FILA 127 SE CARGARON: 48 MILLAS 
+Procesando la linea 128
+- FILA 128 SE CARGARON: 36 MILLAS 
+Procesando la linea 129
+- FILA 129 SE CARGARON: 36 MILLAS 
+Procesando la linea 130
+- FILA 130 SE CARGARON: 20 MILLAS 
+Procesando la linea 131
+- FILA 131 SE CARGARON: 36 MILLAS 
+Procesando la linea 132
+- FILA 132 SE CARGARON: 33 MILLAS 
+Procesando la linea 133
+- FILA 133 SE CARGARON: 43 MILLAS 
+Procesando la linea 134
+- FILA 134 SE CARGARON: 36 MILLAS 
+Procesando la linea 135
+- FILA 135 SE CARGARON: 36 MILLAS 
+Procesando la linea 136
+- FILA 136 SE CARGARON: 20 MILLAS 
+Procesando la linea 137
+- FILA 137 SE CARGARON: 36 MILLAS 
+Procesando la linea 138
+- FILA 138 SE CARGARON: 33 MILLAS 

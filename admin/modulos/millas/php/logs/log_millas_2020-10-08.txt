@@ -1,0 +1,12 @@
+Procesando la linea 2
+- FILA 2 SE CARGARON: 45 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO 283</font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 45 MILLAS 
+Procesando la linea 2
+- FILA 2 SE CARGARON: 435 MILLAS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 433 MILLAS 
+Procesando la linea 2
+- FILA 2 SE CARGARON: 434 MILLAS 
+Procesando la linea 3
+- FILA 3 SE CARGARON: 435 MILLAS 

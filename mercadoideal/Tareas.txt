@@ -1,0 +1,84 @@
+﻿GRo7BNfSHWcTnHFG
+
+https://gitlab.com/apernet/mercadoideal.git
+
+
+PORTAL MI:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*** - quitar el cuit como requisito del proceso de registro
+
+- crear cuenta y ver video 
+
+*** - categorías variables y dinámicas: (van a ser mas que nada regionales)
+	*** - un usuario puede ser solo de una categorias
+	*** - un premio puede estar disponible para una o varias categorias
+	*** - cambios en back y front
+	
+- cambio de categoria manual y por csv en panel.
+	- hacer log dinamico de esto.
+	
+*** - reformar el novedades como TIPS
+	*** - acceso directo a url de TIP o NOT cuando se comparte en redes. 
+	*** - Se pide logueo pero se redirecciona al contenido.
+	
+*** - carga manual de puntos
+
+MAS ADELANTE PRE-PORTAL:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- cada contenido (de cualquier seccion) puede ser segmentado para una o varias secciones y para ambos o distri o directa.
+- cada contenido ademas puede tener un acceso exclusivo para una serie de usuarios. (importados desde un csv)
+- el login pasa a aca, no se hace doble login.
+- se requiere que accedan a Q+ sin necesidad de re-loguearse.
+- consultas - panel respuestas
+
+TAREAS A REALIZAR PARA MERCADO IDEAL
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+De ahora en mas un supermercado (clientes) va a pertenecer a una “categoría de cliente” y cada premio va a estar asociado a ninguna, una o varias categorías. 
+Entonces:
+A – crear tabla “grupos” idgrupo, nombre, descripción. (HECHO)
+B – crear el campo idgrupo en la tabla clientes (HECHO)
+C – crear la tabla premios_grupos idpremio_grupo, idpremio, idgrupo (HECHO)
+D – crear el modulo de “grupos del clientes” (HECHO)
+E – editar el modulo de clientes para agregar el combo de grupos y que se pueda filtrar en listado por grupo (HECHO)
+F – en premios en la edición debería: ser tipo cedes cuando un usuario se relaciona con centros. Es decir conjunto de checkbox. (HECHO)
+
+-	Al menu categorias renombrarlo a categorías de premios, y moverlo a arriba de premios y grupo de sumermercados arroba de supermercados. (HECHO)
+-	Al crear un grupo (si edite antes) le queda la descripción del anterior (HECHO)
+-	Nombre chino y descripción chino al grupo (HECHO)
+
+-	En supermercados: El combo que arranque con “seleccione el grupo al que pertenece ” (HECHO)
+-	En premios al editar o agregar: si no selecciono ninguno avisar que debe seleccionar al menos uno. (HECHO)
+
+FRONT END:
+-	Si un usuario (super) no tiene grupo asignado entonces que se le asigne la sesión de id grupo ponerla en valor cero. 
+-	Si tiene un grupo todo lo que vea en cuanto a premios debe tener la condicion de relacionarse con su grupo
+o	Ej:	function getPremiosHomeDestacados()
+	Antes: 
+	- $sql = 'select p.idpremio, p.nombre, p.nombre_ch, p.imagen, p.valor, p.chances from premios p where p.estado = "P" and destacado = "S" order by p.idpremio desc limit 4 ';
+	Ahora:
+	- $sql = 'select p.idpremio, p.nombre, p.nombre_ch, p.imagen, p.valor, p.chances from premios p, premios_grupos pg where p.estado = "P" and destacado = "S" and p.idpremio = pg.idpremio and pg.idgrupo = 5 order by p.idpremio desc limit 4 ';
+(HECHO)
+
+CAMBIOS EN LA DDBB
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CREATE TABLE `grupos` (                                            
+	`idgrupo` bigint(20) NOT NULL AUTO_INCREMENT,                    
+	`nombre` varchar(250) CHARACTER SET utf8 DEFAULT NULL,           
+	`nombre_ch` varchar(250) CHARACTER SET utf8 DEFAULT NULL,        
+	`descripcion` varchar(1000) CHARACTER SET utf8 DEFAULT NULL,     
+	`descripcion_ch` varchar(1000) CHARACTER SET utf8 DEFAULT NULL,  
+	PRIMARY KEY (`idgrupo`)                                          
+)
+
+CREATE TABLE `premios_grupos` (                           
+	`idpremio_grupo` bigint(20) NOT NULL AUTO_INCREMENT,    
+	`idpremio` bigint(20) NOT NULL,                         
+	`idgrupo` bigint(20) NOT NULL,                          
+	PRIMARY KEY (`idpremio_grupo`)                          
+) 
+								
+05.12.2018 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+En Mercado Ideal se trabaja el concepto de stock real (ver que en el panel se lista o en el frnt end se consulta antes de efectivizar un premio), nos piden una "despublicacion automatica" cuando un premio no tiene stock, lo que vamos a hacer es que cuando vas a ver el detalle de un premio, aun sin solicitar el canje, vamos a consultar el stock real ($stock = $pre->getStockReal($idp)) y si no es mayor a cero, entonces vamos a modificar el premio poniendolo como no publicado, y vamos a sacarlo al raiz. Luego ese premio ya no aparecera para nadie hasta que alguien le ponga stock y lo vuelva a publicar.
+MODIFICACIONES:
+- Y:\001_mercado-ideal\premio_detalle.php
+- Y:\001_mercado-ideal\admin\php\class\class.premio.php

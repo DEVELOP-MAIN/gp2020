@@ -1,0 +1,742 @@
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-23 11:41-0300\n"
+"PO-Revision-Date: 2017-03-30 15:04-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: Z:\001_mercado-ideal\index.php
+msgid "Entrar"
+msgstr "进入"
+
+msgid "Ingresar"
+msgstr "登录页面"
+
+msgid "&iquest;Olividaste tu clave?"
+msgstr "忘记密码"
+
+msgid "&iquest;A&uacute;n no est&aacute;s participando del programa?"
+msgstr "您加入梦想商城了吗?"
+
+msgid "Crear una cuenta"
+msgstr "注册帐号"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:61 Z:\001_mercado-ideal\cabecera.php:66 Z:\001_mercado-ideal\cabecera.php:97
+msgid "Balance de puntos"
+msgstr "换奖明细"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:71
+msgid "Ingresos por WeChat"
+msgstr "微信任务积分"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:72
+msgid "Ingresos por Auditoria Trimestral"
+msgstr "每季审查积分"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:73
+msgid "Ingresos por Cobertura"
+msgstr "产品齊全积分"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:74
+msgid "Ingresos por Volumen"
+msgstr "点货积分"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:74
+msgid "&iquest;C&oacute;mo sumar puntos?"
+msgstr "如何赚取积分?"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:75
+msgid "Ingresos Varios"
+msgstr "其它积分"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:76
+msgid "Canjes"
+msgstr "已兑换点数"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:77 Z:\001_mercado-ideal\balance_puntos.php:140
+msgid "Saldo"
+msgstr "积分余额"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:83
+msgid "MERCADO IDEAL, UN PROGRAMA PARA UN PUNTO DE VENTA IDEAL,<br/>COMO EL TUYO!!!"
+msgstr "梦想商城，为优良商户打告的福利系统"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:89
+msgid "&Uacute;ltimos movimientos"
+msgstr "最近明细"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:95
+msgid "Fecha"
+msgstr "日期"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:96
+msgid "Concepto"
+msgstr "内容"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:97
+msgid "Puntos"
+msgstr "点数"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:146
+msgid "Descargar Movimientos Hist&oacute;ricos"
+msgstr "下载历史明细"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:158 Z:\001_mercado-ideal\canjes_realizados.php:120
+#: Z:\001_mercado-ideal\contacto.php:94 Z:\001_mercado-ideal\datos_personales.php:208 Z:\001_mercado-ideal\el_programa.php:88
+#: Z:\001_mercado-ideal\home.php:285 Z:\001_mercado-ideal\novedades.php:70 Z:\001_mercado-ideal\novedades_detalle.php:126
+#: Z:\001_mercado-ideal\premio_detalle.php:257 Z:\001_mercado-ideal\premios.php:162
+msgid "Bases y Condiciones"
+msgstr "声明和条件"
+
+#: Z:\001_mercado-ideal\balance_puntos.php:159 Z:\001_mercado-ideal\canjes_realizados.php:121
+#: Z:\001_mercado-ideal\contacto.php:95 Z:\001_mercado-ideal\datos_personales.php:209 Z:\001_mercado-ideal\el_programa.php:89
+#: Z:\001_mercado-ideal\home.php:286 Z:\001_mercado-ideal\novedades.php:71 Z:\001_mercado-ideal\novedades_detalle.php:127
+#: Z:\001_mercado-ideal\premio_detalle.php:258 Z:\001_mercado-ideal\premios.php:163
+msgid "Bases Legales"
+msgstr "法律条例"
+
+#: Z:\001_mercado-ideal\cabecera.php:18
+msgid "INICIO"
+msgstr "首页"
+
+#: Z:\001_mercado-ideal\cabecera.php:21
+msgid "PREMIOS"
+msgstr "奖品"
+
+#: Z:\001_mercado-ideal\cabecera.php:24
+msgid "EL PROGRAMA"
+msgstr "商城系统"
+
+#: Z:\001_mercado-ideal\cabecera.php:27
+msgid "NOVEDADES"
+msgstr "最新信息"
+
+#: Z:\001_mercado-ideal\cabecera.php:30
+msgid "CONTACTO"
+msgstr "联系方式"
+
+#: Z:\001_mercado-ideal\cabecera.php:44 Z:\001_mercado-ideal\cabecera.php:74
+msgid "Bienvenido"
+msgstr "欢迎"
+
+#: Z:\001_mercado-ideal\cabecera.php:45 Z:\001_mercado-ideal\cabecera.php:75 Z:\001_mercado-ideal\home.php:132
+#: Z:\001_mercado-ideal\premios.php:95
+msgid "puntos"
+msgstr "点"
+
+#: Z:\001_mercado-ideal\cabecera.php:46
+msgid "Ranking:"
+msgstr "排名"
+
+#: Z:\001_mercado-ideal\cabecera.php:46
+msgid "Est&aacute;s en el puesto"
+msgstr "位"
+
+#: Z:\001_mercado-ideal\cabecera.php:52 Z:\001_mercado-ideal\cabecera.php:83 Z:\001_mercado-ideal\datos_personales.php:125
+msgid "Datos personales"
+msgstr "个人信息"
+
+#: Z:\001_mercado-ideal\cabecera.php:59 Z:\001_mercado-ideal\cabecera.php:90
+msgid "Canjes realizados"
+msgstr "已换奖品"
+
+#: Z:\001_mercado-ideal\cabecera.php:69 Z:\001_mercado-ideal\cabecera.php:76
+msgid "SALIR"
+msgstr "登出"
+
+#: Z:\001_mercado-ideal\cabecera.php:77
+msgid "Ranking: Est&aacute;s en el puesto"
+msgstr "您目前的排名名为："
+
+#: Z:\001_mercado-ideal\canjes_realizados.php:54
+msgid "Canjes Realizados"
+msgstr "已换奖品"
+
+#: Z:\001_mercado-ideal\canjes_realizados.php:89
+msgid "Estado:"
+msgstr "状态"
+
+#: Z:\001_mercado-ideal\canjes_realizados.php:92
+msgid "Dirección de entrega"
+msgstr "宅配地址"
+
+#: Z:\001_mercado-ideal\canjes_realizados.php:95
+msgid "Vaucher enviado a"
+msgstr "奖品兑换卷已发送至："
+
+#: Z:\001_mercado-ideal\canjes_realizados.php:98
+msgid "Sumaste"
+msgstr "您增加了"
+
+#: Z:\001_mercado-ideal\canjes_realizados.php:98
+msgid "chances para el sorteo"
+msgstr "抽奖机会"
+
+#: Z:\001_mercado-ideal\canjes_realizados.php:108
+msgid "A&#250;n no has realizado canjes"
+msgstr "您尚未兑换任何奖品"
+
+#: Z:\001_mercado-ideal\contacto.php:61
+msgid "Contacto"
+msgstr "留言"
+
+#: Z:\001_mercado-ideal\contacto.php:68
+msgid "Env&iacute;enos su consulta, un operador le respondera en breve"
+msgstr "请留下您的询问，我们的服务人员会尽快给予回复"
+
+#: Z:\001_mercado-ideal\contacto.php:76
+msgid "Enviar"
+msgstr "发送"
+
+#: Z:\001_mercado-ideal\contacto.php:81
+msgid "Su mensaje fue enviado correctamente"
+msgstr "您的留言已成功发送"
+
+#: Z:\001_mercado-ideal\contacto.php:116 Z:\001_mercado-ideal\contacto.php:118
+msgid "Ingrese un mensaje"
+msgstr "内容"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:97
+msgid "No encontramos un usuario con los datos proporcionados. Por favor, verifique"
+msgstr "您所输入的用户不存在，请检查"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:99
+msgid "Ingrese los siguientes datos para adherirse al programa"
+msgstr "平台注册：请输入下列信息"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:105
+msgid "C&oacute;digo de cliente"
+msgstr "客户号码"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:107
+msgid "Este es tu c&oacute;digo de cliente con la empresa. Deben haberte informado de esto."
+msgstr "您在QUILMES系统里的专属号码。"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:115
+msgid "CUIT (sin guiones ni espacio)"
+msgstr "税号(无空格和标点符号)"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:117
+msgid "Tu CUIT (Clave unica tributaria) ingresa solo los n&uacute;meros, sin espacios ni guiones."
+msgstr "您的税务号为全数字组成，无空格和标点符号。"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:125
+msgid "C&oacute;digo &uacute;nico"
+msgstr "活动唯一编码"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:127
+msgid "Este es tu c&oacute;digo &uacute;nico para el programa. Deben haberte informado de esto."
+msgstr "参與本活动用户的唯一编码"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:135 Z:\001_mercado-ideal\crear_cuenta.php:178
+#: Z:\001_mercado-ideal\datos_cuenta.php:213
+msgid "Continuar"
+msgstr "下一步"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:150
+msgid "Ya existe un usuario con este email en el programa"
+msgstr "此邮件已被注册"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:152
+msgid "Ingrese su email y genere una clave para su cuenta en el programa"
+msgstr "请输入您的邮箱地址并设定您的密码"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:155
+msgid "Es importante que ingrese el email que utiliza dado que le llegar&aacute; comunicaci&oacute;n importante y algunos premios. Necesitar&aacute; recordar su email para poder ingresar."
+msgstr "注册本平台需要使用到电子邮箱。请输入可用邮箱。部份奖品礼卷和重要信息会透过邮件发送。"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:160 Z:\001_mercado-ideal\datos_cuenta.php:157
+msgid "Email"
+msgstr "邮件"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:166 Z:\001_mercado-ideal\datos_cuenta.php:125
+msgid "Clave"
+msgstr "密码"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:172
+msgid "Reingrese la Clave"
+msgstr "重新输入密码"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:190
+msgid "Crear cuenta"
+msgstr "注册帐号"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:191
+msgid "Gracias por ingresar al programa."
+msgstr "感谢您加入本活动"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:193
+msgid "Para completar el proceso de registraci&oacute;n ingrese a su casilla de email y siga las instrucciones que le enviamos"
+msgstr "请输入下列信息"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:213 Z:\001_mercado-ideal\crear_cuenta.php:215
+msgid "Ingrese el codigo de cliente"
+msgstr "请输入客户号"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:219 Z:\001_mercado-ideal\crear_cuenta.php:221
+msgid "Ingrese su cuit"
+msgstr "请输入税号(cuit)"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:225 Z:\001_mercado-ideal\crear_cuenta.php:227
+msgid "Ingrese el codigo unico que le fue entregado"
+msgstr "请输入活动唯一编码"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:236 Z:\001_mercado-ideal\crear_cuenta.php:238
+msgid "Ingrese el email"
+msgstr "请输入邮件地址"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:239 Z:\001_mercado-ideal\datos_personales.php:257
+msgid "No es una cuenta de email valida"
+msgstr "您输入的邮件地址无效"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:243
+msgid "Ingrese la clave seleccionada"
+msgstr "密码设定"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:245 Z:\001_mercado-ideal\crear_cuenta.php:251
+msgid "Ingrese la clave"
+msgstr "请输入您的密码"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:249
+msgid "Ingrese nuevamente la clave seleccionada"
+msgstr "重新输入"
+
+#: Z:\001_mercado-ideal\crear_cuenta.php:252
+msgid "No coincide con la clave anteriormente ingresada"
+msgstr "您所输入的密码不符合"
+
+#: Z:\001_mercado-ideal\datos_cuenta.php:110
+msgid "Confirmar datos de tu cuenta"
+msgstr "确认"
+
+#: Z:\001_mercado-ideal\datos_cuenta.php:111
+msgid "A continuaci&oacute;n le pedimos que complete o actualice la siguiente informaci&oacute;n de su negocio"
+msgstr "请输入商户信息"
+
+#: Z:\001_mercado-ideal\datos_cuenta.php:117
+msgid "Raz&oacute;n Social"
+msgstr "注册商户名"
+
+#: Z:\001_mercado-ideal\datos_cuenta.php:133
+msgid "Nombre"
+msgstr "名"
+
+#: Z:\001_mercado-ideal\datos_cuenta.php:141
+msgid "Apellido"
+msgstr "姓"
+
+#: Z:\001_mercado-ideal\datos_cuenta.php:149
+msgid "CUIT"
+msgstr "税号(cuit)"
+
+#: Z:\001_mercado-ideal\datos_cuenta.php:165
+msgid "Tel&#233;fono m&#243;vil"
+msgstr "手机电话"
+
+#: Z:\001_mercado-ideal\datos_cuenta.php:173
+msgid "Tel&#233;fono fijo"
+msgstr "家用电话"
+
+#: Z:\001_mercado-ideal\datos_cuenta.php:181
+msgid "Domicilio"
+msgstr "地址"
+
+#: Z:\001_mercado-ideal\datos_cuenta.php:181
+msgid "Es importante que este bien completa la dirección del Punto de Venta"
+msgstr "请正确输入商店地址"
+
+#: Z:\001_mercado-ideal\datos_cuenta.php:189
+msgid "Provincia"
+msgstr "省份"
+
+#: Z:\001_mercado-ideal\datos_cuenta.php:197
+msgid "Localidad"
+msgstr "城镇"
+
+#: Z:\001_mercado-ideal\datos_cuenta.php:205
+msgid "C&#243;digo Postal"
+msgstr "邮政编码"
+
+#: Z:\001_mercado-ideal\datos_personales.php:133
+msgid "Aqu&iacute; puede modificar sus datos personales."
+msgstr "个人信息修改"
+
+#: Z:\001_mercado-ideal\datos_personales.php:134
+msgid "C&oacute;digo de Cliente:"
+msgstr "客户编码"
+
+#: Z:\001_mercado-ideal\datos_personales.php:135
+msgid "C&oacute;digo &Uacute;nico:"
+msgstr "活动唯一编码"
+
+#: Z:\001_mercado-ideal\datos_personales.php:136
+msgid "Tus datos se guardaron correctamente"
+msgstr "您的信息已成功存档"
+
+#: Z:\001_mercado-ideal\datos_personales.php:140
+msgid "Raz&oacute;n Social:"
+msgstr "注册商户名"
+
+#: Z:\001_mercado-ideal\datos_personales.php:144
+msgid "CUIT:"
+msgstr "税号(cuit)"
+
+#: Z:\001_mercado-ideal\datos_personales.php:150
+msgid "Nombre:"
+msgstr "名:"
+
+#: Z:\001_mercado-ideal\datos_personales.php:154
+msgid "Apellido:"
+msgstr "姓:"
+
+#: Z:\001_mercado-ideal\datos_personales.php:158
+msgid "Email:"
+msgstr "邮件:"
+
+#: Z:\001_mercado-ideal\datos_personales.php:162
+msgid "Domicilio:"
+msgstr "地址:"
+
+#: Z:\001_mercado-ideal\datos_personales.php:167 Z:\001_mercado-ideal\premio_detalle.php:209
+msgid "Provincia:"
+msgstr "省份"
+
+#: Z:\001_mercado-ideal\datos_personales.php:171 Z:\001_mercado-ideal\premio_detalle.php:214
+msgid "Localidad:"
+msgstr "城镇"
+
+#: Z:\001_mercado-ideal\datos_personales.php:175
+msgid "C&#243;digo Postal:"
+msgstr "邮政编码"
+
+#: Z:\001_mercado-ideal\datos_personales.php:180
+msgid "Tel&#233;fono fijo:"
+msgstr "家用电话"
+
+#: Z:\001_mercado-ideal\datos_personales.php:184
+msgid "Tel&#233;fono m&#243;vil:"
+msgstr "行动电话"
+
+#: Z:\001_mercado-ideal\datos_personales.php:188
+msgid "Clave:"
+msgstr "密码"
+
+#: Z:\001_mercado-ideal\datos_personales.php:188
+msgid "puede cambiar su clave"
+msgstr "密码修改"
+
+#: Z:\001_mercado-ideal\datos_personales.php:195
+msgid "Guardar mis datos"
+msgstr "存档"
+
+#: Z:\001_mercado-ideal\datos_personales.php:227
+msgid "No es valido"
+msgstr "非有效信息"
+
+#: Z:\001_mercado-ideal\datos_personales.php:230
+msgid "Ingres&#225; la razon social"
+msgstr ""
+
+#: Z:\001_mercado-ideal\datos_personales.php:232
+msgid "Ingres&#225; tu razon social"
+msgstr "请输入注册商户名"
+
+#: Z:\001_mercado-ideal\datos_personales.php:236
+msgid "Ingres&#225; el CUIT"
+msgstr "请输入税号"
+
+#: Z:\001_mercado-ideal\datos_personales.php:238
+msgid "Ingres&#225; tu CUIT"
+msgstr "请输入税号"
+
+#: Z:\001_mercado-ideal\datos_personales.php:242
+msgid "Ingres&#225; el nombre"
+msgstr "名"
+
+#: Z:\001_mercado-ideal\datos_personales.php:244
+msgid "Ingres&#225; tu nombre"
+msgstr "名"
+
+#: Z:\001_mercado-ideal\datos_personales.php:248
+msgid "Ingres&#225; el apellido"
+msgstr "姓"
+
+#: Z:\001_mercado-ideal\datos_personales.php:250
+msgid "Ingres&#225; tu apellido"
+msgstr "姓"
+
+#: Z:\001_mercado-ideal\datos_personales.php:254 Z:\001_mercado-ideal\datos_personales.php:256
+msgid "Ingres&#225; el email"
+msgstr "邮箱"
+
+#: Z:\001_mercado-ideal\datos_personales.php:261 Z:\001_mercado-ideal\datos_personales.php:263
+msgid "Indic&#225; la clave"
+msgstr "密码"
+
+#: Z:\001_mercado-ideal\el_programa.php:33
+msgid "El Programa"
+msgstr "活动"
+
+#: Z:\001_mercado-ideal\el_programa.php:40
+msgid "&iquest;Qu&eacute; es Mercado Ideal?"
+msgstr "什么是梦想商城"
+
+#: Z:\001_mercado-ideal\el_programa.php:41
+msgid "Mercado Ideal es un programa para PDV Ideal. Un programa de fidelizaci&oacute;n exclusivo que Quilmes le brinda a los mejores autoservicios del pa&iacute;s."
+msgstr "梦想商城是为全国优良商户打造的专属福利系统"
+
+#: Z:\001_mercado-ideal\el_programa.php:44
+msgid "Dentro del programa ten&eacute;s excelentes beneficios"
+msgstr "本系统中提供许许多多的福利"
+
+#: Z:\001_mercado-ideal\el_programa.php:46
+msgid "Descuentos y negociaciones de precios especiales"
+msgstr "还有特别的折扣!"
+
+#: Z:\001_mercado-ideal\el_programa.php:47
+msgid "KIT DE BIENVENIDA"
+msgstr "加入就送的礼包"
+
+#: Z:\001_mercado-ideal\el_programa.php:47
+msgid "(se&ntilde;al&eacute;tica, canastos,  porta canastos, remeras, buzos y m&aacute;s!)"
+msgstr "(特制告示牌、购物籃、购物籃放置柜、帽T、T恤等众多好礼)"
+
+#: Z:\001_mercado-ideal\el_programa.php:48
+msgid "INVERSIONES en equipos y materiales para tu  PDV"
+msgstr "我们为您的商店置购的设备和商柜"
+
+#: Z:\001_mercado-ideal\el_programa.php:49
+msgid "Comunicaci&oacute;n directa a trav&eacute;s de WeChat en tu  propio idioma!"
+msgstr "活动微信中文服务"
+
+#: Z:\001_mercado-ideal\el_programa.php:56
+msgid "Sumas puntos comprando nuestros productos, exhibi&eacute;ndolos  adecuadamente y completando desaf&iacute;os en WeChat. Para participar de los  desaf&iacute;os, ten&eacute;s que seguir a nuestra cuenta oficial de WeChat!"
+msgstr "透过购买我们的商品、正确的展示它们还有完成微信挑战任务，您将轻松带走许多点数。"
+
+#: Z:\001_mercado-ideal\el_programa.php:58
+msgid "Ir a tu balance de puntos"
+msgstr "换奖明细"
+
+#: Z:\001_mercado-ideal\el_programa.php:62
+msgid "Los puntos que acumulas los pod&eacute;s canjear por"
+msgstr "您所赚取的积分可以用来换"
+
+#: Z:\001_mercado-ideal\el_programa.php:62
+msgid "premios y beneficios"
+msgstr "奖品和折扣"
+
+#: Z:\001_mercado-ideal\el_programa.php:62
+msgid "para vos o tu local a trav&eacute;s de este mismo portal!"
+msgstr "不管是个人使用或是商店需要"
+
+#: Z:\001_mercado-ideal\el_programa.php:65
+msgid "&iquest;Quer&eacute;s saber c&oacute;mo sumar puntos? Con Mercado Ideal es muy  f&aacute;cil ganar"
+msgstr "想知道怎么赚积分吗? 梦想商城让您简单带走许多大奖!"
+
+#: Z:\001_mercado-ideal\el_programa.php:67
+msgid "Si compras +20% que el a&ntilde;o anterior, sumas"
+msgstr "果您的订单量比去年大20%"
+
+#: Z:\001_mercado-ideal\el_programa.php:67
+msgid "500 puntos mensuales"
+msgstr "您将可以每月额外获得500点"
+
+#: Z:\001_mercado-ideal\el_programa.php:67
+msgid "Participan todas nuestras cervezas!"
+msgstr "我们所有的啤酒产品系列都可参加"
+
+#: Z:\001_mercado-ideal\el_programa.php:68
+msgid "Comprando todas nuestras latas de cerveza y botellitas de 330/340ml"
+msgstr "下单购买300/340毫升铝罐和小瓶装啤酒"
+
+#: Z:\001_mercado-ideal\el_programa.php:68
+msgid "sumas 200 puntos mensuales"
+msgstr "可以每月额外获得200点"
+
+#: Z:\001_mercado-ideal\el_programa.php:69
+msgid "Cuando te coloquen la heladera especial de calibres peque&ntilde;os de cerveza, sumas por &uacute;nica vez"
+msgstr "如果您有安装小包装啤酒展示冰箱, 将可以获得唯一性额外"
+
+#: Z:\001_mercado-ideal\el_programa.php:69
+msgid "500 puntos."
+msgstr "500点"
+
+#: Z:\001_mercado-ideal\el_programa.php:70
+msgid "Como ya sabes, tenemos desaf&iacute;os semanales."
+msgstr "完成每周积分任务"
+
+#: Z:\001_mercado-ideal\el_programa.php:70
+msgid "Esta es la variable que mas suma!! Segu&iacute;nos en WeChat para turbinar tus puntos!!! Todas las semanas tendr&aacute;s un nuevo desaf&iacute;o para cumplir, de cervezas y gaseosas. Cada desaf&iacute;o semanal sumar&aacute; 300 puntos, es decir,"
+msgstr "快速积累点数! 每周我们会在微信订阅号上推出价值300点的啤酒或汽水积分任务 "
+
+#: Z:\001_mercado-ideal\el_programa.php:70
+msgid "1200 puntos mensuales!"
+msgstr "也就是说每月最多可以获得1200点!"
+
+#: Z:\001_mercado-ideal\el_programa.php:71
+msgid "Una vez por trimestre un auditor encubierto visitar&aacute; tu punto de venta. Si tenes bien ejecutadas las g&oacute;ndolas de cerveza y gaseosas, sus heladeras, los precios est&aacute;n en l&iacute;nea con los par&aacute;metros sugeridos, y tenes colocado el regalo de bienvenida al programa, sumar&aacute;s "
+msgstr "每三个月会有一位特派专员上门拜访您的商店，查看您的啤酒和汽水货架、冰箱是否符合我们的要求。同 时，也会检查产品标价是否有符合公司提供的建议售价和是否有安装商城礼包里的告示牌。如果一切符合要求，"
+
+#: Z:\001_mercado-ideal\el_programa.php:71
+msgid "3500 puntos cada 3 meses!"
+msgstr "您每三个月将可以获得3500点"
+
+#: Z:\001_mercado-ideal\el_programa.php:75
+msgid "MERCADO IDEAL, UN PROGRAMA PARA UN PUNTO DE VENTA IDEAL,  COMO EL TUYO!!!"
+msgstr "梦想商城，优良客户专属福利系统。"
+
+#: Z:\001_mercado-ideal\home.php:102 Z:\001_mercado-ideal\premios.php:63
+msgid "Premios"
+msgstr "奖品"
+
+#: Z:\001_mercado-ideal\home.php:106 Z:\001_mercado-ideal\premios.php:68
+msgid "Buscar entre"
+msgstr "筛选"
+
+#: Z:\001_mercado-ideal\home.php:119
+msgid "y"
+msgstr "和"
+
+#: Z:\001_mercado-ideal\home.php:135 Z:\001_mercado-ideal\premios.php:98
+msgid "Todas las Campa&ntilde;as"
+msgstr "所有活动"
+
+#: Z:\001_mercado-ideal\home.php:146 Z:\001_mercado-ideal\premios.php:109
+msgid "Ingrese una palabra"
+msgstr "请输入关键字"
+
+#: Z:\001_mercado-ideal\home.php:148 Z:\001_mercado-ideal\premios.php:111
+msgid "BUSCAR"
+msgstr "寻找"
+
+#: Z:\001_mercado-ideal\home.php:160
+msgid "Resultados de la b&uacute;squeda"
+msgstr "结果"
+
+#: Z:\001_mercado-ideal\home.php:161 Z:\001_mercado-ideal\home.php:191 Z:\001_mercado-ideal\home.php:221
+#: Z:\001_mercado-ideal\home.php:249
+msgid "Ver todo"
+msgstr "全部"
+
+#: Z:\001_mercado-ideal\home.php:190
+msgid "&Uacute;ltimos agregados"
+msgstr "新加入奖品"
+
+#: Z:\001_mercado-ideal\home.php:220
+msgid "M&aacute;s populares"
+msgstr "火热奖品"
+
+#: Z:\001_mercado-ideal\home.php:248
+msgid "A tu alcance"
+msgstr "可换奖品"
+
+#: Z:\001_mercado-ideal\novedades.php:35 Z:\001_mercado-ideal\novedades_detalle.php:70
+msgid "Novedades"
+msgstr "最新信息"
+
+#: Z:\001_mercado-ideal\novedades_detalle.php:71
+msgid "VOLVER"
+msgstr "上一页"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:46
+msgid "El canje fue realizado con &eacute;xito, puedes verlo en la secci&oacute;n <a href=\"canjes_realizados.php\"> Canjes Realizados </a>"
+msgstr "兑换成功。您可以在已兑换奖品中查询<a href=\"canjes_realizados.php\">"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:69
+msgid "Nos quedamos sin stock de c&oacute;digos para este premio, el canje no fue ingresado"
+msgstr "没有库存，兑换失败"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:78
+msgid "El canje fue realizado con &eacute;xito, ¡ya sumaste las chances para el sorteo!."
+msgstr "兑换成功。您已换取抽奖机会"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:88
+msgid "Nos quedamos sin stock de este premio, el canje no fue ingresado"
+msgstr "没有库存，兑换失败"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:90
+msgid "Detectamos que no tienes saldo suficiente para realizar este canje"
+msgstr "点数不足，无法兑换"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:92
+msgid "Hubo un problema con la disponibilidad del premio"
+msgstr "奖品系统出错"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:160
+msgid "Volver"
+msgstr "回退"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:185
+msgid "CANJEAR PREMIO"
+msgstr "换奖"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:188
+msgid "Aun te faltan"
+msgstr "还需要"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:188
+msgid "puntos para poder acceder a este premio"
+msgstr "点才能换取"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:191
+msgid "Moment&aacute;neamente estamos sin stock para este premio"
+msgstr "目前没有库存"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:198
+msgid "Le solicitamos que confirme la dirección de entrega"
+msgstr "请确认宅配地址"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:202
+msgid "Dirección:"
+msgstr "地址"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:219
+msgid "Codigo Postal:"
+msgstr "邮政编码"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:227
+msgid "CONFIRMAR CANJE"
+msgstr "确认换奖"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:245
+msgid "Vigencia: del"
+msgstr "有效日期："
+
+#: Z:\001_mercado-ideal\premio_detalle.php:245
+msgid "al"
+msgstr "至"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:302 Z:\001_mercado-ideal\premio_detalle.php:304
+msgid "Ingrese la dirección"
+msgstr "输入地址"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:308 Z:\001_mercado-ideal\premio_detalle.php:310
+msgid "Ingrese la provincia"
+msgstr "输入省份"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:314 Z:\001_mercado-ideal\premio_detalle.php:316
+msgid "Ingrese la localidad"
+msgstr "输入城镇"
+
+#: Z:\001_mercado-ideal\premio_detalle.php:320 Z:\001_mercado-ideal\premio_detalle.php:322
+msgid "Indique el codigo postal"
+msgstr "输入邮政编码"
+
+#: Z:\001_mercado-ideal\premios.php:124
+msgid "Premios disponibles"
+msgstr "可换奖品"
+
+#: Z:\001_mercado-ideal\premios.php:126
+msgid "No se hallaron resultados para esta b&uacute;squeda"
+msgstr "未寻找到任何结果"
+

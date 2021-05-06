@@ -1,0 +1,1523 @@
+@import url("../fonts/rebranding/stylesheet.css");
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+	font-family: 'Uni Neue';
+	color:#2b2f3a;
+	background:#FFF;
+}
+h1, h2, h3, h4, h5 {
+	 font-family: 'Japanese 3017';
+} 
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.limpiar {
+	width:100%;
+	clear:both;
+	height:1px
+}
+.rb-espacio{
+	height:35px;
+}
+
+/*/////////////DIXER//////////////*/
+.lineaTop{
+   border-top: solid 1px #c7a928;
+   padding-top:10px;
+ }
+ .lineaTop .bases{
+  font-size:16px;
+  line-height:35px;
+  padding-top:10px;
+  color: #fff
+ }
+  .lineaTop .bases a{
+  color: #fff
+ }
+ 
+/*LOGIN*/
+.lgidioma{
+  width:10%;
+  margin-left:45%;
+  padding:5px;
+  margin-bottom:15px;
+  text-align:center;
+}
+.lgrecLogin{
+   padding:20px;
+   background:#ff1937;
+}
+.lgrecLogin h2{
+   margin:0 0 10px 0;
+   padding:0 0 10px 0;
+    border-bottom: solid 1px #fff;
+	color:#FFF
+}
+.lgrecLogin h4{
+   margin:0 0 10px 0;
+   padding:0 0 10px 0;
+   border-bottom: solid 1px #fff;
+   font-family: 'Uni Neue';
+   color:#fff;
+   font-size:16px
+}
+.lgrecLogin label{
+   font-family: 'Uni Neue Heavy';
+   font-size:18px;
+}
+.lgrecLogin .btnLoguin{
+   font-family: 'Uni Neue Heavy';
+   font-size:22px;
+   color:#FFF;
+   border:none;
+   background:#2b2f3a;
+   width:100%;
+   padding:4px
+}
+.lgrecLogin .btnLoguin:hover{
+   background:#ffcc18;
+}
+
+.lgClave{
+   width:100%;
+   border-top: solid 1px #fff;
+   padding-top:10px;
+   margin-top:10px
+}
+.lgClave a{
+   font-size:14px;
+   color:#ffcc18;
+   text-decoration:none;
+}
+.lgClave a:hover{
+   font-size:14px;
+   color:#515151;
+   text-decoration:underline;
+}
+.lgrecRegistro{
+   padding:30px 20px;
+   font-size:14px;
+	color:#FFF;
+	text-align:center
+}
+.lgrecRegistro .btnReg{
+   font-family: 'Uni Neue Heavy';
+   font-size:22px;
+   color:#FFF;
+   border:solid 1px #FFF;
+   background:#ff1937;
+   width:100%;
+   padding:4px;
+   margin-top:15px
+}
+.lgrecRegistro .btnReg:hover{
+   background:#2b2f3a;
+}
+.lgrecLogin .btnContinuar{
+   font-family: 'Uni Neue Heavy';
+   font-size:22px;
+   color:#FFF;
+   border:none;
+   background:#2b2f3a;
+   width:150px;
+   float:right;
+   padding:4px;
+   clear:both
+}
+.lgrecLogin .btnContinuar:hover{
+   background:#ffcc18;
+}
+
+/*CREAR CUENTA*/
+
+.lgrecCrear{
+   padding:20px;
+ background:#ff1937;
+}
+
+.lgrecCrear h4{
+   margin:0 0 10px 0;
+   padding:0 0 10px 0;
+   border-bottom: solid 1px #fff;
+   font-family: 'Uni Neue';
+   font-size:16px
+}
+.lgrecCrear h2{
+   margin:0 0 10px 0;
+   padding:0 0 10px 0;
+   color:#fff;
+   border-bottom: solid 1px #fff;
+}
+.lgrecCrear label{
+   font-family: 'Uni Neue Heavy';
+   font-size:18px;
+   width:100%;
+   clear:both
+}
+.lgrecCrear input{
+   width:92%;
+   float:left
+}
+.lgrecCrear a{
+   width:6%;
+   padding:5px 0 0 2%;
+   float:left;
+   color:#FFF;
+   font-size:18px
+}
+.lgrecCrear a:hover{
+   width:6%;
+   padding:5px 0 0 2%;
+   float:left;
+   color:#ff1937;
+   font-size:18px
+}
+.lgrecCrear .btnSiguiente{
+   font-family: 'Uni Neue Heavy';
+   font-size:22px;
+   color:#FFF;
+   border:none;
+   background:#2b2f3a;
+   width:100%;
+   padding:4px;
+   clear:both;
+   margin-top:15px
+}
+.lgrecCrear .btnSiguiente:hover{
+   background:#ffcc18;
+}
+.lgrecCrear .ayuda{
+   background:#FFF;
+   width:80%;
+   height:93px;
+   padding:7px;
+   border-radius:5px;
+   position:absolute;
+   font-size:14px;
+   line-height:17px
+}
+
+.lgrecCrear h3{
+ border-bottom: solid 1px #c7a928;
+ color:#FFF;
+ text-align:center;
+ padding-bottom:25px
+}
+
+/*BASES*/
+.basesContent{
+   padding:10px 0;
+   background:#eece47;
+   border-top: solid 5px #d7b834;
+   border-bottom: solid 5px #d7b834;
+   height:600px;
+   margin:0
+}
+.basesContent h2{
+   margin:0 10px 10px 10px;
+    font-family: 'Uni Neue Heavy';
+   padding:0 0 10px 0;
+    border-bottom: solid 1px #c7a928;
+}
+.basesContent h4{
+   margin:0 10px 10px 10px;
+   padding:0 0 10px 0;
+   border-bottom: solid 1px #c7a928;
+   font-family: 'Uni Neue Heavy';
+   font-size:16px
+}
+.basesContent .texto{
+   background:#FFF;
+   font-family: 'Uni Neue';
+   width:98%;
+   margin: 0 1%;
+   padding:15px;
+   height:460px;
+   overflow-y:scroll;
+   overflow-x: none;
+}
+
+
+/*HOME NAV*/
+.navbar-inverse{
+   background:#ff1937;
+   border-color:#ff1937;
+   border-bottom: solid 5px #d89f42;
+
+}
+
+.navbar {
+    min-height: 100px;
+    margin-bottom: 20px;
+	padding-top:25px
+}
+.fin-nav {
+   height:30px;
+   width:100%;
+   clear:both;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #eece47;
+	 font-family: 'Japanese 3017';
+	font-size:23px
+}
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #FFF;
+}
+
+.navbar-brand{
+    margin-top:-25px;
+	display:block;
+	float:left;
+}
+
+.navbar-fixed-top .navbar-collapse, .navbar-static-top .navbar-collapse {
+	padding-left:4%;
+	/*width:60%;*/
+	float:left;
+}
+.navbar .logosCierre{
+	float:right;
+	width:20%;
+	text-align:right
+}
+.navbar .logosCierre img{
+	/*margin-left:15px*/
+	width:50%;
+	max-width:73px;
+	margin-left:15px
+}
+.navbar .idioma {
+    position:absolute;
+	top:25px;
+	left:100%;
+	margin-left:-120px;
+	z-index:10;
+	width:120px;
+	height:70px;
+	text-align:center;
+}
+.navbar .idioma a{
+   display:inline-block;
+   margin-top:8px;
+   margin-right:4px
+}
+
+
+/*DATOS USUARIO*/
+.datos-usuario{
+	margin-top:-20px;
+	background:url(../images/fd_datos_usuarios.png) repeat-x;
+	height:120px;
+	margin-bottom:37px;
+	padding:0;
+	width:1140px
+}
+
+.datos-usuario .nombre{
+	width:18.3%;
+	height:115px;
+	border-right: solid 1px #d89f42;
+	text-align:center;
+	font-family: 'Uni Neue';
+	font-size:18px;
+	padding-top:15px;
+	float:left
+}
+.datos-usuario .nombre h1{
+	font-size:22px;
+	font-family: 'Uni Neue Heavy';
+	margin:0;
+	padding:6px 0 0 0
+}
+.datos-usuario .nombre .cod-unico{
+	color:#2b2f3a;
+	display:block;
+	padding-top:5px
+}
+
+.datos-usuario .puntos{
+	width:15.4%;
+	height:115px;
+	border-right: solid 1px #d89f42;
+	text-align:center;
+	font-size:16px;
+	color:#ff1937;
+	padding-top:25px;
+	float:left
+}
+
+.datos-usuario .puntos h1{
+	font-size:52px;
+	line-height:45px;
+	font-family: 'Uni Neue Heavy';
+	margin:0;
+	padding:0;
+	color:#ff1937;
+}
+
+.datos-usuario .ranking{
+	width:15.4%;
+	height:115px;
+	border-right: solid 1px #d89f42;
+	text-align:center;
+	font-size:16px;
+	line-height:20px;
+	padding-top:25px;
+	float:left
+}
+
+.datos-usuario .ranking span{
+	display:block;
+	margin:6px auto;
+	font-size:26px;
+	color:#0d6bcc;
+	padding-top:8px;
+}
+.datos-usuario .ranking h3{
+	display:block;
+	margin:6px auto;
+	font-size:16px;
+	font-family: 'Uni Neue Heavy';
+	color:#ff1937;
+}
+.datos-usuario .links-acceso{
+	display:block;
+	width:11.4%;
+	float:left;
+	margin-left:1.3%;
+	margin-top:10px;
+	text-align:center;
+	font-size:14px;
+	color:#d89f42
+}
+.datos-usuario .links-acceso p{
+	color:#2b2f3a;
+	line-height:16px;
+}
+.datos-usuario .links-acceso:hover{
+	color:#ff1937;
+	text-decoration:none;
+}
+.datos-usuario .links-acceso:hover p{
+	color:#2b2f3a;
+}
+.datos-usuario .links-acceso:hover .fa-inverse{
+	color:#ffcc18;
+}
+.datos-usuario .salir{
+	width:12.4%;
+	float:left;
+	padding-top:40px;
+	text-align:center;
+}
+.datos-usuario .salir a{
+	font-family: 'Uni Neue Heavy';
+	font-size:16px;
+	color:#ffcc18;
+	display:block;
+	width:70px;
+	padding:3px 0;
+	text-align:center;
+	margin:auto;
+	background-color:#ff1937
+}
+.datos-usuario .salir a:hover{
+	background:#515151;
+	color:#eece47;
+	text-decoration:none
+}
+
+.datos-usuario-mb{
+	display:none;
+}
+.wechat{
+	display:block;
+}
+.wechat img{
+	width:100%;
+	max-width:262px;
+}
+
+.wechat-mb{
+	display:none;
+	text-align:center;
+}
+.wechat-mb img{
+	width:100%;
+	max-width:500px;
+	margin:auto
+}
+
+
+/*HOME CONTENT*/
+.ttBusca h1{
+  color:#ffcc18;
+  font-size:30px;
+  margin:0;
+  padding:0;
+  
+}
+.ttBusca .buscador{
+	margin-top:40px;
+	border:#eece47 solid 2px;
+	height:90px;
+	margin-bottom:60px;
+	padding:25px 25px 0 25px;
+	font-size:16px;
+	color:#333;
+}
+.ttBusca .buscador h1{
+	display:block;
+	float:left;
+	font-family: 'Japanese 3017';
+}
+.ttBusca .buscador .entre{
+	color:#515151;
+	padding:5px;
+	border-radius:3px;
+	width:120px;
+	border: solid 1px #a9a9a9;
+}
+.ttBusca .buscador .separa{
+	width:100%;
+	height:10px;
+	clear:both;
+	display:none
+}
+.ttBusca .buscador .categorias{
+	color:#515151;
+	padding:5px;
+	border-radius:3px;
+	margin-left:50px
+}
+.ttBusca .buscador .textbuscar{
+	color:#515151;
+	padding:5px;
+	border:solid 1px #a9a9a9;
+	border-radius:3px;
+	margin-left:20px
+}
+.ttBusca .buscador .btnbuscar{
+	 font-family: 'Uni Neue Heavy';
+	font-size:16px;
+	color:#eece47;
+	display:block;
+	width:80px;
+	height:31px;
+	text-align:center;
+	float:right;
+	border: solid 1px #515151;
+	background:#2b2f3a;
+	margin-top:3px
+}
+.ttBusca .buscador .btnbuscar:hover{
+	background:#eece47;
+	color:#2b2f3a;
+	text-decoration:none
+}
+
+.subtHome {
+  clear:both;
+  height:60px;
+  margin:-30px 0 20px 0;
+}
+
+.subtHome h3{
+   display:block;
+   font-family: 'Uni Neue Heavy';
+   float:left
+}
+.subtHome a{
+   display:block;
+   float:right;
+   margin-top:25px;
+   font-family: 'Uni Neue Heavy';
+   font-size:16px;
+   color:#ff1937;
+}
+.subtHome a:hover{
+   color:#2b2f3a;
+   text-decoration:none
+}
+.subtHome2 {
+  clear:both;
+  height:60px;
+  margin:-70px 0 0 -145px;
+  position:absolute;
+  z-index:10;
+  left:50%;
+}
+
+.subtHome2 h3{
+   display:block;
+   float:left
+}
+.subtHome2 a{
+   display:block;
+   float:right;
+   margin-top:25px;
+   font-family: 'Uni Neue Heavy';
+   font-size:16px;
+   color:#ff1937;
+}
+.subtHome2 a:hover{
+   color:#2b2f3a;
+   text-decoration:none
+}
+
+/*Caja premios*/
+
+.premios-home{
+   color:#ff1937;
+   text-decoration:none
+}
+.premios-home .caja-premio{
+   width:100%;
+   display:block;
+   background:#2b2f3a;
+   margin-bottom:25px;
+}
+
+.premios-home .caja-premio:hover{
+   text-decoration:none;
+   background:#ffcc18
+}
+.premios-home .caja-premio:hover .puntos{
+   background:#ff1937;
+}
+.premios-home .caja-premio .foto{
+   width:100%;
+   height:180px;
+   overflow:hidden;
+   background:#FFF;
+   border-top: solid 1px #dfdfdf;
+   border-left: solid 1px #dfdfdf;
+   border-right: solid 1px #dfdfdf;
+}
+.premios-home .caja-premio .foto img{
+   width:100%
+}
+.premios-home .caja-premio .nombre{
+   width:100%;
+   height:67px;
+   padding-top:8px;
+   text-align:center;
+   font-size:18px;
+   line-height:20px;
+   color:#fff;
+}
+
+.premios-home .caja-premio .puntos{
+   background:#ff1937;
+   width:100%;
+   height:45px;
+   text-align:center;
+   font-family: 'Uni Neue Heavy';
+   font-size:28px;
+   color:#FFF;
+}
+.premios-home .caja-premio .puntos span{
+   font-size:18px;
+}
+
+.premios-home .caja-premio2{
+   width:100%;
+   display:block;
+   background:#808289;
+   margin-bottom:25px
+}
+
+.premios-home .caja-premio2:hover{
+   text-decoration:none;
+   background:#ff1937
+}
+.premios-home .caja-premio2:hover .puntos2{
+   background:#d89f42
+}
+.premios-home .caja-premio2 .foto{
+   width:100%;
+   height:180px;
+   overflow:hidden;
+   background:#FFF;
+   border-top: solid 1px #dfdfdf;
+   border-left: solid 1px #dfdfdf;
+   border-right: solid 1px #dfdfdf
+}
+.premios-home .caja-premio2 .foto img{
+   width:100%
+}
+.premios-home .caja-premio2 .nombre2{
+   width:100%;
+   height:67px;
+   padding-top:8px;
+   text-align:center;
+   font-size:18px;
+   line-height:20px;
+   color:#fff
+}
+
+.premios-home .caja-premio2 .puntos2{
+   background:#d89f42;
+   width:100%;
+   height:45px;
+   text-align:center;
+   font-family: 'Uni Neue Heavy';
+   font-size:28px;
+   color:#FFF
+}
+.premios-home .caja-premio2 .puntos2 span{
+   font-size:18px
+}
+
+
+
+/*Footer*/
+
+.pie-sitio{
+   width:100%;
+   background:#373737;
+   color:#FFF;
+   font-size:18px;
+   text-align:center
+}
+.pie-sitio a{
+  display:inline-block;
+  margin:0 25px;
+  text-decoration:none;
+  color:#FFF;
+}
+.pie-sitio a:hover{
+  text-decoration:none;
+  color:#ff1937
+}
+.pie-sitio p{
+  display:inline-block;
+  margin:0 25px;
+  text-decoration:none
+}
+
+/*Listado de premios*/
+
+.ttBusca .buscador-list{
+	background:#efefef;
+	margin-top:0
+}
+.ttBusca .tt-list{
+	margin-top:20px;
+	height:55px;
+	padding:10px 10px 0 25px;
+	font-size:16px;
+	color:#333;
+	border-bottom: solid 1px #dfdfdf
+}
+
+.buscador-list .btnbuscar2{
+   font-family: 'Uni Neue Heavy';
+	font-size:16px;
+	color:#515151;
+	display:block;
+	width:110px;
+	padding:0 20px;
+	height:31px;
+	text-align:center;
+	float:right;
+	border: solid 1px #515151;
+	background:#efefef;
+	margin-top:3px
+}
+.buscador-list .btnbuscar2:hover{
+	background:#515151;
+	color:#eece47;
+	text-decoration:none
+}
+
+/*Detalle Premios*/
+.btn-volver{
+   display:block;
+   float:right;
+   font-family: 'Uni Neue Heavy';
+   font-size:16px;
+   color:#515151;
+   margin-bottom:15px
+}
+.btn-volver:hover{
+   color:#ff1937;
+   text-decoration:none
+}
+
+.container .detalle-premio{
+	background:#FFFFFF;
+	height:auto;
+	padding:35px 0;
+	margin-bottom:0px
+}
+.container .detalle-premio .foto{
+	text-align:center;
+}
+.container .detalle-premio .foto img{
+	border: solid 3px #dfdfdf;
+	margin:auto;
+	width:100%;
+	max-width:480px
+}
+.container .detalle-premio .texto{
+	margin:0;
+	padding:0 30px 0 0; 
+}
+.container .detalle-premio .texto h3{
+	margin:0;
+	padding:0 0 10px 0; 
+	font-family: 'Uni Neue Heavy';
+	border-bottom: solid 1px #dfdfdf;
+	color:#ff1937;
+}
+.container .detalle-premio .texto h4{
+	margin:0;
+	padding:10px 0 10px 0; 
+	border-bottom: solid 1px #dfdfdf;
+	font-family: 'Uni Neue Heavy';
+	color:#FFF
+}
+.container .detalle-premio .texto .confirma{
+	background:#2b2f3a;
+	padding-left:10px;
+	margin-bottom:10px;
+}
+.container .detalle-premio .texto .btn-confirma{
+	border-top:solid 1px #dfdfdf;
+	clear:both;
+	padding-top:10px
+}
+.container .detalle-premio .texto h1{
+	color:#ff1937;
+	font-size:54px;
+	margin:25px 0;
+	font-family: 'Uni Neue Heavy';
+}
+.container .detalle-premio .texto h1 span{
+	font-size:36px;
+}
+.container .detalle-premio .texto .btn-canjear{
+	display:block;
+	background:#ff1937;
+	width:280px;
+	padding:10px;
+   font-family: 'Uni Neue Heavy';
+	font-size:24px;
+	margin-left:130px;
+	color:#FFF;
+	text-align:center
+}
+.container .detalle-premio .texto .btn-canjear:hover{
+	background:#515151;
+	text-decoration:none
+}
+.container .descripcion-premio{
+	height:auto;
+	padding:0 4%;
+	margin-bottom:50px;
+	text-align:left
+}
+.container .descripcion-premio .vigencia{
+	background:#efefef;
+	display:block;
+	padding:12px 30px;
+	text-align:center;
+	color:#ff1937;
+	font-size:16px;
+	margin-bottom:20px;
+}
+
+/*canjes realizados*/
+.container .mis-canjes {
+	background:#FFFFFF;
+	height:auto;
+	min-height:600px;
+	padding:35px 0;
+	margin-bottom:0px
+}
+.mis-canjes .caja-premio{
+   width:100%;
+   min-height:450px;
+   display:block;
+   /*background:#efefef;*/
+   margin-bottom:25px;
+}
+.mis-canjes .caja-premio .foto{
+   width:100%;
+   height:180px;
+   overflow:hidden;
+   background:#FFF;
+   border-top: solid 1px #dfdfdf;
+   border-left: solid 1px #dfdfdf;
+   border-right: solid 1px #dfdfdf;
+}
+.mis-canjes .caja-premio .foto img{
+   width:100%
+}
+.mis-canjes .caja-premio .nombre{width:100%;height:67px;padding-top:8px;text-align:center; font-family: 'Uni Neue Heavy'; font-size:17px;line-height:20px;color:#515151; background:#efefef;}
+.mis-canjes .caja-premio .puntos{ background:#93d5ee;width:100%;height:45px; text-align:center;font-family: 'Uni Neue Heavy'; font-size:28px;color:#FFF;border-bottom: 1px solid #B2E5F9;}
+.mis-canjes .caja-premio .puntos span{font-size:18px;}
+
+.mis-canjes .caja-premio .puntos_entregado{ background:#A9D165;width:100%;height:45px; text-align:center;font-family: 'Uni Neue Heavy'; font-size:28px;color:#FFF;border-bottom: 1px solid #DCF0BB;}
+.mis-canjes .caja-premio .puntos_entregado span{font-size:18px;}
+
+.mis-canjes .caja-premio .puntos_cancelado{ background:#ED1C24;width:100%;height:45px; text-align:center;font-family: 'Uni Neue Heavy'; font-size:28px;color:#FFF;border-bottom: 1px solid #F88C90;}
+.mis-canjes .caja-premio .puntos_cancelado span{font-size:18px;}
+
+.mis-canjes .caja-premio .puntos_devuelto{ background:#FF7600;width:100%;height:45px; text-align:center;font-family: 'Uni Neue Heavy'; font-size:28px;color:#FFF;border-bottom: 1px solid #F88C90;}
+.mis-canjes .caja-premio .puntos_devuelto span{font-size:18px;}
+
+.mis-canjes .caja-premio .estado{background:#93d5ee;width:100%;border-bottom: 1px solid #B2E5F9;color:#515151;height:45px;text-align:center;font-family:'Uni Neue Heavy'; font-size:17px;padding-top:8px;
+}
+.mis-canjes .caja-premio .direccion{ background:#93d5ee;width:100%; padding:5px 2%;min-height:50px; height:auto; text-align:center;font-family: 'Uni Neue Heavy'; font-size:14px; color:#515151; line-height:16px}
+
+.mis-canjes .caja-premio .entregado {background:#A9D165;border-bottom: 1px solid #DCF0BB;}
+.mis-canjes .caja-premio .entregado_ {background:#A9D165;}
+.mis-canjes .caja-premio .cancelado {background:#ED1C24;border-bottom: 1px solid #F88C90; color:#FFFFFF}
+.mis-canjes .caja-premio .cancelado_ {background:#ED1C24; color:#FFFFFF}
+.mis-canjes .caja-premio .devuelto {background:#FF7600;border-bottom: 1px solid #F88C90; color:#FFFFFF}
+.mis-canjes .caja-premio .devuelto_ {background:#FF7600; color:#FFFFFF}
+
+.mis-canjes .caja-premio .seguimiento{
+   display:block;
+   border: solid 1px #515151;
+   color:#515151;
+   padding:5px;
+   font-family: 'Uni Neue Heavy';
+   font-size:18px;
+   font-weight: bold
+}
+.mis-canjes .caja-premio .seguimiento:hover{
+   border: solid 1px #FFF;
+   color:#FFF;
+	text-decoration:none
+}
+
+.ttBusca {
+	margin-top:-30px;
+}
+
+.ttBusca .tt-Canjes{
+	margin-top:20px;
+	height:55px;
+	padding:10px 10px 0 25px;
+	font-size:16px;
+	color:#ff1937;
+	font-family: 'Uni Neue Heavy';
+}
+.ttBusca .tt-Canjes h1{
+	color:#ff1937;
+
+}
+.ttBusca .tt-Canjes i{
+	margin-right:5px
+}
+
+/*********** BALANCE ******************/
+
+.container .mi-balance {background:#FFFFFF;height:auto;padding:35px 0;margin-bottom:0px}
+.container .mi-balance .saldo{font-size:18px;}
+.container .mi-balance .saldo1{font-size:18px; background-color:#dfdfdf}
+.container .mi-balance h3, .container .mi-balance h4{font-family: 'Uni Neue Heavy'}
+.resalto{background:#EECE47;}
+.infobalance {text-align: center;display: block;padding: 10px;border: 1px solid #dfdfdf; height:265px}
+.infobalance h4{ color:#ff1937;}
+.restapuntos{ color:#FF0000; font-weight:bold;}
+.restatexto { font-weight:bold;}
+.botonbalance {background:#EECE47;font-family: 'Uni Neue Heavy';font-size:16px;color:#515151;display:block;width:260px;text-align:center;border: solid 1px #515151; padding:3px; text-transform:uppercase;}
+.botonbalance:hover{background:#515151;color:#eece47;text-decoration:none}
+
+.botonbalance2 {background:#ff1937;font-size:16px;color:#fff;display:block;width:260px;text-align:center; padding:8px; margin-left:auto; margin-right:auto; margin-top:52px; margin-bottom:25px;}
+.botonbalance2:hover{background:#515151;color:#fff;text-decoration:none}
+
+
+/*********** DATOS PERSONALES ******************/
+
+.campos {list-style:none; margin:0px; padding:0px; width:100%}
+.campos li{list-style:none; margin-bottom:10px; padding:0px; width:100%}
+.container .mis-datos {background:#FFFFFF;height:auto; min-height:600px;padding:35px 0;margin-bottom:0px;}
+.mis-datos .cabecera {border: solid 1px #ff1937; margin:0 auto 15px auto; padding:10px; clear:both; width:80%; font-family: 'Uni Neue Heavy'; font-size:16px}
+.mis-datos p { margin-right:25px; display:inline-block;}
+.mis-datos .codigo { margin-right:25px; display:inline-block; color:#ff1937;}
+.mis-datos .rb-form { margin:0 auto 15px auto; padding:10px; clear:both; float:none; width:70%}
+
+.formulario {background:#EECE47;font-size:16px;color:#515151;display:block;width:90px;text-align:center;border: solid 1px #515151; padding:3px; text-transform:uppercase;}
+.formulario:hover{background:#515151;color:#eece47;text-decoration:none}
+.alerta-mod {background:#EECE47;font-size:18px;color:#515151;display:block;width:100%;text-align:center; padding:8px; text-transform:uppercase;}
+.espacio-3{height:75px;}
+
+.guarda-dp{border-top:solid 2px #dfdfdf; margin:0 auto; text-align:center; padding:15px 0; clear:both; width:68%}
+.guarda-dp .btn-guardar{
+	display:block;
+	margin:auto;
+	background:#ff1937;
+	width:200px;
+	padding:10px;
+	font-family: 'Uni Neue Heavy';
+	font-size:20px;
+	color:#FFF;
+	text-align:center
+}
+.guarda-dp .btn-guardar:hover{
+	background:#515151;
+	text-decoration:none
+}
+
+/********************NOVEDADES**********************************/
+.box_noticia {display:block; height:382px; border:solid 1px #dfdfdf; padding:0px; width:100%; margin-bottom:25px}
+.box_img{display:block;width:100%; overflow:hidden; position:relative; height:175px; background-color:#dfdfdf}
+.box_img span{display:block; position:absolute; background-color:#666666; color:#FFFFFF; margin-top:10px;right: 0px; z-index:521; padding-left:10px; padding-right:10px; padding-top:10px; padding-bottom:10px;}
+.box_noticia h3{display:block; padding-top:5px; margin:0px;color:#ff1937; font-size:16px; font-weight:bold; line-height:21px; text-align:center; padding-left:10px; padding-right:10px; padding-bottom:10px; height:auto; font-family: 'Uni Neue Heavy';}
+.box_noticia .content_texto{display:block; color:#515151; font-size:14px; line-height:18px; text-align:justify; padding-left:2%; padding-right:2%; clear:both; height:118px; width:100%;}
+.box_noticia .content_texto2{display:block; color:#515151; font-size:13px; line-height:17px; text-align:justify; padding-left:2%; padding-right:2%; clear:both; height:139px; width:100%;}
+.box_noticia .content_texto2 p{padding:0; margin:0; text-align:left}
+.box_noticia .content_texto p{padding:0; margin:0}
+.box_noticia .pie_novedad{display:block; padding_top:15px;  color:#ff1937; font-size:14px; line-height:28px; text-align: right;  padding-left:10px; padding-right:10px; background-color:#dfdfdf; height:35px;  position:relative;bottom:0px;clear:both; }
+
+
+
+.box_noticia_dest {display:block; height:382px; border:solid 1px #dfdfdf; padding:0px; width:100%; margin-bottom:25px}
+.box_noticia_dest .box_img{display:block;width:100%; overflow:hidden; position:relative; height:230px; background-color:#dfdfdf}
+.box_noticia_dest .box_img span{display:block; position:absolute; background-color:#fecc33; color:#ff1937; margin-top:10px;right: 0px; z-index:521; padding-left:10px; padding-right:10px; padding-top:10px; padding-bottom:10px; font-weight:bold}
+.box_noticia_dest h3{display:block; padding-top:15px; margin:0px;color:#ff1937; font-size:22px; font-weight:bold; line-height:21px; text-align:center; padding-left:10px; padding-right:10px; padding-bottom:10px; height:auto; font-family: 'Uni Neue Heavy';}
+.box_noticia_dest .content_texto{display:block; color:#515151; font-size:14px; line-height:18px; text-align:justify; padding-left:2%; padding-right:2%; clear:both; width:100%;}
+.box_noticia_dest .pie_novedad{background:#fecc33; display:block; margin:auto; color:#ff1937; font-weight:bold; width:100px; padding:10px; text-align:center; margin-bottom:10px}
+
+.btn-volver-det {float:right; display:block; z-index:15; position:relative; top:-27px; text-decoration:none;}
+.btn-volver-det:hover { color:#dfdfdf; text-decoration:none;}
+
+.cont-img-det{display:block; position:relative; min-height:80px}
+.cont-img-det span{display:block; position:absolute; background-color:#ff1937; color:#fff; margin-bottom:25px;right: 0px; z-index:521; padding-left:10px; padding-right:10px; padding-top:10px; padding-bottom:10px; bottom:0px; font-size:16px}
+
+.tit-nov-detalle {font-family: 'Uni Neue Heavy';font-size:28px;color:#ff1937;}	
+.tex-detalle-nov {display:block; margin-top:20px;}
+.lista-nov strong{ color:#515151}
+.lista-nov ul{display:block; list-style:none; margin-top:55px;margin-bottom:55px; padding:0px; margin-left:0; margin-right:0;}
+.lista-nov ul li{display:block; list-style:none; padding-bottom:5px; border-bottom:solid 1px #dfdfdf; padding-left:10px; padding-right:10px; padding-top:5px;}
+.lista-nov ul a{color:#ff1937; display:block}
+.lista-nov ul a:hover {text-decoration:none; background-color:#F9F8F8; color:#000000;}
+
+
+
+/******************************PROGRAMA**********************************/
+
+.cab-programa {display:block;clear:both;width:100%;margin-bottom:25px;padding-bottom:25px;
+background: url(../images/fd_el_programa.jpg?nocache=12212) no-repeat right top #ebebeb; height: 144px; text-align:left}
+.cab-programa h3{ color:#ff1937; font-family: 'Uni Neue Heavy';}
+.cab-programa p{font-size:18px; width:50%}
+.listaflecha {list-style:none; padding-left:10px; color:#5c5c5c; font-size:16px}
+.listaflecha li{ margin-bottom:10px; }
+.prog-title-min {color:#ff1937; font-size:19px; font-family: 'Uni Neue Heavy';}
+
+.listanum{padding-left:10px;color:#5c5c5c;font-size:16px;list-style-position: outside;list-style-type: decimal;}
+.listanum li{ margin-bottom:10px;} 
+
+.qrbox{ display:block; padding:10px; border:solid 1px #dadada; margin-top:25px; margin-bottom:15px; font-size:16px}
+.qrbox .qr-img-box{ display:block; width: 30%; float:left;}
+.qrbox .qr-text-box{ display:block; width:69%; float:right; line-height:20px;}
+
+.btn-qr-box {background:#ff1937;font-size:16px;color:#fff;display:block;width:100%;text-align:center; padding:8px; margin-left:auto; margin-right:auto;}
+.btn-qr-box:hover{background:#515151;color:#fff;text-decoration:none}
+
+.link-resalto{color:#ff1937; font-weight:bold}
+.link-resalto:hover{color:#000; font-weight:bold; text-decoration:none}
+
+.bulk{color:#ff1937;}
+.rb-text-left{text-align:left}
+
+/*****************************REBRANDING**********************************/
+
+.container .rb-destacado{
+	width:100%;
+	height:auto;
+	padding:40px 0 20px 0;
+	margin:0;
+	background: url(../images/fd_destacados.png)
+}
+.rb-vertodos {
+   clear:both;
+   padding-right:1.5%;
+   height:25px
+}
+.rb-vertodos a{
+   display:block;
+   float:right;
+   font-family: 'Uni Neue Heavy';
+   font-size:16px;
+   color:#ff1937;
+}
+.rb-vertodos a:hover{
+   color:#2b2f3a;
+   text-decoration:none
+}
+/*****************************CONTACTO**********************************/
+
+.mi-contacto h3{
+	 font-family: 'Uni Neue Heavy';
+}
+.mi-contacto h3 a{
+	 color:#ff1937;
+	 text-decoration:none
+}
+.mi-contacto h3 a:hover{
+	 color:#ff1937;
+	 text-decoration:none
+}
+.mi-contacto .mi-nros{
+	 padding-top:70px
+}
+
+
+
+@media (max-width:1280px){
+.navbar-fixed-top .navbar-collapse, .navbar-static-top .navbar-collapse {
+	width:85%;
+	margin-left:13%;
+	float:none
+}
+
+@media (max-width:1024px){
+.navbar-fixed-top .navbar-collapse, .navbar-static-top .navbar-collapse {
+	padding-top:0;
+	padding-left:2%
+}
+
+}
+@media (max-width:1000px){
+.navbar-brand{
+    margin-top:-25px;
+	display:block;
+	float:left;
+	width:150px;
+}
+.navbar-brand img{
+   width:130px;
+}
+.navbar-fixed-top .navbar-collapse, .navbar-static-top .navbar-collapse {
+	width:60%;
+	padding-left:0;
+	float:left;
+}
+.navbar-inverse .navbar-nav>li>a {
+	font-size:19px;
+	padding-left:15px;
+	padding-right:0
+}
+.navbar .logosCierre img{
+	width:48%;
+	margin-left:2%
+}
+.wechat{
+	display:none;
+}
+.wechat-mb{
+	display:block;
+	margin-bottom:20px
+}
+
+.ttBusca h1{
+  margin-top:15px
+}
+.ttBusca .buscador{
+	margin-top:20px;
+	height:auto;
+	margin-bottom:37px;
+	padding:10px 10px 0 25px;
+	font-size:15px;
+
+}
+.ttBusca .buscador .separa{
+	display:block;
+}
+.ttBusca .buscador .categorias{
+	width:100%;
+	margin:0
+}
+
+.ttBusca .buscador .textbuscar{
+	width:100%;
+	margin:0
+}
+.ttBusca .buscador .btnbuscar{
+	float:none;
+	clear:both;
+	width:70%;
+	margin-left:15%;
+}
+.datos-usuario .nombre{
+	font-size:16px;
+	padding-top:5px;
+
+}
+.datos-usuario .nombre h1{
+	font-size:27px;
+}
+.datos-usuario .nombre .cod-unico{
+	color:#0d6bcc;
+	display:block;
+	padding-top:5px
+}
+
+
+/*Listado Premios*/
+
+.ttBusca .tt-list{
+	margin-top:-20px;
+	background:none;
+	height:55px;
+	padding:10px 10px 0 25px;
+	font-size:16px;
+	color:#333;
+	font-family: 'Uni Neue Heavy';
+	border-bottom: none;
+
+}
+.ttBusca .tt-Canjes{
+	margin-top:-20px;
+	height:55px;
+	padding:1px 10px 0 25px;
+	font-size:16px;
+	color:#ff1937;
+	font-family: 'Uni Neue Heavy';
+	border-bottom: none
+}
+.box_noticia .content_texto{height:auto; padding-bottom:10px}
+
+.container .rb-destacado{
+	width:100%;
+	padding:0 4%
+}
+
+}
+@media (max-width:768px){
+
+.row{
+	padding:0;
+	margin:0;
+}
+.noti-responsive{margin:0; padding:0}
+.box_noticia {height:auto;}
+.box_noticia .content_texto{clear:both; height:auto;}
+.box_img{height:auto}
+
+.box_noticia_dest {height:auto;}
+.box_noticia_dest .content_texto{clear:both; height:auto;}
+.box_noticia_dest .content_texto p{padding:0; margin:0}
+.box_noticia_dest .box_img{height:auto}
+
+body {
+	background:url(../images/fd_movil.gif) top center repeat-x #FFF;
+}
+.lgidioma{
+  width:30%;
+  margin-left:35%;
+}
+.navbar {
+    min-height: 70px;
+	padding-top:0px;
+}
+.fin-nav {
+     height:0px;
+}
+.navbar-brand{
+   margin-top:-5px;
+}
+.navbar-brand img{
+   width:120px;
+}
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    padding-top:15px;
+	padding-left:15px;
+	max-height: 355px;
+}
+.navbar .logosCierre{
+	display:none;
+}
+.navbar .idioma {
+    position:absolute;
+	top:8px;
+	left:50%;
+	margin-left:-60px;
+	z-index:10;
+	width:120px;
+	height:37px;
+	text-align:center;
+	border-radius:5px
+}
+.navbar .idioma a{
+   display:inline-block;
+   margin-top:5px;
+   margin-left:5px;
+}
+
+/*DATOS USUARIO MOBILE*/
+.datos-usuario{
+	display:none;
+}
+.datos-usuario-mb{
+	display:block;
+	margin-top:-20px;
+	padding:0px;
+	background:#eece47;
+	/*border-top: solid 5px #d7b834;
+	max-height:200px;*/
+	height:auto;
+	margin-bottom:37px;
+}
+
+.datos-usuario-mb .nombre{
+	width:47%;
+	height:85px;
+	border-right: solid 1px #c7a928;
+	text-align:center;
+	font-size:16px;
+	line-height:23px;
+	padding-top:5px;
+	float:left
+}
+.datos-usuario-mb .nombre h1{
+	font-size:20px;
+	line-height:20px;
+    font-family: 'Uni Neue Heavy';
+	margin:0;
+	padding:8px 0 0 0
+}
+.datos-usuario-mb .nombre .cod-unico{
+	display:block;
+	padding-top:5px
+}
+
+.datos-usuario-mb .puntos{
+	width:35%;
+	height:85px;
+	border-right: solid 1px #c7a928;
+	text-align:center;
+	font-size:16px;
+	color:#ff1937;
+	padding-top:15px;
+	float:left
+}
+
+.datos-usuario-mb .puntos h1{
+	font-size:30px;
+	line-height:28px;
+    font-family: 'Uni Neue Heavy';
+	margin:0;
+	padding:0
+}
+.datos-usuario-mb .salir{
+	width:16%;
+	padding:0 0 0 2%;
+	float:left;
+	padding-top:25px;
+	text-align:center
+}
+.datos-usuario-mb .salir a{
+	font-family: 'Uni Neue Heavy';
+	font-size:14px;
+	color:#ff1937;
+	display:block;
+	text-align:center;
+	margin:auto;
+	border: solid 1px #ff1937;
+}
+
+.datos-usuario-mb .ranking{
+	clear:both;
+	width:100%;
+	padding:7px 20px;
+	text-align:left;
+	font-family: 'Uni Neue Heavy';
+	font-size:16px;
+	line-height:20px;
+	background:#c7a928;
+	/*color:#FFF*/
+}
+
+.datos-usuario-mb .links-acceso{
+	display:block;
+	width:32%;
+	float:left;
+	margin-left:1.3%;
+	margin-top:10px;
+	text-align:center;
+	font-family: 'Uni Neue Heavy';
+	font-size:15px;
+	color:#d7b834;
+}
+.datos-usuario-mb .links-acceso p{
+	color:#515151;
+	line-height:15px;
+}
+.datos-usuario-mb .links-acceso:hover{
+	color:#0d6bcc;
+	text-decoration:none;
+}
+.datos-usuario-mb .links-acceso:hover p{
+	color:#0d6bcc;
+}
+.ttBusca .buscador{
+	margin-bottom:87px;
+
+}
+.ttBusca .buscador .separa{
+	display:block;
+}
+
+.ttBusca .buscador .btnbuscar{
+	width:100%;
+	height:auto;
+	margin-left:0;
+	padding:8px 0;
+}
+.datos-usuario .nombre{
+	font-size:16px;
+	padding-top:5px;
+
+}
+/*Footer*/
+
+.pie-sitio{
+   font-size:16px;
+}
+.pie-sitio a{
+  margin:0 15px;
+}
+.pie-sitio a:hover{
+  text-decoration:none;
+  color:#ff1937
+}
+.pie-sitio p{
+  display:inline-block;
+  margin:0 15px;
+  text-decoration:none
+}
+/*Detalle Premios*/
+
+
+.container .detalle-premio{
+	padding:0;
+	margin-bottom:25px
+}
+.container .detalle-premio .foto{
+	margin:0;
+	padding:0
+}
+.container .detalle-premio .texto{
+	padding:0; 
+}
+.container .detalle-premio .texto h3{
+	padding:10px; 
+}
+.container .detalle-premio .texto h4{
+	padding:10px; 
+}
+.container .detalle-premio .texto h1{
+	font-size:47px;
+	margin:0;
+	padding:10px;
+	width:100%;
+	text-align:center
+}
+.container .detalle-premio .texto .btn-canjear{
+	width:100%;
+	font-size:20px;
+}
+.container .detalle-premio .texto .btn-canjear:hover{
+	background:#515151;
+	text-decoration:none
+}
+.container .descripcion-premio{
+	padding:0
+}
+.espacio-3{display:none}
+.guarda-dp{width:100%; margin:0}
+.container .mis-datos {padding:0;}
+.mis-datos .cabecera {width:100%; margin:0 0 15px 0}
+.mis-canjes .caja-premio{min-height:100px;}
+
+.cab-programa {background: url(../images/fd_el_programa2.jpg) no-repeat right top #eece47; padding-top:5px; height:auto}
+.cab-programa p {font-family: 'Uni Neue Heavy'; font-weight:bold; font-size:18px; width:100%}
+.qrbox .qr-img-box{ display:block; width: 100%; clear:both}
+.qrbox .qr-text-box{ display:block; width:100%;}
+
+.botonbalance {width:100%}
+.botonbalance2 {width:100%}
+
+.ttBusca .buscador .entre{
+	width:90px;
+}
+.container .detalle-premio .texto .btn-canjear{
+	margin-left:0;
+	width:90%;
+	margin-left:5%
+}
+.rb-detpremio{
+	padding:0 3%;
+}
+.rb-ttBusca h1{
+	font-size:23px
+}
+.mis-datos .rb-form{
+	width:100%;
+}
+.rb-espacio{
+	height:35px;
+}
+.mi-contacto .mi-nros{
+	 padding-top:0;
+}
+}
+@media (max-width:360px){
+	.navbar .idioma {
+	left:50%;
+	margin-left:0;
+
+}
+}

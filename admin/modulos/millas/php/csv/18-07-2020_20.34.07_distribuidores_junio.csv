@@ -1,0 +1,74 @@
+Año;Mes;Tipo;Region;Directa;Codigo;Usuario;linea;objetivo;avance;;ejecutivo;jefe;generente;Peso;Millas;individuales;ranking_mes;ranking_total
+2020;6;Distribuidor;AMBA;;47120000;DIRECTA SERVIMAR;Medio Alto;65;89;137;Federico Romano;Jaime Arocena;Alejandro Perrot;50%;480;60;26;28
+2020;6;Distribuidor;AMBA;;47120000;DIRECTA SERVIMAR;JW Red 375 ml;30;1;3;Federico Romano;Jaime Arocena;Alejandro Perrot;25%;0;0;26;28
+2020;6;Distribuidor;AMBA;;47120000;DIRECTA SERVIMAR;JW Black 200ml;30;0;0;Federico Romano;Jaime Arocena;Alejandro Perrot;25%;0;0;26;28
+2020;6;Distribuidor;AMBA;;49001000;DISTRIBUIDORA TRINIDAD;Medio Alto;590;658;112;Federico Romano;Jaime Arocena;Alejandro Perrot;50%;613;56;28;24
+2020;6;Distribuidor;AMBA;;49001000;DISTRIBUIDORA TRINIDAD;Johnnie Walker;110;59;54;Federico Romano;Jaime Arocena;Alejandro Perrot;50%;0;0;28;24
+2020;6;Distribuidor;AMBA;;66636000;ITATI;Medio Alto;500;607;121;Romina Gulo;Aldana Tancredi;Alejandro Perrot;50%;1020;60;7;8
+2020;6;Distribuidor;AMBA;;66636000;ITATI;Johnnie Walker;55;184;335;Romina Gulo;Aldana Tancredi;Alejandro Perrot;50%;1020;60;7;8
+2020;6;Distribuidor;AMBA;;68982000;ICN RN SAS;Medio Alto;60;21;35;Romina Gulo;Aldana Tancredi;Alejandro Perrot;50%;0;0;36;36
+2020;6;Distribuidor;AMBA;;68982000;ICN RN SAS;Johnnie Walker;25;11;44;Romina Gulo;Aldana Tancredi;Alejandro Perrot;50%;0;0;36;36
+2020;6;Distribuidor;CENTRO;;47162000;CHESI;Medio Alto;160;189;118;Jorge Abud ;Guido Lopez;María Perak;50%;413;59;12;22
+2020;6;Distribuidor;CENTRO;;47162000;CHESI;Johnnie Walker;20;24;120;Jorge Abud ;Guido Lopez;María Perak;50%;420;60;12;22
+2020;6;Distribuidor;CENTRO;;68978000;Cordoba Distribuciones;Medio Alto;230;269;117;Silvio Zavala;Ariel Llebeili ;María Perak;50%;819;58;27;4
+2020;6;Distribuidor;CENTRO;;68978000;Cordoba Distribuciones;Johnnie Walker;40;5;13;Silvio Zavala;Ariel Llebeili ;María Perak;50%;0;0;27;4
+2020;6;Distribuidor;CENTRO;;69094000;VAFOOD SRL;Medio Alto;150;223;149;Matias Campos;Ariel Llebeili ;María Perak;50%;480;60;24;9
+2020;6;Distribuidor;CENTRO;;69094000;VAFOOD SRL;Johnnie Walker;25;0;0;Matias Campos;Ariel Llebeili ;María Perak;50%;0;0;24;9
+2020;6;Distribuidor;CENTRO;;66146000;VALENTI FABIANA ANDREA;Medio Alto;100;137;137;Facundo Pacheco ;Guido Lopez;María Perak;50%;360;60;14;14
+2020;6;Distribuidor;CENTRO;;66146000;VALENTI FABIANA ANDREA;Johnnie Walker;20;23;115;Facundo Pacheco ;Guido Lopez;María Perak;50%;345;58;14;14
+2020;6;Distribuidor;CUYO;;68552000;GINO SRL;Medio Alto;75;154;205;Nicolas Perez;Natalia Girolimini;Nicolas Klappenbach;50%;360;60;2;12
+2020;6;Distribuidor;CUYO;;68552000;GINO SRL;Johnnie Walker;20;28;140;Nicolas Perez;Natalia Girolimini;Nicolas Klappenbach;50%;360;60;2;12
+2020;6;Distribuidor;CUYO;;64425000;ROVLAN SA (GO BAR);Medio Alto;240;260;108;Alexander Lopez;Natalia Girolimini;Nicolas Klappenbach;50%;596;54;29;26
+2020;6;Distribuidor;CUYO;;64425000;ROVLAN SA (GO BAR);Johnnie Walker;35;28;80;Alexander Lopez;Natalia Girolimini;Nicolas Klappenbach;50%;0;0;29;26
+2020;6;Distribuidor;LITORAL;;50340000;CENTRO DISTRIBUCION PERGAMINO;Medio Alto;45;71;158;Daniel Diaz;Virginia Camacho;Belen Reale;50%;300;60;6;31
+2020;6;Distribuidor;LITORAL;;50340000;CENTRO DISTRIBUCION PERGAMINO;Johnnie Walker;30;42;140;Daniel Diaz;Virginia Camacho;Belen Reale;50%;300;60;6;31
+2020;6;Distribuidor;LITORAL;;66431000;FULL POINT;Medio Alto;800;1310;164;Juan Manuel Rojas;Virginia Camacho;Belen Reale;50%;2400;60;22;3
+2020;6;Distribuidor;LITORAL;;66431000;FULL POINT;Johnnie Walker;90;42;47;Juan Manuel Rojas;Virginia Camacho;Belen Reale;50%;0;0;22;3
+2020;6;Distribuidor;LITORAL;;63612000;HUGO O. ISAAC DISTRIBUCIONES;Medio Alto;190;136;72;Mariano Stoddart;Candelaria Calvo;Belen Reale;50%;0;0;33;32
+2020;6;Distribuidor;LITORAL;;63612000;HUGO O. ISAAC DISTRIBUCIONES;Johnnie Walker;40;19;48;Mariano Stoddart;Candelaria Calvo;Belen Reale;50%;0;0;33;32
+2020;6;Distribuidor;LITORAL;;64650000;JOMAG REPRESENTACIONES S.R.L.;Medio Alto;510;627;123;Juan Manuel Rojas;Virginia Camacho;Belen Reale;50%;900;60;9;10
+2020;6;Distribuidor;LITORAL;;64650000;JOMAG REPRESENTACIONES S.R.L.;Johnnie Walker;70;148;211;Juan Manuel Rojas;Virginia Camacho;Belen Reale;50%;900;60;9;10
+2020;6;Distribuidor;LITORAL;;63506000;DYA DISTRIBUCIONES SRL;Medio Alto;75;133;177;Federico Trentin;Candelaria Calvo;Belen Reale;50%;840;60;13;6
+2020;6;Distribuidor;LITORAL;;63506000;DYA DISTRIBUCIONES SRL;Johnnie Walker;20;23;115;Federico Trentin;Candelaria Calvo;Belen Reale;50%;805;58;13;6
+2020;6;Distribuidor;NEA;;67560000;Bamana S.R.L.;Medio Alto;75;65;87;Sebastian Gomez;Maxi Marco;Belen Reale;50%;498;22;32;19
+2020;6;Distribuidor;NEA;;67560000;Bamana S.R.L.;Johnnie Walker;60;40;67;Sebastian Gomez;Maxi Marco;Belen Reale;50%;0;0;32;19
+2020;6;Distribuidor;NEA;;50117000;DON SENDO S.A.;Medio Alto;420;863;205;Romina Velazquez;Maxi Marco;Belen Reale;50%;1920;60;1;1
+2020;6;Distribuidor;NEA;;50117000;DON SENDO S.A.;Johnnie Walker;110;194;176;Romina Velazquez;Maxi Marco;Belen Reale;50%;1920;60;1;1
+2020;6;Distribuidor;NEA;;60531000;LOGEX SRL;Medio Alto;750;1107;148;German Curchmar Perez;Maxi Marco;Belen Reale;50%;2100;60;3;2
+2020;6;Distribuidor;NEA;;60531000;LOGEX SRL;Johnnie Walker;115;308;268;German Curchmar Perez;Maxi Marco;Belen Reale;50%;2100;60;3;2
+2020;6;Distribuidor;NEA;;50109000;SPILERE JUAN  CEFERINO;Medio Alto;100;159;159;Tomas Mendez;Maxi Marco;Belen Reale;50%;660;60;23;17
+2020;6;Distribuidor;NEA;;50109000;SPILERE JUAN  CEFERINO;Johnnie Walker;30;14;47;Tomas Mendez;Maxi Marco;Belen Reale;50%;0;0;23;17
+2020;6;Distribuidor;NOA;;61986000;CODENOA;Medio Alto;110;144;131;Agustin Rojas Alvarez;Patricio Araoz;María Perak;50%;1380;60;16;15
+2020;6;Distribuidor;NOA;;61986000;CODENOA;Johnnie Walker;50;57;114;Agustin Rojas Alvarez;Patricio Araoz;María Perak;50%;1311;57;16;15
+2020;6;Distribuidor;NOA;;67522000;SEJO;Medio Alto;190;201;106;Francisco Soria;Patricio Araoz;María Perak;50%;1164;53;30;16
+2020;6;Distribuidor;NOA;;67522000;SEJO;Johnnie Walker;55;20;36;Francisco Soria;Patricio Araoz;María Perak;50%;0;0;30;16
+2020;6;Distribuidor;NOA;;60577000;ZACARIAS PEJINAKIS (Jujuy);Medio Alto;75;115;153;Serapio De Tezanos Pinto ;Patricio Araoz;María Perak;50%;780;60;5;11
+2020;6;Distribuidor;NOA;;60577000;ZACARIAS PEJINAKIS (Jujuy);Johnnie Walker;40;65;163;Serapio De Tezanos Pinto ;Patricio Araoz;María Perak;50%;780;60;5;11
+2020;6;Distribuidor;NOA;;60577001;Zacarias Pejinakis (Salta);Medio Alto;40;32;80;Marina Sanchez;Patricio Araoz;María Perak;50%;0;0;35;35
+2020;6;Distribuidor;NOA;;60577001;Zacarias Pejinakis (Salta);Johnnie Walker;40;11;28;Marina Sanchez;Patricio Araoz;María Perak;50%;0;0;35;35
+2020;6;Distribuidor;PBA;;60727000;BEYCO S.A.;Medio Alto;350;468;134;Diego Logotetti;Guido Pagliettini;Nicolas Klappenbach;50%;1020;60;8;13
+2020;6;Distribuidor;PBA;;60727000;BEYCO S.A.;Johnnie Walker;50;80;160;Diego Logotetti;Guido Pagliettini;Nicolas Klappenbach;50%;1020;60;8;13
+2020;6;Distribuidor;PBA;;50032000;CD 9 DE JULIO;Medio Alto;180;210;117;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;50%;583;58;17;25
+2020;6;Distribuidor;PBA;;50032000;CD 9 DE JULIO;Johnnie Walker;50;56;112;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;50%;560;56;17;25
+2020;6;Distribuidor;PBA;;50342000;CD JUNIN;Medio Alto;85;142;167;Anabella Mecozzi;Guido Pagliettini;Nicolas Klappenbach;50%;480;60;4;21
+2020;6;Distribuidor;PBA;;50342000;CD JUNIN;Johnnie Walker;20;29;145;Anabella Mecozzi;Guido Pagliettini;Nicolas Klappenbach;50%;480;60;4;21
+2020;6;Distribuidor;PBA;;50341000;CHACABUCO;Medio Alto;75;101;135;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;50%;360;60;25;33
+2020;6;Distribuidor;PBA;;50341000;CHACABUCO;Johnnie Walker;15;7;47;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;50%;0;0;25;33
+2020;6;Distribuidor;PBA;;50638000;HILLER;Medio Alto;360;331;92;Mariano Jabif;Jorgelina Pollice;Nicolas Klappenbach;50%;391;23;21;20
+2020;6;Distribuidor;PBA;;50638000;HILLER;Johnnie Walker;50;78;156;Mariano Jabif;Jorgelina Pollice;Nicolas Klappenbach;50%;1020;60;21;20
+2020;6;Distribuidor;PBA;;61067000;LATITUD 37 SRL;Medio Alto;160;160;100;Juan Salomone;Jorgelina Pollice;Nicolas Klappenbach;50%;550;50;19;30
+2020;6;Distribuidor;PBA;;61067000;LATITUD 37 SRL;Johnnie Walker;35;37;106;Juan Salomone;Jorgelina Pollice;Nicolas Klappenbach;50%;581;53;19;30
+2020;6;Distribuidor;PBA;;68804000;MACO COAST BEER SAS;Medio Alto;130;158;122;Nicolás Pelegrín;Guido Pagliettini;Nicolas Klappenbach;50%;360;60;11;5
+2020;6;Distribuidor;PBA;;68804000;MACO COAST BEER SAS;Johnnie Walker;30;42;140;Nicolás Pelegrín;Guido Pagliettini;Nicolas Klappenbach;50%;360;60;11;5
+2020;6;Distribuidor;PBA;;62379000;MIGUEL FRAIFER SA;Medio Alto;140;141;101;Agustin Porto;Guido Pagliettini;Nicolas Klappenbach;50%;302;50;18;18
+2020;6;Distribuidor;PBA;;62379000;MIGUEL FRAIFER SA;Johnnie Walker;30;37;123;Agustin Porto;Guido Pagliettini;Nicolas Klappenbach;50%;360;60;18;18
+2020;6;Distribuidor;SUR;;68233000;CASANOVA DANIEL (Interfaz);Medio Alto;80;105;131;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;50%;420;60;15;7
+2020;6;Distribuidor;SUR;;68233000;CASANOVA DANIEL (Interfaz);Johnnie Walker;20;23;115;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;50%;403;58;15;7
+2020;6;Distribuidor;SUR;;41055000;DISLAC TRELEW S.R.L.;Medio Alto;100;126;126;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;50%;660;60;10;23
+2020;6;Distribuidor;SUR;;41055000;DISLAC TRELEW S.R.L.;Johnnie Walker;35;43;123;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;50%;660;60;10;23
+2020;6;Distribuidor;SUR;;43713000;PUELCHE;Medio Alto;90;91;101;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;50%;354;51;31;29
+2020;6;Distribuidor;SUR;;43713000;PUELCHE;Johnnie Walker;20;0;0;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;50%;0;0;31;29
+2020;6;Distribuidor;SUR;;68221000;SPA PATAGONIA SRL;Medio Alto;75;77;103;Federico Perfare;Ignacio Sciarra;Nicolas Klappenbach;50%;205;51;20;27
+2020;6;Distribuidor;SUR;;68221000;SPA PATAGONIA SRL;Johnnie Walker;15;15;100;Federico Perfare;Ignacio Sciarra;Nicolas Klappenbach;50%;200;50;20;27
+2020;6;Distribuidor;SUR;;63131000;GRUPO SERRA;Medio Alto;50;38;76;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;50%;0;0;34;34
+2020;6;Distribuidor;SUR;;63131000;GRUPO SERRA;Johnnie Walker;20;1;5;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;50%;0;0;34;34

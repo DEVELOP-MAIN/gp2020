@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Panel de control</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+<link href="../../css/estructura.css" rel="stylesheet" type="text/css" />
+<link href="../../css/listados.css" rel="stylesheet" type="text/css" />
+<link href="../../css/datepicker.css" rel="stylesheet" type="text/css" />
+<link href="../../css/forms.css" rel="stylesheet" type="text/css" />
+<link href="../../css/protoload.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="../../js/config.js"></script>
+<script type="text/javascript" src="../../js/prototype.js"></script>
+<script type="text/javascript" src="../../js/protoload.js"></script>
+<script type="text/javascript" src="../../js/scriptaculous.js"></script>
+<script type="text/javascript" src="../../js/sortable.js"></script>
+<script type="text/javascript" src="../../js/validation.js"></script>
+<script type="text/javascript" src="../../js/fabtabulous.js"></script>
+<script type="text/javascript" src="../../js/datepicker.js"></script>
+<script type="text/javascript" src="../../js/datefunctions.js"></script>
+<script type="text/javascript" src="../../js/nicEdit.js"></script>
+<script type="text/javascript" src="../seguridad/js/conectado_a.js"></script>
+<script type="text/javascript" src="js/movimientos.js"></script>
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function validaCuit(sCUIT)
+{    
+	var aMult = '5432765432';
+	var aMult = aMult.split('');
+	
+	if (sCUIT && sCUIT.length == 11)
+	{
+		aCUIT = sCUIT.split('');
+		var iResult = 0;
+		for(i = 0; i <= 9; i++)
+		{
+			iResult += aCUIT[i] * aMult[i];
+		}
+		iResult = (iResult % 11);
+		iResult = 11 - iResult;
+		
+		if (iResult == 11) iResult = 0;
+		if (iResult == 10) iResult = 9;
+	} 
+	else
+	{
+		alert('El CUIT/CUIL ingresado no es v\u00e1lido');		
+		return false;
+	}	
+
+	if (iResult != aCUIT[10])
+	{
+		alert('El CUIT/CUIL ingresado no es v\u00e1lido');		
+		return false;
+	} 
+	else
+		return true;
+}  
+//-->
+</script>
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="inicia();MM_preloadImages('../../img/im_flecha_top_on.gif')">
+	<table width="97%" border="0" align="center" cellpadding="0" cellspacing="0">
+		<tr>
+		  <td height="48" align="left" valign="bottom">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="60%" height="110" valign="middle"><img src="../../img/logo_mercadoideal.png" width="185" height="93" alt="Mercado Ideal"/></td>
+						<td width="20%" align="center">&#160;</td>
+						<td width="20%" align="right" valign="middle" class="textoBlanco12Bold"><img src="../../img/logo_brahma-quilmes2.png" width="215" height="72" alt="Brahma Quilmes"/></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+		  <td align="center" valign="top" bgcolor="#E3E3E3">
+				<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffcc18">
+					<tr>
+						<td width="70" height="67" align="left" valign="middle"><img src="../../img/tt_usuario.gif" width="84" height="17" style="margin-left:15px" /></td>
+						<td width="50%" align="left" valign="middle"><div id="loggeduser"></div></td>
+						<td width="50%" align="left" valign="middle"><div id="fecha"></div></td>
+						<td width="55" align="left" valign="middle"><a href="../login/"><img src="../../img/tt_salir.gif" width="53" height="17" border="0" style="margin-right:15px"/></a></td>
+					</tr>
+				</table>
+				<!--Menu Desplegable-->
+				<script src="../../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+				<link href="../../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+				<div id="menu" class="desplegable"></div>
+				<!--Fin Menu-->
+				<table width="97%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="BoxContenidos">
+					<tr>
+						<td align="center">
+							<table width="97%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td width="33%">
+										<div id="titulo" style="display:block;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td width="75%" height="50" align="left" valign="middle" class="textoMarron14sinhover">Administraci&#243;n de Movimientos de <span id="user"></span></td>
+													<td width="25%" height="50" align="right" valign="top">
+														<div class="linkVolver" style="margin-top:15px">
+															<a href="#" onclick="volver();">&#x25c4; Volver al listado de usuarios</a>
+														</div>
+													</td>
+												</tr>
+											</table>
+										</div>
+										<div id="titulosecciones" style="display:none;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr><td height="35" align="left" valign="middle" class="textoMarron14sinhover"><strong><div id="usuario"></div></strong></td>
+												</tr>
+											</table>
+										</div>
+										<div id="disponibles">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr valign="top">
+													<td width="20%" align="left"> 
+														<div id="buscador">
+															<table width="100%" height="35" border="0" cellpadding="0" cellspacing="0" class="BoxListados">
+																<tr>
+																	<td bgcolor="#484848"><img src="../../img/10X10.gif" height="5" /></td>
+																</tr>
+																<tr> 
+																	<td align="center" valign="middle" bgcolor="#484848"> 
+																		<button class="btnFormularios" value="Agregar Movimiento" onclick="showAddForm();">Agregar Movimiento</button>
+																	</td>
+																</tr>
+																<tr>
+																	<td bgcolor="#484848"><img src="../../img/10X10.gif" height="5" /></td>
+																</tr>
+															</table><br />
+															<form id="frm_buscador" name="frm_buscador" action="#" onsubmit="return false;">
+																<table width="100%" border="0" cellpadding="0" cellspacing="0" class="BoxListados">
+																	<tr bgcolor="#484848"> 
+																		<td height="27" bgcolor="#484848" class="textoBlanco12Bold">&#160;&#160;Buscador</td>
+																	</tr>
+																	<tr> 
+																		<td><img src="../../img/10X10.gif" width="10" height="5" /></td>
+																	</tr>
+																	<tr> 
+																		<td height="25" class="textoPetroleo12d">
+																			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																				<tr> 
+																					<td height="20" class="textoPetroleo12b">Entre esta fecha</td>
+																				</tr>
+																				<tr> 
+																					<td height="35" class="textoPetroleo12"> 
+																						<input id="filtro_desde" name="filtro_desde" type="text" class="textINPUT" size="25" />
+																					</td>
+																				</tr>
+																				<tr> 
+																					<td height="20" class="textoPetroleo12b">Hasta esta fecha</td>
+																				</tr>
+																				<tr> 
+																					<td height="35" class="textoPetroleo12"> 
+																						<input id="filtro_hasta" name="filtro_hasta" type="text" class="textINPUT" size="25" />
+																					</td>
+																				</tr>
+																				<tr> 
+																					<td height="35" align="center" class="textoPetroleo12"> 
+																						<input name="button" type="button" class="btnFormularios2" value="Buscar" onclick="resetPagina();buscar();return false;"/>																					
+																					</td>
+																				</tr>
+																			</table>																		
+																		</td>
+																	</tr>
+																</table>
+															</form>
+														</div><!--cierra div buscador-->
+														<div id="ayuda" style="display:none;">
+															<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																<tr>
+																	<td>
+																		<div id="alta_asistencia">
+																			<table width="100%" border="0" cellpadding="0" cellspacing="0" class="BoxListados">
+																				<tr bgcolor="#484848"> 
+																					<td height="27" bgcolor="#484848" class="textoBlanco12Bold" align="center">&#160;Asistencia al Usuario</td>
+																				</tr>
+																				<tr> 
+																					<td><img src="../../img/10X10.gif" width="10" height="5"></td>
+																				</tr>
+																				<tr> 
+																					<td height="25" class="textoPetroleo12">
+																						<table width="98%" border="0" cellspacing="0" cellpadding="0">
+																							<tr valign="top"> 
+																								<td width="10%" height="25" align="center"><img src="../../img/im_ayuda.gif" width="8" height="17"></td>
+																								<td width="90%" align="left" class="textoPetroleo12Ayuda">
+																									<div id="textoayuda"></div>																								
+																								</td>
+																							</tr>
+																							<tr> 
+																								<td align="center" class="textoPetroleo12"><img src="../../img/10X10.gif" width="10" height="10"></td>
+																								<td align="center" class="textoPetroleo12"><img src="../../img/10X10.gif" width="10" height="10"></td>
+																							</tr>
+																						</table>																					
+																					</td>
+																				</tr>
+																			</table>	
+																		</div>
+																		<div id="alta_verificando" style="display:none">
+																			<table width="100%" height="100%" border="0" cellpadding="10" cellspacing="0">
+																				<tr>
+																					<td align="center" valign="middle" class="textoPetroleo12Ayuda">
+																						<img src="../../img/an_aguarde.gif" width="106" height="106" />																					
+																					</td>
+																				</tr>
+																			</table>  
+																		</div>																	
+																	</td>
+																</tr>
+															</table>
+														</div><!--cierra div ayuda-->													
+													</td>
+													<td width="1%"><img src="../../img/10X10.gif" width="10" height="10" /></td>
+													<td width="79%" align="left">
+														<!--LISTADO-->
+														<div id="listado">
+															<table bgcolor="#484848" class="textoBlanco12" id="table-0" cellspacing="0" height="60" width="100%">
+																<tr>
+																	<td align="center" height="60" valign="middle">No se encontraron resultados para su b&#250;squeda</td>			
+																</tr>
+															</table>
+														</div>
+														<!--cierra LISTADO-->
+														<!--ALTA MOVIMIENTO-->
+														<div id="alta" style="display:none;">
+															<form id="frm_alta" name="frm_alta" method="POST" onsubmit="return false;" enctype='multipart/form-data'>
+																<input type="hidden" id="idingreso" name="idingreso" value="">
+																<input type="hidden" id="idusuario" name="idusuario" value="">
+																<table width="100%" border="0" cellpadding="8" cellspacing="0" class="BoxListados">
+																	<tr> 
+																		<td height="35" align="center" valign="middle" bgcolor="#484848" class="textoPetroleo14"> 
+																			<div id="frmtitulo"></div>																		
+																		</td>
+																	</tr>
+																	<tr> 
+																		<td align="center" valign="middle">
+																			<table width="65%" border="0" cellspacing="0" cellpadding="0">
+																				<tr class="textoPetroleo12"> 
+																					<td width="50%" align="left"><strong>Puntos (*)</strong></td>
+																					<td width="50%" align="left"><strong>Observaciones</strong></td>
+																				</tr>
+																				<tr class="textoPetroleo12"> 
+																					<td align="left" valign="top">
+																						<input id="frm_alta_puntos" name="frm_alta_puntos" type="text" class="textINPUT2 required" size="13">
+																					</td>
+																					<td align="left" valign="top">
+																						<input id="frm_alta_motivo" name="frm_alta_motivo" type="text" class="textINPUT2 required" size="13">
+																					</td>
+																				</tr>	
+																				<tr class="textoPetroleo12"> 
+																					<td colspan="2" align="left"><strong>Observaciones</strong></td>
+																				</tr>
+																				<tr class="textoPetroleo12"> 
+																					<td align="left" valign="top" colspan="2">
+																						<textarea id="frm_alta_observaciones" name="frm_alta_observaciones" style="width:100%" class="textINPUT2" rows="6"></textarea>
+																					</td>
+																				</tr>	
+																					
+																				</tr>
+																				<tr class="textoPetroleo12"><td>&#160;</td></tr>
+																			</table>
+																		</td>
+																	</tr>
+																	<tr> 
+																		<td height="35" align="center" valign="middle" bgcolor="#484848"> 
+																			<button type="button" id="btnagregar" name="btnagregar" class="btnFormularios2" onclick="verificarAlta();">Guardar</button>
+																			<button style="display:none;" type="button" id="btneditar" name="btneditar" class="btnFormularios2" onclick="verificarEdicion();">Guardar</button>																			
+																			<button type="reset" name="cancelar" class="btnFormularios2" onclick="Cancelar();">Cancelar</button>
+																		</td>
+																	</tr>
+																</table>
+															</form>
+															<iframe id='movimiento_upload_target' name='movimiento_upload_target' src='' style='border: 0px solid rgb(255, 255, 255); width: 0pt; height: 0pt;'></iframe>		
+														</div><!--cierra ALTA MOVIMIENTO-->
+													</td>
+												</tr>
+											</table>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table width="97%" border="0" cellspacing="0" cellpadding="0"><tr><td>&#160;</td></tr></table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Mercado Ideal</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/mercado-ideal.css" rel="stylesheet">
+
+
+
+</head>
+
+<body style="background:#20abe2;">
+
+
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+        		<div class="col-lg-4"></div>
+                <div class="col-lg-4 lgrecLogin">
+                 <h2>Ingresar</h2>
+                <form name="sentMessage" id="contactForm" novalidate>
+                    <div class="control-group form-group">
+                        <div class="controls">
+                            <label>Email:</label>
+                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                            <p class="help-block"></p>
+                        </div>
+                    </div>
+                    <div class="control-group form-group">
+                        <div class="controls">
+                            <label>Clave:</label>
+                            <input type="tel" class="form-control" id="phone" required data-validation-required-message="Please enter your phone number.">
+                        </div>
+                    </div>
+                    <div id="success"></div>
+                    <!-- For success/fail messages -->
+                    <button type="button" onclick="javascript:document.location='home.html'" class="btnLoguin">Entrar</button>
+                </form>
+                <div class="lgClave"><a href="#">&iquest;Olividaste tu clave?</a></div>
+                </div>
+                <div class="col-lg-4"></div>
+				</div>
+                
+                <div class="row">
+                    <div class="col-lg-4"></div>
+                    <div class="col-lg-4 lgrecRegistro">
+                    &iquest;A&uacute;n no est&aacute;s participando del programa?
+                    <button type="button" onclick="javascript:document.location='crear_cuenta.html'" class="btnReg">Crear una cuenta</button>
+                    </div>
+                    <div class="col-lg-4"></div>
+                </div>
+                
+		</div>
+    </div>
+   
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

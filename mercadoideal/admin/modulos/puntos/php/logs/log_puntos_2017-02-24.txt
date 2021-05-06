@@ -1,0 +1,24 @@
+Procesando la linea 0
+- FILA 0 SE CARGARON: 50 PUNTOS <font color="RED"> | FALTA EL ID DE CLIENTE </font>
+Procesando la linea 1
+- FILA 1 SE CARGARON: 150 PUNTOS <font color="RED"> | FALTA EL ID DE CLIENTE </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 150 PUNTOS <font color="RED"> | FALTA EL ID DE CLIENTE </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 250 PUNTOS <font color="RED"> | FALTA EL ID DE CLIENTE </font>
+Procesando la linea 0
+- FILA 0 SE CARGARON: 50 PUNTOS <font color="RED"> | FALTA EL ID DE CLIENTE </font>
+Procesando la linea 1
+- FILA 1 SE CARGARON: 150 PUNTOS <font color="RED"> | FALTA EL ID DE CLIENTE </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 150 PUNTOS <font color="RED"> | FALTA EL ID DE CLIENTE </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 250 PUNTOS <font color="RED"> | FALTA EL ID DE CLIENTE </font>
+Procesando la linea 0
+- FILA 0 SE CARGARON: 50 PUNTOS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 150 PUNTOS 
+Procesando la linea 2
+- FILA 2 SE CARGARON: 150 PUNTOS 
+Procesando la linea 3
+- FILA 3 SE CARGARON: 250 PUNTOS 

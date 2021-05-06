@@ -1,0 +1,2 @@
+[23-Jun-2020 00:04:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/dixer/public_html/gp2020/admin/php/class/class.listado.php:1) in /home4/dixer/public_html/gp2020/admin/php/class/class.canje.php on line 11
+[23-Jun-2020 00:07:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/dixer/public_html/gp2020/admin/php/class/class.listado.php:1) in /home4/dixer/public_html/gp2020/admin/php/class/class.canje.php on line 11

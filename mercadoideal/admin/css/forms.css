@@ -1,0 +1,159 @@
+input.required, textarea.required {
+	border: 1px solid #e3e3e3;
+}
+
+input.validation-failed, textarea.validation-failed {
+	border: 1px solid #e3e3e3;
+	color : #262A25;
+}
+
+input.validation-passed, textarea.validation-passed {
+	border: 1px solid #C5C5C5;
+}
+
+.validation-advice {
+	font-family: Arial;
+	font-size: 12px;
+	margin: 2px 0;
+	padding: 3px;
+	background-color: #191C18;
+	color : #FFF;
+	font-weight: bold;
+	width: 184px;
+}
+
+.custom-advice {
+	margin: 5px 0;
+	padding: 5px;
+	background-color: #C8AA00;
+	color : #FFF;
+	font-weight: bold;
+}
+
+fieldset {
+	font-family: arial;
+	font-size:9px;	
+}
+
+label {
+	font-weight: bold;
+}
+
+.form-row {
+	clear: both;
+	padding: 0.5em;
+}
+
+.field-label {
+}
+
+.field-widget {
+}
+
+input.disabled {
+	border: 0px solid;
+	background-color: #FFFFFF;
+}
+
+.form-diabled input, textarea, select{
+	border: 0px solid;
+	background-color: #FFFFFF;
+}
+
+/*fotos*/
+.contentFotos {
+	background-color: #C2E6F5;
+	width: 100%;
+	OVERFLOW:auto;
+	SCROLLBAR-FACE-COLOR: #BDDFF7;
+	SCROLLBAR-HIGHLIGHT-COLOR: #FFFFFF;
+	SCROLLBAR-SHADOW-COLOR: #666666;
+	SCROLLBAR-3DLIGHT-COLOR: #b5b5b2;
+	SCROLLBAR-ARROW-COLOR: #29516B;
+	SCROLLBAR-DARKSHADOW-COLOR: #63A2CE;
+	text-align: left;
+	padding: 2px;
+	HEIGHT: 230px;
+}
+.contentDocumentos {
+	background-color: #C2E6F5;
+	width: 100%;
+	OVERFLOW:auto;
+	SCROLLBAR-FACE-COLOR: #BDDFF7;
+	SCROLLBAR-HIGHLIGHT-COLOR: #FFFFFF;
+	SCROLLBAR-SHADOW-COLOR: #666666;
+	SCROLLBAR-3DLIGHT-COLOR: #b5b5b2;
+	SCROLLBAR-ARROW-COLOR: #29516B;
+	SCROLLBAR-DARKSHADOW-COLOR: #63A2CE;
+	text-align: left;
+	padding: 2px;
+	HEIGHT: 170px;
+}
+.contentFotosAlbum {
+	background-color: #C2E6F5;
+	width: 100%;
+	OVERFLOW:auto;
+	SCROLLBAR-FACE-COLOR: #BDDFF7;
+	SCROLLBAR-HIGHLIGHT-COLOR: #FFFFFF;
+	SCROLLBAR-SHADOW-COLOR: #666666;
+	SCROLLBAR-3DLIGHT-COLOR: #b5b5b2;
+	SCROLLBAR-ARROW-COLOR: #29516B;
+	SCROLLBAR-DARKSHADOW-COLOR: #63A2CE;
+	text-align: left;
+	padding: 2px;
+	HEIGHT: 590px;
+}
+.thumbFotos {
+	width: 340px;
+	height: 215px;
+	border: 1px solid #FFFFFF;
+	float: left;
+	background-color: #FFFFFF;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+}
+.thumbDocumentos {
+	width: 100%px;	
+	border: 1px solid #E3E3E3;
+	float: left;
+	background-color: #FFFFFF;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+}
+.fdEpigrafe {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 15px;
+	color: #252924;
+	text-decoration: none;
+	background-color: #FFFFFF;
+	height: 25px;
+}
+.spacer{	
+	HEIGHT: 10px;
+	float: left;
+}
+.menuAdmImg {
+	background-color: #FFFFFF;
+	background-image: url(../img/fd_tt_img_admin.gif);
+	background-repeat:  repeat-x;
+	background-position: left bottom;
+	height: 40px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-bottom-color: #D9D8D8;
+}
+.inputImport{
+	border: 1px solid #E3E3E3;
+}
+

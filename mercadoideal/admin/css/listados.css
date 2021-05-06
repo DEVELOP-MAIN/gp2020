@@ -1,0 +1,122 @@
+.sort-table {
+	width:	100%;
+	font:		Arial, Verdana, Helvetica, Sans;
+	font-size: 12px;
+	border:		1px Solid ThreeDShadow;
+	background:	Window;
+	color:		WindowText;
+}
+
+.sort-table thead {
+	background:#C8DEE9;
+	font-weight: bold;
+	color: #0B246F;	
+}
+
+.sort-table td {	
+	padding:	2px 5px;
+	height: 23px;
+}
+
+.sort-table thead td {
+	height: 40;
+	border:			1px solid;
+	border-color:	ButtonHighlight ButtonShadow
+					ButtonShadow ButtonHighlight;
+	cursor:			default;
+}
+
+.sort-table thead td:active {
+	border-color:	ButtonShadow ButtonHighlight
+					ButtonHighlight ButtonShadow;
+	padding:		3px 4px 1px 6px;
+}
+
+.sort-table thead td[_sortType=None]:active {
+	border-color:	ButtonHighlight ButtonShadow
+					ButtonShadow ButtonHighlight;
+	padding:		2px 5px;
+}
+
+.sort-tableBig {
+	width:	97%;
+	font:		Arial, Verdana, Helvetica, Sans;
+	border:		1px Solid ThreeDShadow;
+	background:	Window;
+	color:		WindowText;
+}
+
+.sort-tableBig thead {
+	background:#C8DEE9;
+	font-weight: bold;
+	color: #0B246F;	
+}
+
+.sort-tableBig td {	
+	padding:	2px 5px;
+	height: 30px;
+}
+
+.sort-tableBig thead td {
+	height: 40;
+	border:			1px solid;
+	border-color:	ButtonHighlight ButtonShadow
+					ButtonShadow ButtonHighlight;
+	cursor:			default;
+}
+
+.sort-tableBig thead td:active {
+	border-color:	ButtonShadow ButtonHighlight
+					ButtonHighlight ButtonShadow;
+	padding:		3px 4px 1px 6px;
+}
+
+.sort-tableBig thead td[_sortType=None]:active {
+	border-color:	ButtonHighlight ButtonShadow
+					ButtonShadow ButtonHighlight;
+	padding:		2px 5px;
+}
+
+
+.sort-arrow {
+	background-position:	center center;
+	background-repeat:		no-repeat;
+	margin:					0 2px;
+}
+
+.sort-arrow.descending {
+	background-image:	url(../img/listdown.gif);
+
+}
+
+.sort-arrow.ascending {
+	background-image: url(../img/listup.gif);
+}
+
+.even {
+	background:	#E7EFF3;
+}
+
+.atendido{
+	background:	#CCCCCC;
+}
+
+.odd {
+}
+
+.amarillo {
+	background:	#FFFF99;
+}
+
+.rojo {
+	background:	#FE5461;
+}
+
+div.resize-handle {
+	cursor: e-resize;
+	width: 2px;
+	border-right: 1px dashed #1E90FF;
+	position:absolute;
+	top:0;
+	left:0;
+}

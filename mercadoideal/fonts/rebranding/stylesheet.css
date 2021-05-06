@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Japanese 3017';
+    src: url('Japanese3017.woff2') format('woff2'),
+        url('Japanese3017.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Uni Neue Black';
+    src: url('UniNeueBlack.woff2') format('woff2'),
+        url('UniNeueBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Uni Neue Heavy';
+    src: url('UniNeueHeavy.woff2') format('woff2'),
+        url('UniNeueHeavy.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Uni Neue Bold';
+    src: url('UniNeueBold.woff2') format('woff2'),
+        url('UniNeueBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Uni Neue';
+    src: url('UniNeueRegular.woff2') format('woff2'),
+        url('UniNeueRegular.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+

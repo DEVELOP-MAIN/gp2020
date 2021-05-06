@@ -1,0 +1,180 @@
+Procesando la linea 1
+- FILA 1 SE CARGARON: 3 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 3 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 4
+- FILA 4 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 5
+- FILA 5 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 6
+- FILA 6 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 1
+- FILA 1 SE CARGARON: 3 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 3 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 4
+- FILA 4 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 5
+- FILA 5 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 6
+- FILA 6 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 1
+- FILA 1 SE CARGARON: 3 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 3 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 4
+- FILA 4 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 5
+- FILA 5 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 6
+- FILA 6 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 1
+- FILA 1 SE CARGARON: 3 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 3 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 4
+- FILA 4 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 5
+- FILA 5 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 6
+- FILA 6 SE CARGARON: 1 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 1
+- FILA 1 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 20 MILLAS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 10 MILLAS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 5 MILLAS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 15 MILLAS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 20 MILLAS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 10 MILLAS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 5 MILLAS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 15 MILLAS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 20 MILLAS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 10 MILLAS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 5 MILLAS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 15 MILLAS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 25 MILLAS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 25 MILLAS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 25 MILLAS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 25 MILLAS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 25 MILLAS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 25 MILLAS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 25 MILLAS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 25 MILLAS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 25 MILLAS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 25 MILLAS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 25 MILLAS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 25 MILLAS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 25 MILLAS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 25 MILLAS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 25 MILLAS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 25 MILLAS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 25 MILLAS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 25 MILLAS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 25 MILLAS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 25 MILLAS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 25 MILLAS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 25 MILLAS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 25 MILLAS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 25 MILLAS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 25 MILLAS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 25 MILLAS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 25 MILLAS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 25 MILLAS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 2
+- FILA 2 SE CARGARON: 25 MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font>
+Procesando la linea 3
+- FILA 3 SE CARGARON: 25 MILLAS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 25 MILLAS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 25 MILLAS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 25 MILLAS 

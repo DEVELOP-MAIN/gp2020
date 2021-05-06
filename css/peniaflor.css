@@ -1,0 +1,1845 @@
+@import url("fonts.css");
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-top: 3rem;
+  color: #5a5a5a;
+  font-family: 'Avenir Next LT Pro';
+}
+
+/* LOGIN
+-------------------------------------------------- */
+.lgLogo {
+  text-align:center;
+  padding-bottom:35px
+}
+.lgrecLogin {
+  background:#1d1d1d;
+  color:#FFF;
+  border-radius:7px;
+  padding:10px 5% 20px 5%
+}
+.lgrecLogin h2{
+   font-family: 'Formula1 Display';
+   text-align:center;
+   font-size:1.6rem
+}
+.lgrecLogin .btn-login{
+   margin:auto;
+   padding:10px 10%;
+   font-size:1rem
+}
+.lgrecLogin #success{
+   width:100%;
+   text-align:center;
+   color:#FFF;
+   padding-bottom:10px
+   
+}
+.lgClave{
+   width:100%;
+   text-align:center;
+   color:#FFF;
+   padding:20px
+}
+.lgClave a{
+   color:#FFF;  
+}
+
+/* PEÑAFLOR
+-------------------------------------------------- */
+.container-lg {
+  max-width:1140px;
+  padding:0;
+  clear:both
+}
+.gp-btn-rojo-borde{
+   font-family: 'Avenir Next DM Pro';
+   border: 1px solid #e30613;
+   border-radius:5px;
+ 	color:#e30613;
+	text-align:center;
+	padding:10px 3%;
+	display:block;
+	text-transform:uppercase;
+	font-size:0.8rem;
+	background:none;
+}
+.gp-btn-rojo-borde:hover{
+   background:#e30613;
+ 	color:#1d1d1d;
+	text-decoration:none
+}
+.gp-franja1{
+   height:2.3rem
+}
+.gp-franja-lineas{
+   background:url(../img/fd_linea_gruesa.png) repeat-x;
+   height:24px;
+   width:100%;
+   clear:both;
+   margin:0; padding:0;
+}
+.gp-franja-banner{
+   background: url(../img/fd_linea_gruesa2.png) repeat-x;
+   width:100%;
+   clear:both;
+   margin:1.5rem 0 2rem 0;
+   text-align:center;
+   padding:1.5rem 0
+}
+.gp-franja-banner .carousel{
+   float:none;
+   margin:auto;
+   height:100px;
+   border-top-left-radius:0;
+   border-bottom-left-radius:0
+}
+footer{
+   background:#000;
+   color:#FFF;
+   width:100%;
+   padding:2.5rem 0 1.5rem;
+   margin-bottom:0;
+   overflow:hidden;
+   font-weight:normal
+}
+footer a{
+   color:#FFF;
+   margin:0 1rem
+}
+footer a:hover{
+   color:#e30613;
+}
+footer span{
+   margin:0 1rem
+}
+@media (max-width: 768px) {
+.gp-franja1{
+   height:1.4rem
+}
+.gp-franja-banner img{
+   width:90%;
+   margin:auto
+}
+footer {
+   padding:1.5rem 0;
+}
+footer p{
+   display:block;
+   margin:0; padding:0
+}
+footer span{
+   display:block;
+   padding: 0 0 0.5rem;
+   width:90%
+}
+}
+
+/* CABECERA
+--------------------------------------------------*/
+.gp-header{
+  height:43px
+}
+.navbar{
+  font-family: 'Formula1 Display';
+  color:#FFF;
+}
+.bg-gp2020 {
+  background:#e30613;
+  color:#FFF
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 1);
+	padding:0 15px;
+}
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color: rgba(29, 29, 27, 1);
+}
+.navbar-dark .navbar-collapse {
+    text-align: center;
+}
+.navbar-dark .navbar-collapse .mr-auto {
+    margin:auto
+}
+.navbar-dark .navbar-toggler {
+    color: rgba(255, 255, 255, 1);
+    border:none;
+}
+@media (max-width: 768px) {
+.gp-header{
+ 	height:12px;
+}
+.navbar-dark .navbar-collapse {
+    text-align: left;
+}
+.navbar-dark .navbar-nav .nav-link {
+	padding:5px 0;
+	border-top: solid 1px rgba(255, 255, 255, 0.5);
+}
+.navbar-dark .navbar-collapse .mr-auto {
+    margin:20px 0;
+	width:97%
+}
+.gp-header .navbar-brand img {
+    height:35px
+}
+}
+
+/* MIS DATOS
+-------------------------------------------------- */
+.gp-misdatos{
+  background:#1d1d1b;
+  height:120px;
+  color:#FFF;
+  font-family: 'Formula1 Display';
+}
+.gp-misdatos .row{
+  margin:0;
+  padding:0;
+}
+.gp-misdatos .corredor{
+  padding:10px 0;
+  height:95px;
+  margin-top:10px;
+  font-size:0.9rem;
+  line-height:1.1rem;
+  border-bottom-right-radius:15px;
+  border-bottom: 1px solid #e30613;
+  border-right: 1px solid #e30613;
+  width:95%
+}
+.gp-misdatos .corredor small{
+  font-size:0.7rem
+}
+.gp-misdatos .corredor span{
+  font-size:0.7rem;
+  border-left:3px solid #e30613;
+  text-transform:uppercase;
+  padding-left:7px
+}
+.gp-misdatos .gp-casco{
+  width:70px;
+  height:70px;
+  border-radius:35px;
+  float:left;
+  background:rgba(255,255,255,0.22);
+  text-align:center;
+  padding-top:0;
+  margin-right:15px
+}
+.gp-misdatos .gp-casco img{
+  width:70px;
+  height:70px;
+}
+.gp-misdatos .puntos{
+  text-align:center;
+  color:#e30613;
+  padding:20px 0 0 0
+}
+.gp-misdatos .puntos h2{
+  font-weight:800;
+  font-size:2.5rem;
+  margin-bottom:0;
+  padding:0
+}
+.gp-misdatos .puntos small{
+  text-transform:uppercase;
+  font-size:0.7rem
+}
+.gp-misdatos .gp-icon{
+  text-align:center;
+  padding-top:10px
+}
+.gp-misdatos .gp-icon a{
+  color:#e30613;
+}
+.gp-misdatos .gp-icon a div{
+  width:60px;
+  height:60px;
+  border-radius:30px;
+  background:rgba(255,255,255,0.22);
+  text-align:center;
+  padding-top:5px;
+  margin:0 auto 5px auto;
+  transition:all ease-in 100ms;
+}
+.gp-misdatos .gp-icon a small{
+  font-size:0.7rem;
+  padding:0; 
+  margin:0;
+  display:block; clear:both
+}
+.gp-misdatos .gp-icon a:hover{
+  color:rgba(255,255,255,0.7);
+  text-decoration:none
+}
+.gp-misdatos .gp-icon a:hover div{
+  background:rgba(255,255,255,0.7);
+  transition:all ease-in 200ms
+}
+.gp-misdatos .gp-logoff{
+  padding:0; margin:0;
+  padding-top:35px
+}
+.gp-misdatos .gp-logoff-mb{
+  display:none
+}
+
+@media (max-width: 768px) {
+.gp-misdatos{
+  height:auto;
+}
+.gp-misdatos .gp-mis-accesos{
+  padding:15px 0
+}
+.gp-misdatos .corredor{
+  width:100%
+}
+.gp-misdatos .gp-logoff{
+  display:none
+}
+.gp-misdatos .gp-logoff-mb{
+  display:block;
+  margin:0; padding:30px 0 0 0
+}
+}
+
+/* Carousel y Banner destacado
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 2rem;
+  width:75%;
+  height:340px;
+  float:left;
+  border-top-left-radius:24px;
+  border-bottom-left-radius:24px;
+  overflow:hidden
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  /*height: 25rem;*/
+  height:340px;
+}
+.carousel-item .gp-slide-dk {display:block}
+.carousel-item .gp-slide-mb {display:none}
+
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  /*min-width: 100%;
+  height: 32rem;*/
+}
+
+.carousel-control-prev, .carousel-control-next{
+  width:7%
+}
+
+.gp-banner-destacado{
+  width:23%;
+  margin-left:2%;
+  height:340px;
+  float:left;
+  background:url(../img/fd_banner.png) no-repeat bottom;
+  border-top-right-radius:15px;
+  border-top: 10px solid #e30613;
+  border-right: 10px solid #e30613;
+}
+.gp-banner-destacado h2{
+  display:block;
+  width:190px;
+  background:#FFF;
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#000;
+  margin-top:-20px;
+  font-size:1.4rem
+}
+.gp-banner-destacado p{
+  font-size:1.15rem;
+  font-family: 'Avenir Next DM Pro';
+  padding:15px 25px 0 0;
+  text-align:center
+}
+.gp-banner-destacado p strong{
+  color:#e30613
+}
+.gp-banner-destacado p a{
+  color:#e30613;
+  text-decoration:none
+}
+.gp-banner-destacado p a:hover{
+  color:#1d1d1d;
+  text-decoration:none
+}
+
+@media (max-width: 768px) {
+.carousel {
+  margin-bottom: 2rem;
+  margin-left:3%;
+  width:94%;
+  height:15rem;
+  float:none;
+  border-top-left-radius:24px;
+  border-bottom-left-radius:24px;
+  overflow:hidden
+}
+.carousel-item .gp-slide-dk {display:none}
+.carousel-item .gp-slide-mb {display:block}
+
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width:100%;
+  height:auto;
+  /*min-width: 100%;
+  height: 32rem;*/
+}
+
+.carousel-control-prev, .carousel-control-next{
+  width:7%
+}
+
+.gp-banner-destacado{
+  margin-left:3%;
+  width:94%;
+  height:13rem;
+  float:none;
+  background:url(../img/fd_banner_mb.jpg) no-repeat bottom;
+  background-size:contain;
+  border-top-right-radius:15px;
+  border-top: 10px solid #e30613;
+  border-right: 10px solid #e30613;
+}
+
+.gp-banner-destacado p{
+  font-size:1rem;
+  padding:15px 3%
+}
+}
+
+/* BUSCAR
+-------------------------------------------------- */
+.gp-buscar{
+	margin-bottom:2rem
+}
+
+.gp-buscar .col-lg-6{
+ padding:0
+}
+.gp-buscar h3{
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#e30613;
+  margin:0;
+  display:block;
+  padding-top:10px;
+  font-size:1.2rem
+}
+.gp-buscar form{
+	width:100%
+}
+.gp-buscar .gp-mgtop10{
+  margin-top:0.2rem
+}
+.gp-buscar form label, .gp-buscar form span{
+	font-family: 'Avenir Next DM Pro';
+}
+
+.gp-buscar .gp-pts{
+	width:6rem;
+	margin:0 0.5rem;
+	background: #ECECEC;
+}
+.gp-buscar .gp-busca{
+	background: #ECECEC;
+	/*width:10rem;*/
+	width:100%;
+	/*margin:0 0.5rem;*/
+}
+.gp-buscar .form-inline .form-group .gp-select{
+	background: #ECECEC;
+	width:100%;
+	/*margin:0 0.5rem;
+	width:14rem*/
+}
+.gp-buscar .form-inline .form-group .gp-tipo{
+	background: #ECECEC;
+	width:100%;
+	/*margin:0 0.5rem;
+	width:10rem*/
+}
+.gp-buscar form .btn-primary{
+	background: #FFF;
+	width:100%;
+
+}
+.gp-buscar form .btn-primary:hover{
+   background:#e30613;
+   border:solid 1px #e30613;
+ 	color:#FFF;
+	text-decoration:none
+}
+@media (max-width: 768px) {
+.gp-buscar{
+	margin-top:2rem
+}
+.gp-buscar .col-lg-6{
+	padding:0 3%; margin:0 0 0.7rem;
+}
+.gp-buscar h3{
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#e30613;
+  margin:0 0 0.7rem 0;
+  padding:0;
+  text-align:center
+}
+.gp-buscar form{
+	width:100%
+}
+.gp-buscar .gp-pts{
+	width:6rem;
+	margin:0 0.5rem;
+	background: #ECECEC;
+	display:inline-block
+}
+.gp-buscar .gp-busca{
+	background: #ECECEC;
+	width:100%;
+	margin:0;
+}
+.gp-buscar .form-inline .form-group .gp-select{
+	background: #ECECEC;
+	margin:0 0 0.7rem;
+	width:100%
+}
+.gp-buscar form .btn-primary{
+	background: #FFF;
+	width:12rem;
+	margin:0.7rem auto
+}
+.gp-mb-oculta{
+	display:none
+}
+.gp-buscar .gp-mgtop10{
+  margin-top:0
+}	
+}
+
+/* DESTACADOS
+-------------------------------------------------- */
+.gp-premios{
+	width:100%;
+}
+.gp-destacados{
+	background: url(../img/fd_gris_linea_fina.png) bottom repeat-x #DADCDA;
+	height:422px;
+	padding:2rem 0;
+	margin:0 0 1rem
+}
+.gp-destacados .container{
+  height:340px;
+  border-top-right-radius:15px;
+  border-top: 10px solid #000;
+  border-right: 10px solid #000;
+  padding:0 2% 0 0
+}
+.gp-destacados .container h2{
+  display:block;
+  width:11rem;
+  background:#DADCDA;
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#000;
+  margin-top:-20px;
+  font-size:1.5rem
+}
+.gp-premios .gp-caja-premio{
+  display:block;
+  width:100%;
+  height:290px;
+  border-bottom: 1px solid #DADCDA;
+  border-right: 1px solid #DADCDA;
+  text-align:center;
+  background:#FFF;
+  margin-top:15px;
+ border-bottom-right-radius:15px;
+ text-decoration:none;
+ color:#000;
+ transition:all ease-in 100ms
+}
+.gp-premios .gp-caja-premio:hover{
+  background:#DADCDA;
+   transition:all ease-out 200ms
+}
+.gp-premios .gp-caja-premio:hover p{
+  padding-top:17px;
+   transition:all ease-out 100ms
+}
+.gp-premios .gp-caja-premio p{
+  padding:10px 2%;
+  font-family: 'Avenir Next DM Pro';
+  margin:0;
+  transition:all ease-in 100ms
+}
+.gp-premios .gp-caja-premio h3{
+  font-family: 'Formula1 Display';
+  color:#e30613;
+  margin:0;
+  padding:0;
+  font-weight:800;
+  font-size:1.4rem
+}
+.gp-premios .gp-caja-premio span{
+  display:block;
+  position:absolute;
+  z-index:15;
+  background:#e30613;
+  font-family: 'Formula1 Display';
+  font-size:0.8rem;
+  color:#FFF;
+  padding:4px 5%;
+  margin-top:10px;
+  text-transform:uppercase
+}
+.gp-populares{
+	background:#FFF;
+	height:422px;
+	padding:2rem 0;
+	margin:0 0 1rem
+}
+.gp-populares .container{
+  height:330px;
+  border-top-right-radius:15px;
+  border-top: 10px solid #e30613;
+  border-right: 10px solid #e30613;
+  padding:0 2% 0 0
+}
+.gp-populares .container h2{
+  display:block;
+  width:17rem;
+  background:#FFF;
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#000;
+  margin-top:-20px;
+  font-size:1.5rem
+}
+.gp-catalogo .container h2{
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#e30613;
+  font-size:1.2rem;
+  display:block;
+  margin:0.9rem 0
+}
+.gp-catalogo .container h2 span{
+  color:#000;
+}
+.gp-catalogo .container .gp-caja-premio{
+  margin-bottom:1.3rem;
+}
+.gp-paginado{
+  text-align:center;
+  width:100%;
+  margin:1rem 0 3rem;
+}
+.gp-paginado nav{
+  margin:auto;
+  text-align:center;
+}
+.gp-paginado nav ul{
+  margin:auto;
+}
+.gp-paginado nav .pagination{
+  display:inline-flex
+}
+.gp-paginado nav .pagination a{
+  color:#e30613;
+  font-weight:bold
+}
+
+@media (max-width: 768px) {
+.gp-premios{
+	width:100%;
+	padding:7%
+}
+.gp-destacados{
+	background: #DADCDA;
+	height:auto; 
+}
+.gp-destacados .container{
+  height:auto;
+  border-top-right-radius:0;
+  border-top: 10px solid #000;
+  border-right:none;
+  padding:0 2% 0 0
+}
+
+.gp-premios .gp-caja-premio{
+  display:block;
+  width:100%;
+  height:auto;
+  padding-bottom:0.7rem
+}
+.gp-populares{
+	background:#FFF;
+	height:auto;
+}
+.gp-populares .container{
+  height:auto;
+  border-top-right-radius:0;
+  border-top: 10px solid #e30613;
+  border-right:none;
+  padding:0 2% 0 0
+}	
+}
+
+/* DETALLE DE PREMIO
+-------------------------------------------------- */
+.gp-franja-volver{
+   background: url(../img/fd_linea_gruesa2.png) repeat-x;
+   width:100%;
+   clear:both;
+   margin:0 0 2rem 0;
+   text-align:center;
+   padding:1rem 0
+}
+.gp-franja-volver a{
+   font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#e30613;
+  font-size:1rem
+}
+.gp-franja-volver a:hover{
+  color:#000;
+  text-decoration:none
+}
+.gp-detalle{
+  padding:0 0 3rem
+}
+.gp-detalle .gp-foto{
+  background: #ececec;
+  padding:0.5rem
+}
+.gp-novedades .gp-video{
+  width:90%;
+  height:auto;
+  margin:25px auto
+}
+.video-responsive {
+position: relative;
+padding-bottom: 56.25%; /* 16/9 ratio */
+padding-top: 30px; /* IE6 workaround*/
+height: 0;
+overflow: hidden;
+}
+
+.video-responsive iframe,
+.video-responsive object,
+.video-responsive embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+.gp-detalle .gp-premio-cate{
+  background:#e30613;
+  font-family: 'Formula1 Display';
+  font-size:0.8rem;
+  color:#FFF;
+  padding:0.6rem 0.7rem;
+  margin-top:0.4rem;
+  text-transform:uppercase
+}
+.gp-detalle .gp-premio-tipo{
+  background:#FFF;
+  font-family: 'Formula1 Display';
+  font-size:0.8rem;
+  color:#1d1d1d;
+  padding:0.6rem 0.7rem;
+  margin-top:0.4rem;
+  text-transform:uppercase
+}
+
+.gp-detalle h1{
+  font-family: 'Formula1 Display';
+  font-size:1.8rem;
+  margin:1rem 0 0.3rem 0;
+  color:#000
+}
+.gp-detalle h2{
+  font-family: 'Formula1 Display';
+  font-size:1.8rem;
+  margin:0;
+  color:#e30613;
+  font-weight:900
+}
+.gp-detalle .gp-datos{
+  padding:0.5rem 1.5rem
+}
+.gp-detalle .gp-datos .gp-btn-canjear{
+  font-family: 'Formula1 Display';
+  font-size:1.3rem;
+  margin:0.7rem 0 1rem;
+  color:#e30613;
+  font-weight:900;
+  border:solid 2px #e30613;
+  border-radius:5px;
+  background:#FFF
+}
+.gp-detalle .gp-datos .gp-btn-canjear:hover{
+  font-family: 'Formula1 Display';
+  font-size:1.3rem;
+  margin:0.7rem 0 1rem;
+  color:#FFF;
+  font-weight:900;
+  border:solid 2px #e30613;
+  border-radius:5px;
+  background:#e30613;
+}
+.gp-detalle .gp-datos p{
+  display:block;
+  border-top: 2px dashed #e30613;
+  padding-top:1rem;
+  color:#000
+}
+.gp-detalle .gp-datos p strong{
+  display:block;
+   font-family: 'Formula1 Display';
+}
+
+
+@media (max-width: 768px) {
+.gp-franja-volver{
+   margin:0;
+}
+.gp-detalle .gp-datos{
+  text-align:center;
+  padding-top:1rem;
+  margin-top:1rem;
+  clear:both
+}
+.gp-detalle .gp-datos .gp-premio-cate{
+  background:#e30613;
+  font-family: 'Formula1 Display';
+  font-size:0.8rem;
+  color:#FFF;
+  padding:0.6rem 0.7rem;
+  margin-top:0.4rem;
+  text-transform:uppercase
+}
+.gp-detalle .gp-premio-tipo{
+  background:#FFF;
+  font-family: 'Formula1 Display';
+  font-size:0.8rem;
+  color:#1d1d1d;
+  padding:0.6rem 0.7rem;
+  margin-top:0.4rem;
+  text-transform:uppercase
+}
+.gp-detalle h1{
+  font-family: 'Formula1 Display';
+  font-size:1.8rem;
+  margin:1rem 0 0.3rem 0;
+  color:#000
+}
+.gp-detalle h2{
+  font-family: 'Formula1 Display';
+  font-size:1.8rem;
+  margin:0;
+  color:#e30613;
+  font-weight:900
+}
+.gp-detalle .gp-datos{
+  padding:0.5rem 1.5rem
+}
+.gp-detalle .gp-datos .gp-btn-canjear{
+  font-family: 'Formula1 Display';
+  font-size:1.3rem;
+  margin:0.7rem 0 1rem;
+  color:#e30613;
+  font-weight:900;
+  border:solid 2px #e30613;
+  border-radius:5px;
+  background:#FFF
+}
+.gp-detalle .gp-datos p{
+  display:block;
+  border-top: 2px dashed #e30613;
+  padding-top:1rem;
+  color:#000
+}
+.gp-detalle .gp-datos p strong{
+  display:block;
+   font-family: 'Formula1 Display';
+}
+.gp-novedades .gp-video{
+  width:100%;
+  height:auto;
+  margin:15px auto
+}
+}
+#gp-confirma h4{
+   font-family: 'Formula1 Display';
+   color:#e30613;
+   font-size:1.5rem;
+   font-weight:800
+}
+#gp-confirma p{
+   padding: 1rem 0.5rem;
+   font-size:1.2rem
+}
+#gp-confirma p a{
+   color:#e30613;
+   text-decoration:underline
+}
+#gp-confirma .btn-primary{
+   border: solid 2px #e30613;
+    color:#e30613;
+	font-family: 'Formula1 Display';
+	font-size:1rem;
+	margin:0.3rem;
+	background:#FFF;
+}
+#gp-confirma .btn-primary:hover{
+   border: solid 2px #e30613;
+    color:#FFF;
+	background:#e30613;
+}
+
+/* BALANCE
+-------------------------------------------------- */
+.gp-balance{
+	width:100%;
+	margin:3rem 0
+}
+.gp-balance .container{
+  height:auto;
+  border-top-right-radius:15px;
+  border-top: 10px solid #000;
+  border-right: 10px solid #000;
+  padding:0 2% 0 0
+}
+.gp-balance .container h2{
+  display:block;
+  width:11rem;
+  background:#FFF;
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#000;
+  margin-top:-20px;
+  font-size:1.5rem
+}
+
+.gp-balance .container h3{
+  display:block;
+  float:right;
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#e30613;
+  font-size:1.2rem;
+  margin:15px 0
+}
+@media (max-width: 768px) {
+.gp-balance{
+	width:100%;
+	padding:7%
+}
+.gp-balance .container{
+  height:auto;
+  border-top-right-radius:0;
+  border-top: 10px solid #000;
+  border-right:none;
+  padding:0 2% 0 0
+}
+}
+
+.gp-balance label{
+  margin:0;
+  padding:10px 0 0 0;
+  font-weight: bold
+}
+.gp-balance .gp-btn-datos{
+  text-align:center;
+  margin-top:45px;
+  padding-top:20px;
+  border-top: solid 1px #D5D5D5
+}
+
+/* MIS CANJES
+-------------------------------------------------- */
+.gp-miscanjes{
+	width:100%;
+	margin:3rem 0
+}
+.gp-miscanjes .container{
+  height:auto;
+  border-top-right-radius:15px;
+  border-top: 10px solid #000;
+  border-right: 10px solid #000;
+  padding:0 2% 0 0
+}
+.gp-miscanjes .container h2{
+  display:block;
+  width:11rem;
+  background:#FFF;
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#000;
+  margin-top:-20px;
+  font-size:1.5rem
+}
+.gp-miscanjes .gp-caja-premio{
+  display:block;
+  width:100%;
+  height:290px;
+  border-bottom: 1px solid #DADCDA;
+  border-right: 1px solid #DADCDA;
+  text-align:center;
+  background:#FFF;
+  margin-top:15px;
+ border-bottom-right-radius:15px;
+ text-decoration:none;
+ color:#000;
+}
+
+.gp-miscanjes .gp-caja-premio p{
+  padding:10px 2% 0 2%;
+  font-family: 'Avenir Next DM Pro';
+  margin:0;
+  text-align:left;
+  transition:all ease-in 100ms
+}
+.gp-miscanjes .gp-caja-premio p strong{
+  color:#e30613;
+}
+
+.gp-miscanjes .gp-caja-premio h3{
+  font-family: 'Formula1 Display';
+  color:#e30613;
+  margin:0;
+  padding:0;
+  text-align:left;
+  font-weight:800;
+  font-size:1.1rem
+}
+@media (max-width: 768px) {
+.gp-miscanjes{
+	width:100%;
+	padding:7%
+}
+.gp-miscanjes .container{
+  height:auto;
+  border-top-right-radius:0;
+  border-top: 10px solid #000;
+  border-right:none;
+  padding:0 2% 0 0
+}
+.gp-miscanjes .gp-caja-premio{
+  display:block;
+  width:100%;
+  height:auto;
+  border-bottom: 1px solid #DADCDA;
+  border-right: 1px solid #DADCDA;
+  text-align:center;
+  background:#FFF;
+  margin-top:15px;
+ border-bottom-right-radius:15px;
+ text-decoration:none;
+ color:#000;
+}
+}
+.gp-miscanjes .solicitado span{
+  display:block;
+  position:absolute;
+  z-index:15;
+  background:#3D9BFF;
+  font-family: 'Formula1 Display';
+  font-size:0.8rem;
+  color:#FFF;
+  padding:4px 5%;
+  margin-top:10px;
+  text-transform:uppercase
+}
+.gp-miscanjes .cancelado span{
+  display:block;
+  position:absolute;
+  z-index:15;
+  background:#e30613;
+  font-family: 'Formula1 Display';
+  font-size:0.8rem;
+  color:#FFF;
+  padding:4px 5%;
+  margin-top:10px;
+  text-transform:uppercase
+}
+.gp-miscanjes .entregado span{
+  display:block;
+  position:absolute;
+  z-index:15;
+  background:#51B035;
+  font-family: 'Formula1 Display';
+  font-size:0.8rem;
+  color:#FFF;
+  padding:4px 5%;
+  margin-top:10px;
+  text-transform:uppercase
+}
+
+/* EL PROGRAMA
+-------------------------------------------------- */
+.gp-elprograma{
+	margin:3rem 0;
+}
+.gp-elprograma img{
+	overflow:hidden;
+	border-top-right-radius:25px;
+	border-bottom-right-radius:25px;
+}
+
+.gp-balance .container .gp-elprograma h3{
+	float:none;
+	display:inline-block
+}
+.gp-elprograma p{
+	text-align:left
+}
+.gp-elprograma strong{
+	color:#e30613;
+}
+.gp-elprograma .text-destacado{
+	 font-family: 'Formula1 Display';
+	 padding:15px 0 0 0
+}
+.gp-elprograma .quienes{
+	 font-family: 'Formula1 Display';
+	 color:#e30613;
+	 margin:0 0 20px 0;
+	 padding:0;
+	 list-style:none;
+}
+.gp-elprograma .quienes li{
+	 display:inline-block;
+	 border: solid 1px #D1D1D1;
+	 list-style:none;
+	 padding:8px 15px;
+	 margin:0 5px;
+	 border-radius:5px
+}
+
+/* CONTACTO
+-------------------------------------------------- */
+.gp-contacto{
+	margin:3rem 0;
+}
+.gp-contacto h4{
+	font-family: 'Formula1 Display';
+	color:#1d1d1d;
+	font-size:1.3rem;
+	line-height:1.9rem
+}
+.gp-contacto h4 a{
+	color:#e30613;
+	font-weight:800
+}
+.gp-contacto strong{
+	color:#e30613;
+}
+.gp-contacto .col-lg-5 img{
+	float:left;
+	margin: 0 10px 40px 0
+}
+
+/* NOVEDADES
+-------------------------------------------------- */
+.gp-novedades{
+	width:100%;
+	margin:3rem 0
+}
+.gp-novedades .container{
+  height:auto;
+  border-top-right-radius:15px;
+  border-top: 10px solid #000;
+  border-right: 10px solid #000;
+  padding:0 2% 0 0
+}
+.gp-novedades .container .row{
+  padding-top:15px
+}
+.gp-novedades .container h2{
+  display:block;
+  width:11rem;
+  background:#FFF;
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#000;
+  margin-top:-20px;
+  font-size:1.5rem
+}
+.gp-novedades .gp-caja-nota{
+  display:block;
+  width:100%;
+  height:auto;
+  overflow:hidden;
+  border-bottom: 1px solid #DADCDA;
+  border-right: 1px solid #DADCDA;
+  text-align:center;
+  background:#FFF;
+  margin-top:15px;
+  margin-bottom:25px;
+ border-bottom-right-radius:15px;
+ text-decoration:none;
+ color:#000;
+ transition:all ease-in 200ms
+}
+.gp-novedades .gp-caja-nota img{
+	transition:all ease-in 200ms
+}
+.gp-novedades .gp-caja-nota p{
+  padding:10px 4%;
+  font-family: 'Avenir Next DM Pro';
+  font-size:0.9rem;
+  font-weight:normal;
+  margin:0;
+  text-align:justify
+}
+.gp-novedades .gp-caja-nota h3{
+  font-family: 'Avenir Next DM Pro';
+  color:#e30613;
+  margin:10px 0 0 0;
+  padding:0;
+  text-align:justify;
+  text-align:center;
+  font-weight:800;
+  font-size:1.3rem;
+}
+.gp-novedades .gp-caja-nota:hover{
+  padding-bottom:15px;
+  border-color:#e30613;
+  transition:all ease-in 100ms
+}
+.gp-novedades .gp-caja-nota:hover img{
+  margin-top:-15px;
+  transition:all ease-in 100ms
+}
+.gp-novedades .gp-detalle-nota .foto{
+  width:60%;
+  margin:0 3% 10px 0;
+  float:left;
+  border-bottom-right-radius:15px;
+   
+}
+
+
+.gp-novedades .gp-detalle-nota h1{
+    font-family: 'Formula1 Display';
+	background:#1d1d1d;
+	color:#FFF;
+	font-weight:800;
+	margin:10px 50% 0 auto;
+	padding:5px 10px;
+	width:auto;
+	display: inline-block;
+	font-size:1.7rem;
+	/*z-index:10;
+	position:absolute*/
+}
+.gp-novedades .gp-detalle-nota small{
+	font-size:0.9rem;
+	padding:0;
+	margin:0
+	/*z-index:10;
+	position:absolute*/
+}
+.gp-novedades .gp-detalle-nota a{
+  float:right;
+  margin-top:20px;
+  font-family: 'Formula1 Display';
+  color: #e30613;
+}
+
+@media (max-width: 768px) {
+.gp-novedades{
+	width:100%;
+	padding:7%
+}
+.gp-novedades .container{
+  height:auto;
+  border-top-right-radius:0;
+  border-top: 10px solid #000;
+  border-right:none;
+  padding:0 2% 0 0
+}
+.gp-novedades .gp-caja-nota{
+  display:block;
+  width:100%;
+  height:auto;
+  border-bottom: 1px solid #DADCDA;
+  border-right: 1px solid #DADCDA;
+  text-align:center;
+  background:#FFF;
+  margin-top:15px;
+ border-bottom-right-radius:15px;
+ text-decoration:none;
+ color:#000;
+}
+}
+
+/* MI PERFORMANCE
+-------------------------------------------------- */
+.gp-performance-tt{
+	width:100%;
+	margin:3rem 0 0 0;
+}
+.gp-performance-tt .container{
+  height:auto;
+  border-top-right-radius:15px;
+  border-top: 10px solid #848c86;
+  border-right: 10px solid #848c86;
+  padding:0 0 20px 0;
+  background: url(../img/fd_bandera.png) right bottom no-repeat;
+}
+.gp-performance-tt .container h2{
+  display:block;
+  width:11rem;
+  background:#FFF;
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#000;
+  margin-top:-20px;
+  font-size:1.5rem
+}
+.gp-performance-tt .container h3{
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#e30613;
+  margin-top:0.4rem;
+  font-size:1.2rem
+}
+.gp-performance-tt .container ul{
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+.gp-performance-tt .container ul li{
+  list-style:none;
+  color:#000;
+  font-family: 'Formula1 Display';
+  font-size:0.9rem;
+  padding:5px 0;
+  border-bottom: 1px solid #DADCDA;
+}
+.gp-performance-tt .container ul li:last-child{
+  border-bottom:none;
+}
+.gp-performance-equipos{
+	width:100%;
+	margin:0;
+	text-align:center;
+	background:#dadcda
+}
+.gp-performance-objetivos{
+	width:100%;
+	margin:3rem 0;
+}
+.gp-performance-objetivos .container{
+  height:auto;
+  border-top-right-radius:15px;
+  border-top: 10px solid #e30613;
+  border-right: 10px solid #e30613;
+  padding:0 2% 30px 0;
+}
+.gp-performance-objetivos .container h2{
+  display:block;
+  width:9rem;
+  background:#FFF;
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#000;
+  margin-top:-20px;
+  font-size:1.5rem
+}
+.gp-performance-objetivos .container th{
+  font-family: 'Formula1 Display';
+  font-size:0.9rem;
+  color:#1d1d1b;
+  border-top:none
+}
+.gp-performance-objetivos .container td .barra{
+  width:85%;
+  display:inline-block;
+  height:15px;
+  padding:0;
+  margin:0;
+  text-align:left;
+  background:#E6E6E6;
+  vertical-align:middle;
+  position:relative;
+  overflow:hidden;
+}
+.gp-performance-objetivos .container td .barra img{
+  padding:0;
+  margin:0;
+  vertical-align:top;
+  position:relative
+}
+.gp-performance-objetivos .container td span{
+  width:10%;
+  display:inline-block;
+  vertical-align:middle;
+  font-weight:bold
+}
+.gp-performance-objetivos .gp-bajada{
+  font-size:0.9rem;
+  color:#1d1d1b
+}
+.gp-performance-objetivos .gp-bajada h4{
+  font-size:1.1rem;
+}
+
+@media (max-width: 768px) {
+.gp-performance-tt{
+	width:100%;
+	padding:7%
+}
+.gp-performance-tt .container{
+  height:auto;
+  border-top-right-radius:0;
+  border-top: 10px solid #000;
+  border-right:none;
+  padding:0 2% 0 0
+}
+.gp-performance-equipos{
+	display:none
+}
+.gp-performance-tt .container{
+  background:none
+}
+.gp-performance-objetivos .container{
+  height:auto;
+  border-top-right-radius:0;
+  border-top: 10px solid #e30613;
+  border-right:none;
+  padding:0 2% 0 0
+}
+}
+
+/* MIS DATOS GERENTE
+-------------------------------------------------- */
+.gp-misdatos-g{
+  background:#1d1d1b;
+  height:auto;
+  color:#FFF;
+  font-family: 'Formula1 Display';
+}
+.gp-misdatos-g .row{
+  margin:0;
+  padding:0;
+}
+.gp-misdatos-g .corredor{
+  padding:10px 0;
+  height:90px;
+  margin-top:0;
+  font-size:0.9rem;
+  line-height:1.1rem;
+  width:95%
+}
+.gp-misdatos-g .corredor small{
+  font-size:0.7rem
+}
+.gp-misdatos-g .corredor span{
+  font-size:0.7rem;
+  border-left:3px solid #e30613;
+  text-transform:uppercase;
+  padding-left:7px
+}
+.gp-misdatos-g .gp-casco{
+  width:70px;
+  height:70px;
+  border-radius:35px;
+  float:left;
+  background:rgba(255,255,255,0.22);
+  text-align:center;
+  padding-top:5px;
+  margin-right:15px
+}
+
+.gp-misdatos-g .gp-logoff{
+  padding:0; margin:0;
+  padding-top:20px
+}
+
+@media (max-width: 768px) {
+.gp-misdatos-g .gp-logoff{
+  padding:15px 15%; 
+}
+}
+
+/* RANKING DISTRI
+-------------------------------------------------- */
+.gp-menu-tt{
+  color:#848c86;
+  display:block;
+  background:#FFF;
+  border:solid 1px #848c86;
+  width:65%;
+  font-size:1.2rem;
+  text-align:center;
+  border-radius:5px;
+  font-weight:bold
+}
+.gp-btn-ranking{
+	border-bottom-right-radius:7px;
+  border-bottom: 2px solid #e30613;
+  border-right: 2px solid #e30613;
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  font-size:1rem;
+  padding:10px 1.6rem;
+  margin:1rem 0;
+  color:#e30613;
+  display:inline-block
+}
+.gp-btn-ranking:hover{
+  color:#000;
+  text-decoration:none
+}
+.gp-ranking-distri{
+	width:100%;
+	margin:3rem 0;
+}
+.gp-ranking-distri .container{
+  height:auto;
+  border-top-right-radius:15px;
+  border-top: 10px solid #e30613;
+  border-right: 10px solid #e30613;
+  padding:0 2% 30px 0;
+}
+
+.gp-ranking-distri .container h2{
+  display:block;
+  /*width:18rem;*/
+  background:#FFF;
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  color:#000;
+  /*margin-top:-20px;*/
+  font-size:1.5rem;
+  padding-top:0.7rem
+}
+.gp-ranking-distri .container h5{
+  display:block;
+  border-top-right-radius:5px;
+  background:#e30613;
+  font-family: 'Formula1 Display';
+  font-weight:400;
+  color:#FFF;
+  margin-top:-29px;
+  padding:3px 1rem 7px 0.4rem;
+  font-size:1rem
+}
+.gp-ranking-distri .container h2 a{
+  text-decoration:none;
+  border-bottom:none
+}
+.gp-ranking-distri .container th{
+  font-family: 'Formula1 Display';
+  font-size:0.9rem;
+  color:#1d1d1b
+}
+
+.gp-ranking-distri .nav-tabs{
+  border-bottom: 1px solid #e30613;
+  padding-top:0.8rem;
+  position:relative
+}
+.gp-ranking-distri .nav-tabs li{
+  border:1px solid #b3b3b3;
+  border-bottom: 1px solid #e30613;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  padding:7px 20px;
+  font-size:1.2rem;
+  margin-bottom:-1px
+}
+.gp-ranking-distri .nav-tabs li a{
+  color:#b3b3b3;
+  text-decoration:none
+}
+.gp-ranking-distri .nav-tabs .active{
+  border:1px solid #e30613;
+  border-bottom: 1px solid #FFF;
+}
+.gp-ranking-distri .nav-tabs .active a{
+  color:#e30613;
+  text-decoration:none
+}
+
+.gp-ranking-distri .nav-tabs .gp-meses{
+  border:none;
+  position:absolute;
+  right:0;
+  padding-top:0;
+  padding-right:0
+ }
+.gp-ranking-distri .nav-tabs .gp-meses select{
+ font-family: 'Avenir Next LT Pro';
+ font-size:1rem;
+ border-radius:3px;
+ padding:3px 5px
+ }
+ .gp-ranking-distri .nav-tabs .gp-meses2{
+  border:none;
+  position:absolute;
+  right:0;
+  padding-top:0;
+  padding-right:0
+ }
+ .gp-ranking-distri .nav-tabs .gp-meses2 select{
+ font-family: 'Avenir Next LT Pro';
+ font-size:1rem;
+ border-radius:3px;
+ padding:3px 5px
+ }
+.gp-ranking-distri .panel-title{
+font-family: 'Formula1 Display';
+  font-weight:800;
+  font-size:1rem;
+  padding:4px 0;
+  border-bottom: solid 1px #e6e6e6
+ }
+.gp-ranking-distri .panel-title a{
+	display:inline-block;
+	width:80%;
+	padding:0;
+	margin:0;
+	color:#000
+ }
+.gp-ranking-distri .panel-title a:hover{
+	text-decoration:none;
+	 color:#e30613;
+ }
+.gp-ranking-distri .panel-title span{
+	display:inline-block;
+	width:19%;
+	padding:0;
+	margin:0;
+	text-align:right
+ }
+.gp-ranking-distri .panel-body .table{
+	width:94%;
+	margin-left:3%
+ } 
+.gp-ranking-distri .table td{
+	border-top:none;
+	border-bottom: solid 1px #e6e6e6;
+ } 
+ 
+ /*Equipos TD*/
+   .gp-ranking-distri .gp-alfa-romeo {border-left: solid 8px #960000; background:#e5bfbf; padding-left:3%} 
+   .gp-ranking-distri .gp-ferrari {border-left: solid 8px #dc0000; background:#fad9d9; padding-left:3%} 
+   .gp-ranking-distri .gp-hass {border-left: solid 8px #787878; background:#ebebeb; padding-left:3%} 
+   .gp-ranking-distri .gp-mclaren {border-left: solid 8px #ff8700; background:#ffe7cc; padding-left:3%} 
+   .gp-ranking-distri .gp-mercedes {border-left: solid 8px #00d2be; background:#d9f8f5; padding-left:3%} 
+   .gp-ranking-distri .gp-redbull {border-left: solid 8px #0600ef; background:#dad9fd; padding-left:3%} 
+   .gp-ranking-distri .gp-renault {border-left: solid 8px #fff500; background:#fffed9; padding-left:3%} 
+   .gp-ranking-distri .gp-williams {border-left: solid 8px #0082fa; background:#d9ecfe; padding-left:3%} 
+ 
+@media (max-width: 768px) {
+.gp-btn-ranking{
+	border-bottom-right-radius:7px;
+  border-bottom: 2px solid #e30613;
+  border-right: 2px solid #e30613;
+  font-family: 'Formula1 Display';
+  font-weight:800;
+  font-size:1rem;
+  padding:10px 1rem;
+  width:49%;
+  margin:1rem 0;
+  color:#e30613;
+  display:inline-block
+}
+.gp-menu-tt{
+	  margin:0 auto;
+	  width:98%;
+}
+.gp-ranking-distri .container{
+  height:auto;
+  border-top-right-radius:0;
+  border-top: 10px solid #e30613;
+  border-right:none;
+  padding:0 2% 0 0;
+  width:90%
+}
+.gp-ranking-distri .nav-tabs {
+  margin-bottom:40px
+ }
+ .gp-ranking-distri .nav-tabs li{
+  font-size:0.9rem;
+  font-weight:400;
+  padding:10px
+}
+.gp-ranking-distri .nav-tabs .gp-meses{
+  left:0;
+  top:65px;
+ }
+ .gp-ranking-distri .nav-tabs .gp-meses2{
+  rigth:0;
+  top:61px;
+ }
+ .gp-ranking-distri .nav-tabs .gp-meses select{
+ width:90%
+ }
+ .gp-ranking-distri .panel-title a{
+	display:inline-block;
+	width:60%;
+	padding:0;
+	margin:0;
+	color:#000
+ }
+
+.gp-ranking-distri .panel-title span{
+	display:inline-block;
+	width:35%;
+	padding:0;
+	margin:0;
+	text-align:right
+ }
+}
+
+.gp-ranking-distri .gp-podio{
+	background: url(../img/fd_linea_gruesa.png) repeat-x top #e3e3e3;
+	padding-top:55px;
+	width:95%;
+	margin-left:5%;
+	padding:25px 5% 0 5%;
+	text-align:center
+ }
+ .gp-ranking-distri .gp-podio h2{
+	width:100%;
+	text-align:center;
+	font-size:1.3rem;
+	background:none
+ }
+ 
+  .gp-ranking-distri .gp-podio ol{
+	font-size:1.5rem;
+	font-weight:800;
+	font-family: 'Formula1 Display';
+  	color:#e30613;
+	padding:0 0 0 2rem; 
+	margin:0;
+	margin-left:3%;
+ }
+   .gp-ranking-distri .gp-podio ol li{
+	text-align:center;
+	padding:5px 1%;
+	margin:0;
+	border-bottom: solid 1px #9E9E9E
+ }
+    .gp-ranking-distri .gp-podio ol li:last-child{
+	border-bottom: none
+ }
+   .gp-ranking-distri .gp-podio ol h3{
+	 font-family: 'Avenir Next LT Pro';
+ 	font-size:1rem;
+	color:#1d1d1d;
+	font-weight:bold;
+	display:block;
+	margin:0;
+ }
+    .gp-ranking-distri .gp-podio ol span{
+	 font-family: 'Avenir Next LT Pro';
+ 	font-size:0.8rem;
+	display:block;
+	color:#1d1d1d;
+
+ }
+.gp-ranking-distri .container th{
+  font-family: 'Formula1 Display';
+  font-size:0.9rem;
+  color:#1d1d1b;
+  border-top:none
+}
+.gp-ranking-distri .container td .barra{
+  width:70%;
+  display:inline-block;
+  height:15px;
+  padding:0;
+  margin:0;
+  text-align:left;
+  background:#E6E6E6;
+  vertical-align:middle;
+  position:relative;
+  overflow:hidden;
+}
+.gp-ranking-distri .container td .barra img{
+  padding:0;
+  margin:0;
+  vertical-align:top;
+  position:relative
+}
+.gp-ranking-distri .container td span{
+  width:10%;
+  display:inline-block;
+  vertical-align:middle;
+  font-weight:bold
+}
+.gp-ranking-distri .container .gp-separador{
+ background:#ECECEC;
+ height:1.4rem
+}.gp-ranking-distri .container .gp-separador-corto{
+ background:#ECECEC;
+ padding:0; margin:0; font-size:1px;
+ height:0.2rem
+}
+.gp-ranking-distri .container .gp-totales{
+ background:#00b06d;
+ color:#FFF;
+ padding-top:8px;
+ padding-bottom:8px;
+ font-weight: bold
+}
+.gp-ranking-distri .container .gp-totales .barra{
+ border: solid 1px #FFF
+}
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+

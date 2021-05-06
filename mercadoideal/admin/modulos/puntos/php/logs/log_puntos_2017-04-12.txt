@@ -1,0 +1,2128 @@
+Procesando la linea 1
+- FILA 1 SE CARGARON: 50 PUNTOS 
+Procesando la linea 2
+- FILA 2 SE CARGARON: 50 PUNTOS 
+Procesando la linea 3
+- FILA 3 SE CARGARON: 50 PUNTOS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 50 PUNTOS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 50 PUNTOS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 50 PUNTOS 
+Procesando la linea 7
+- FILA 7 SE CARGARON: 50 PUNTOS <font color="RED"> | FALTA EL ID DE CLIENTE O EL MISMO NO FUE ECONTRADO X CODIGO UNICO: CIW778</font>
+Procesando la linea 8
+- FILA 8 SE CARGARON: 50 PUNTOS 
+Procesando la linea 9
+- FILA 9 SE CARGARON: 50 PUNTOS 
+Procesando la linea 10
+- FILA 10 SE CARGARON: 50 PUNTOS 
+Procesando la linea 11
+- FILA 11 SE CARGARON: 50 PUNTOS 
+Procesando la linea 12
+- FILA 12 SE CARGARON: 50 PUNTOS 
+Procesando la linea 13
+- FILA 13 SE CARGARON: 50 PUNTOS 
+Procesando la linea 14
+- FILA 14 SE CARGARON: 50 PUNTOS 
+Procesando la linea 15
+- FILA 15 SE CARGARON: 50 PUNTOS 
+Procesando la linea 16
+- FILA 16 SE CARGARON: 50 PUNTOS 
+Procesando la linea 17
+- FILA 17 SE CARGARON: 50 PUNTOS 
+Procesando la linea 18
+- FILA 18 SE CARGARON: 50 PUNTOS 
+Procesando la linea 19
+- FILA 19 SE CARGARON: 100 PUNTOS 
+Procesando la linea 20
+- FILA 20 SE CARGARON: 100 PUNTOS 
+Procesando la linea 21
+- FILA 21 SE CARGARON: 100 PUNTOS 
+Procesando la linea 22
+- FILA 22 SE CARGARON: 100 PUNTOS 
+Procesando la linea 23
+- FILA 23 SE CARGARON: 100 PUNTOS 
+Procesando la linea 24
+- FILA 24 SE CARGARON: 100 PUNTOS 
+Procesando la linea 25
+- FILA 25 SE CARGARON: 100 PUNTOS 
+Procesando la linea 26
+- FILA 26 SE CARGARON: 100 PUNTOS 
+Procesando la linea 27
+- FILA 27 SE CARGARON: 100 PUNTOS 
+Procesando la linea 28
+- FILA 28 SE CARGARON: 100 PUNTOS 
+Procesando la linea 29
+- FILA 29 SE CARGARON: 100 PUNTOS 
+Procesando la linea 30
+- FILA 30 SE CARGARON: 100 PUNTOS 
+Procesando la linea 31
+- FILA 31 SE CARGARON: 100 PUNTOS 
+Procesando la linea 32
+- FILA 32 SE CARGARON: 100 PUNTOS 
+Procesando la linea 33
+- FILA 33 SE CARGARON: 100 PUNTOS 
+Procesando la linea 34
+- FILA 34 SE CARGARON: 100 PUNTOS 
+Procesando la linea 35
+- FILA 35 SE CARGARON: 100 PUNTOS 
+Procesando la linea 36
+- FILA 36 SE CARGARON: 100 PUNTOS 
+Procesando la linea 37
+- FILA 37 SE CARGARON: 100 PUNTOS 
+Procesando la linea 38
+- FILA 38 SE CARGARON: 100 PUNTOS 
+Procesando la linea 39
+- FILA 39 SE CARGARON: 100 PUNTOS 
+Procesando la linea 40
+- FILA 40 SE CARGARON: 100 PUNTOS 
+Procesando la linea 41
+- FILA 41 SE CARGARON: 100 PUNTOS 
+Procesando la linea 42
+- FILA 42 SE CARGARON: 100 PUNTOS 
+Procesando la linea 43
+- FILA 43 SE CARGARON: 100 PUNTOS 
+Procesando la linea 44
+- FILA 44 SE CARGARON: 100 PUNTOS 
+Procesando la linea 45
+- FILA 45 SE CARGARON: 100 PUNTOS 
+Procesando la linea 46
+- FILA 46 SE CARGARON: 100 PUNTOS 
+Procesando la linea 47
+- FILA 47 SE CARGARON: 100 PUNTOS 
+Procesando la linea 48
+- FILA 48 SE CARGARON: 100 PUNTOS 
+Procesando la linea 49
+- FILA 49 SE CARGARON: 100 PUNTOS 
+Procesando la linea 50
+- FILA 50 SE CARGARON: 100 PUNTOS 
+Procesando la linea 51
+- FILA 51 SE CARGARON: 100 PUNTOS 
+Procesando la linea 52
+- FILA 52 SE CARGARON: 100 PUNTOS 
+Procesando la linea 53
+- FILA 53 SE CARGARON: 100 PUNTOS 
+Procesando la linea 54
+- FILA 54 SE CARGARON: 100 PUNTOS 
+Procesando la linea 55
+- FILA 55 SE CARGARON: 100 PUNTOS 
+Procesando la linea 56
+- FILA 56 SE CARGARON: 100 PUNTOS 
+Procesando la linea 57
+- FILA 57 SE CARGARON: 100 PUNTOS 
+Procesando la linea 58
+- FILA 58 SE CARGARON: 100 PUNTOS 
+Procesando la linea 59
+- FILA 59 SE CARGARON: 100 PUNTOS 
+Procesando la linea 60
+- FILA 60 SE CARGARON: 100 PUNTOS 
+Procesando la linea 61
+- FILA 61 SE CARGARON: 100 PUNTOS 
+Procesando la linea 62
+- FILA 62 SE CARGARON: 100 PUNTOS 
+Procesando la linea 63
+- FILA 63 SE CARGARON: 100 PUNTOS 
+Procesando la linea 64
+- FILA 64 SE CARGARON: 100 PUNTOS 
+Procesando la linea 65
+- FILA 65 SE CARGARON: 100 PUNTOS 
+Procesando la linea 66
+- FILA 66 SE CARGARON: 100 PUNTOS 
+Procesando la linea 67
+- FILA 67 SE CARGARON: 100 PUNTOS 
+Procesando la linea 68
+- FILA 68 SE CARGARON: 100 PUNTOS 
+Procesando la linea 69
+- FILA 69 SE CARGARON: 100 PUNTOS 
+Procesando la linea 70
+- FILA 70 SE CARGARON: 100 PUNTOS 
+Procesando la linea 71
+- FILA 71 SE CARGARON: 100 PUNTOS 
+Procesando la linea 72
+- FILA 72 SE CARGARON: 100 PUNTOS 
+Procesando la linea 73
+- FILA 73 SE CARGARON: 100 PUNTOS 
+Procesando la linea 74
+- FILA 74 SE CARGARON: 100 PUNTOS 
+Procesando la linea 75
+- FILA 75 SE CARGARON: 100 PUNTOS 
+Procesando la linea 76
+- FILA 76 SE CARGARON: 100 PUNTOS 
+Procesando la linea 77
+- FILA 77 SE CARGARON: 100 PUNTOS 
+Procesando la linea 78
+- FILA 78 SE CARGARON: 100 PUNTOS 
+Procesando la linea 79
+- FILA 79 SE CARGARON: 100 PUNTOS 
+Procesando la linea 80
+- FILA 80 SE CARGARON: 100 PUNTOS 
+Procesando la linea 81
+- FILA 81 SE CARGARON: 100 PUNTOS 
+Procesando la linea 82
+- FILA 82 SE CARGARON: 100 PUNTOS 
+Procesando la linea 83
+- FILA 83 SE CARGARON: 100 PUNTOS 
+Procesando la linea 84
+- FILA 84 SE CARGARON: 100 PUNTOS 
+Procesando la linea 85
+- FILA 85 SE CARGARON: 100 PUNTOS 
+Procesando la linea 86
+- FILA 86 SE CARGARON: 100 PUNTOS 
+Procesando la linea 87
+- FILA 87 SE CARGARON: 100 PUNTOS 
+Procesando la linea 88
+- FILA 88 SE CARGARON: 100 PUNTOS 
+Procesando la linea 89
+- FILA 89 SE CARGARON: 100 PUNTOS 
+Procesando la linea 90
+- FILA 90 SE CARGARON: 100 PUNTOS 
+Procesando la linea 91
+- FILA 91 SE CARGARON: 100 PUNTOS 
+Procesando la linea 92
+- FILA 92 SE CARGARON: 100 PUNTOS 
+Procesando la linea 93
+- FILA 93 SE CARGARON: 100 PUNTOS 
+Procesando la linea 94
+- FILA 94 SE CARGARON: 100 PUNTOS 
+Procesando la linea 95
+- FILA 95 SE CARGARON: 100 PUNTOS 
+Procesando la linea 96
+- FILA 96 SE CARGARON: 150 PUNTOS 
+Procesando la linea 97
+- FILA 97 SE CARGARON: 150 PUNTOS 
+Procesando la linea 98
+- FILA 98 SE CARGARON: 150 PUNTOS 
+Procesando la linea 99
+- FILA 99 SE CARGARON: 150 PUNTOS 
+Procesando la linea 100
+- FILA 100 SE CARGARON: 150 PUNTOS 
+Procesando la linea 101
+- FILA 101 SE CARGARON: 150 PUNTOS 
+Procesando la linea 102
+- FILA 102 SE CARGARON: 150 PUNTOS 
+Procesando la linea 103
+- FILA 103 SE CARGARON: 150 PUNTOS 
+Procesando la linea 104
+- FILA 104 SE CARGARON: 150 PUNTOS 
+Procesando la linea 105
+- FILA 105 SE CARGARON: 150 PUNTOS 
+Procesando la linea 106
+- FILA 106 SE CARGARON: 150 PUNTOS 
+Procesando la linea 107
+- FILA 107 SE CARGARON: 150 PUNTOS 
+Procesando la linea 108
+- FILA 108 SE CARGARON: 150 PUNTOS 
+Procesando la linea 109
+- FILA 109 SE CARGARON: 150 PUNTOS 
+Procesando la linea 110
+- FILA 110 SE CARGARON: 150 PUNTOS 
+Procesando la linea 111
+- FILA 111 SE CARGARON: 150 PUNTOS 
+Procesando la linea 112
+- FILA 112 SE CARGARON: 150 PUNTOS 
+Procesando la linea 113
+- FILA 113 SE CARGARON: 150 PUNTOS 
+Procesando la linea 114
+- FILA 114 SE CARGARON: 150 PUNTOS 
+Procesando la linea 115
+- FILA 115 SE CARGARON: 150 PUNTOS 
+Procesando la linea 116
+- FILA 116 SE CARGARON: 150 PUNTOS 
+Procesando la linea 117
+- FILA 117 SE CARGARON: 150 PUNTOS 
+Procesando la linea 118
+- FILA 118 SE CARGARON: 150 PUNTOS 
+Procesando la linea 119
+- FILA 119 SE CARGARON: 150 PUNTOS 
+Procesando la linea 120
+- FILA 120 SE CARGARON: 150 PUNTOS 
+Procesando la linea 121
+- FILA 121 SE CARGARON: 150 PUNTOS 
+Procesando la linea 122
+- FILA 122 SE CARGARON: 150 PUNTOS 
+Procesando la linea 123
+- FILA 123 SE CARGARON: 150 PUNTOS 
+Procesando la linea 124
+- FILA 124 SE CARGARON: 150 PUNTOS 
+Procesando la linea 125
+- FILA 125 SE CARGARON: 150 PUNTOS 
+Procesando la linea 126
+- FILA 126 SE CARGARON: 150 PUNTOS 
+Procesando la linea 127
+- FILA 127 SE CARGARON: 150 PUNTOS 
+Procesando la linea 128
+- FILA 128 SE CARGARON: 150 PUNTOS 
+Procesando la linea 129
+- FILA 129 SE CARGARON: 150 PUNTOS 
+Procesando la linea 130
+- FILA 130 SE CARGARON: 150 PUNTOS 
+Procesando la linea 131
+- FILA 131 SE CARGARON: 150 PUNTOS 
+Procesando la linea 132
+- FILA 132 SE CARGARON: 150 PUNTOS 
+Procesando la linea 133
+- FILA 133 SE CARGARON: 150 PUNTOS 
+Procesando la linea 134
+- FILA 134 SE CARGARON: 150 PUNTOS 
+Procesando la linea 135
+- FILA 135 SE CARGARON: 150 PUNTOS 
+Procesando la linea 136
+- FILA 136 SE CARGARON: 150 PUNTOS 
+Procesando la linea 137
+- FILA 137 SE CARGARON: 150 PUNTOS 
+Procesando la linea 138
+- FILA 138 SE CARGARON: 150 PUNTOS 
+Procesando la linea 139
+- FILA 139 SE CARGARON: 150 PUNTOS 
+Procesando la linea 140
+- FILA 140 SE CARGARON: 150 PUNTOS 
+Procesando la linea 141
+- FILA 141 SE CARGARON: 150 PUNTOS 
+Procesando la linea 142
+- FILA 142 SE CARGARON: 150 PUNTOS 
+Procesando la linea 143
+- FILA 143 SE CARGARON: 150 PUNTOS 
+Procesando la linea 144
+- FILA 144 SE CARGARON: 150 PUNTOS 
+Procesando la linea 145
+- FILA 145 SE CARGARON: 150 PUNTOS 
+Procesando la linea 146
+- FILA 146 SE CARGARON: 150 PUNTOS 
+Procesando la linea 147
+- FILA 147 SE CARGARON: 150 PUNTOS 
+Procesando la linea 148
+- FILA 148 SE CARGARON: 150 PUNTOS 
+Procesando la linea 149
+- FILA 149 SE CARGARON: 150 PUNTOS 
+Procesando la linea 150
+- FILA 150 SE CARGARON: 150 PUNTOS 
+Procesando la linea 151
+- FILA 151 SE CARGARON: 150 PUNTOS 
+Procesando la linea 152
+- FILA 152 SE CARGARON: 150 PUNTOS 
+Procesando la linea 153
+- FILA 153 SE CARGARON: 150 PUNTOS 
+Procesando la linea 154
+- FILA 154 SE CARGARON: 150 PUNTOS 
+Procesando la linea 155
+- FILA 155 SE CARGARON: 150 PUNTOS 
+Procesando la linea 156
+- FILA 156 SE CARGARON: 150 PUNTOS 
+Procesando la linea 157
+- FILA 157 SE CARGARON: 150 PUNTOS 
+Procesando la linea 158
+- FILA 158 SE CARGARON: 150 PUNTOS 
+Procesando la linea 159
+- FILA 159 SE CARGARON: 150 PUNTOS 
+Procesando la linea 160
+- FILA 160 SE CARGARON: 150 PUNTOS 
+Procesando la linea 161
+- FILA 161 SE CARGARON: 150 PUNTOS 
+Procesando la linea 162
+- FILA 162 SE CARGARON: 150 PUNTOS 
+Procesando la linea 163
+- FILA 163 SE CARGARON: 150 PUNTOS 
+Procesando la linea 164
+- FILA 164 SE CARGARON: 150 PUNTOS 
+Procesando la linea 165
+- FILA 165 SE CARGARON: 150 PUNTOS 
+Procesando la linea 166
+- FILA 166 SE CARGARON: 150 PUNTOS 
+Procesando la linea 167
+- FILA 167 SE CARGARON: 150 PUNTOS 
+Procesando la linea 168
+- FILA 168 SE CARGARON: 150 PUNTOS 
+Procesando la linea 169
+- FILA 169 SE CARGARON: 150 PUNTOS 
+Procesando la linea 170
+- FILA 170 SE CARGARON: 150 PUNTOS 
+Procesando la linea 171
+- FILA 171 SE CARGARON: 150 PUNTOS 
+Procesando la linea 172
+- FILA 172 SE CARGARON: 150 PUNTOS 
+Procesando la linea 173
+- FILA 173 SE CARGARON: 150 PUNTOS 
+Procesando la linea 174
+- FILA 174 SE CARGARON: 150 PUNTOS 
+Procesando la linea 175
+- FILA 175 SE CARGARON: 150 PUNTOS 
+Procesando la linea 176
+- FILA 176 SE CARGARON: 150 PUNTOS 
+Procesando la linea 177
+- FILA 177 SE CARGARON: 150 PUNTOS 
+Procesando la linea 178
+- FILA 178 SE CARGARON: 150 PUNTOS 
+Procesando la linea 179
+- FILA 179 SE CARGARON: 150 PUNTOS 
+Procesando la linea 180
+- FILA 180 SE CARGARON: 150 PUNTOS 
+Procesando la linea 181
+- FILA 181 SE CARGARON: 150 PUNTOS 
+Procesando la linea 182
+- FILA 182 SE CARGARON: 150 PUNTOS 
+Procesando la linea 183
+- FILA 183 SE CARGARON: 150 PUNTOS 
+Procesando la linea 184
+- FILA 184 SE CARGARON: 150 PUNTOS 
+Procesando la linea 185
+- FILA 185 SE CARGARON: 150 PUNTOS 
+Procesando la linea 186
+- FILA 186 SE CARGARON: 150 PUNTOS 
+Procesando la linea 187
+- FILA 187 SE CARGARON: 150 PUNTOS 
+Procesando la linea 188
+- FILA 188 SE CARGARON: 150 PUNTOS 
+Procesando la linea 189
+- FILA 189 SE CARGARON: 150 PUNTOS 
+Procesando la linea 190
+- FILA 190 SE CARGARON: 150 PUNTOS 
+Procesando la linea 191
+- FILA 191 SE CARGARON: 150 PUNTOS 
+Procesando la linea 192
+- FILA 192 SE CARGARON: 150 PUNTOS 
+Procesando la linea 193
+- FILA 193 SE CARGARON: 150 PUNTOS 
+Procesando la linea 194
+- FILA 194 SE CARGARON: 150 PUNTOS 
+Procesando la linea 195
+- FILA 195 SE CARGARON: 150 PUNTOS 
+Procesando la linea 196
+- FILA 196 SE CARGARON: 150 PUNTOS 
+Procesando la linea 197
+- FILA 197 SE CARGARON: 150 PUNTOS 
+Procesando la linea 198
+- FILA 198 SE CARGARON: 150 PUNTOS 
+Procesando la linea 199
+- FILA 199 SE CARGARON: 150 PUNTOS 
+Procesando la linea 200
+- FILA 200 SE CARGARON: 150 PUNTOS 
+Procesando la linea 201
+- FILA 201 SE CARGARON: 150 PUNTOS 
+Procesando la linea 202
+- FILA 202 SE CARGARON: 150 PUNTOS 
+Procesando la linea 203
+- FILA 203 SE CARGARON: 150 PUNTOS 
+Procesando la linea 204
+- FILA 204 SE CARGARON: 150 PUNTOS 
+Procesando la linea 205
+- FILA 205 SE CARGARON: 150 PUNTOS 
+Procesando la linea 206
+- FILA 206 SE CARGARON: 150 PUNTOS 
+Procesando la linea 207
+- FILA 207 SE CARGARON: 150 PUNTOS 
+Procesando la linea 208
+- FILA 208 SE CARGARON: 150 PUNTOS 
+Procesando la linea 209
+- FILA 209 SE CARGARON: 150 PUNTOS 
+Procesando la linea 210
+- FILA 210 SE CARGARON: 150 PUNTOS 
+Procesando la linea 211
+- FILA 211 SE CARGARON: 150 PUNTOS 
+Procesando la linea 212
+- FILA 212 SE CARGARON: 150 PUNTOS 
+Procesando la linea 213
+- FILA 213 SE CARGARON: 150 PUNTOS 
+Procesando la linea 214
+- FILA 214 SE CARGARON: 150 PUNTOS 
+Procesando la linea 215
+- FILA 215 SE CARGARON: 150 PUNTOS 
+Procesando la linea 216
+- FILA 216 SE CARGARON: 150 PUNTOS 
+Procesando la linea 217
+- FILA 217 SE CARGARON: 150 PUNTOS 
+Procesando la linea 218
+- FILA 218 SE CARGARON: 150 PUNTOS 
+Procesando la linea 219
+- FILA 219 SE CARGARON: 150 PUNTOS 
+Procesando la linea 220
+- FILA 220 SE CARGARON: 150 PUNTOS 
+Procesando la linea 221
+- FILA 221 SE CARGARON: 150 PUNTOS 
+Procesando la linea 222
+- FILA 222 SE CARGARON: 150 PUNTOS 
+Procesando la linea 223
+- FILA 223 SE CARGARON: 150 PUNTOS 
+Procesando la linea 224
+- FILA 224 SE CARGARON: 150 PUNTOS 
+Procesando la linea 225
+- FILA 225 SE CARGARON: 200 PUNTOS 
+Procesando la linea 226
+- FILA 226 SE CARGARON: 200 PUNTOS 
+Procesando la linea 227
+- FILA 227 SE CARGARON: 200 PUNTOS 
+Procesando la linea 228
+- FILA 228 SE CARGARON: 200 PUNTOS 
+Procesando la linea 229
+- FILA 229 SE CARGARON: 200 PUNTOS 
+Procesando la linea 230
+- FILA 230 SE CARGARON: 200 PUNTOS 
+Procesando la linea 231
+- FILA 231 SE CARGARON: 200 PUNTOS 
+Procesando la linea 232
+- FILA 232 SE CARGARON: 200 PUNTOS 
+Procesando la linea 233
+- FILA 233 SE CARGARON: 200 PUNTOS 
+Procesando la linea 234
+- FILA 234 SE CARGARON: 200 PUNTOS 
+Procesando la linea 235
+- FILA 235 SE CARGARON: 200 PUNTOS 
+Procesando la linea 236
+- FILA 236 SE CARGARON: 200 PUNTOS 
+Procesando la linea 237
+- FILA 237 SE CARGARON: 200 PUNTOS 
+Procesando la linea 238
+- FILA 238 SE CARGARON: 200 PUNTOS 
+Procesando la linea 239
+- FILA 239 SE CARGARON: 200 PUNTOS 
+Procesando la linea 240
+- FILA 240 SE CARGARON: 200 PUNTOS 
+Procesando la linea 241
+- FILA 241 SE CARGARON: 200 PUNTOS 
+Procesando la linea 242
+- FILA 242 SE CARGARON: 200 PUNTOS 
+Procesando la linea 243
+- FILA 243 SE CARGARON: 200 PUNTOS 
+Procesando la linea 244
+- FILA 244 SE CARGARON: 200 PUNTOS 
+Procesando la linea 245
+- FILA 245 SE CARGARON: 200 PUNTOS 
+Procesando la linea 246
+- FILA 246 SE CARGARON: 200 PUNTOS 
+Procesando la linea 247
+- FILA 247 SE CARGARON: 200 PUNTOS 
+Procesando la linea 248
+- FILA 248 SE CARGARON: 200 PUNTOS 
+Procesando la linea 249
+- FILA 249 SE CARGARON: 200 PUNTOS 
+Procesando la linea 250
+- FILA 250 SE CARGARON: 200 PUNTOS 
+Procesando la linea 251
+- FILA 251 SE CARGARON: 200 PUNTOS 
+Procesando la linea 252
+- FILA 252 SE CARGARON: 200 PUNTOS 
+Procesando la linea 253
+- FILA 253 SE CARGARON: 200 PUNTOS 
+Procesando la linea 254
+- FILA 254 SE CARGARON: 200 PUNTOS 
+Procesando la linea 255
+- FILA 255 SE CARGARON: 200 PUNTOS 
+Procesando la linea 256
+- FILA 256 SE CARGARON: 200 PUNTOS 
+Procesando la linea 257
+- FILA 257 SE CARGARON: 200 PUNTOS 
+Procesando la linea 258
+- FILA 258 SE CARGARON: 200 PUNTOS 
+Procesando la linea 259
+- FILA 259 SE CARGARON: 200 PUNTOS 
+Procesando la linea 260
+- FILA 260 SE CARGARON: 200 PUNTOS 
+Procesando la linea 261
+- FILA 261 SE CARGARON: 200 PUNTOS 
+Procesando la linea 262
+- FILA 262 SE CARGARON: 200 PUNTOS 
+Procesando la linea 263
+- FILA 263 SE CARGARON: 200 PUNTOS 
+Procesando la linea 264
+- FILA 264 SE CARGARON: 200 PUNTOS 
+Procesando la linea 265
+- FILA 265 SE CARGARON: 200 PUNTOS 
+Procesando la linea 266
+- FILA 266 SE CARGARON: 200 PUNTOS 
+Procesando la linea 267
+- FILA 267 SE CARGARON: 200 PUNTOS 
+Procesando la linea 268
+- FILA 268 SE CARGARON: 200 PUNTOS 
+Procesando la linea 269
+- FILA 269 SE CARGARON: 200 PUNTOS 
+Procesando la linea 270
+- FILA 270 SE CARGARON: 200 PUNTOS 
+Procesando la linea 271
+- FILA 271 SE CARGARON: 200 PUNTOS 
+Procesando la linea 272
+- FILA 272 SE CARGARON: 200 PUNTOS 
+Procesando la linea 273
+- FILA 273 SE CARGARON: 200 PUNTOS 
+Procesando la linea 274
+- FILA 274 SE CARGARON: 200 PUNTOS 
+Procesando la linea 275
+- FILA 275 SE CARGARON: 200 PUNTOS 
+Procesando la linea 276
+- FILA 276 SE CARGARON: 200 PUNTOS 
+Procesando la linea 277
+- FILA 277 SE CARGARON: 200 PUNTOS 
+Procesando la linea 278
+- FILA 278 SE CARGARON: 200 PUNTOS 
+Procesando la linea 279
+- FILA 279 SE CARGARON: 200 PUNTOS 
+Procesando la linea 280
+- FILA 280 SE CARGARON: 200 PUNTOS 
+Procesando la linea 281
+- FILA 281 SE CARGARON: 200 PUNTOS 
+Procesando la linea 282
+- FILA 282 SE CARGARON: 200 PUNTOS 
+Procesando la linea 283
+- FILA 283 SE CARGARON: 200 PUNTOS 
+Procesando la linea 284
+- FILA 284 SE CARGARON: 200 PUNTOS 
+Procesando la linea 285
+- FILA 285 SE CARGARON: 200 PUNTOS 
+Procesando la linea 286
+- FILA 286 SE CARGARON: 200 PUNTOS 
+Procesando la linea 287
+- FILA 287 SE CARGARON: 200 PUNTOS 
+Procesando la linea 288
+- FILA 288 SE CARGARON: 200 PUNTOS 
+Procesando la linea 289
+- FILA 289 SE CARGARON: 200 PUNTOS 
+Procesando la linea 290
+- FILA 290 SE CARGARON: 200 PUNTOS 
+Procesando la linea 291
+- FILA 291 SE CARGARON: 200 PUNTOS 
+Procesando la linea 292
+- FILA 292 SE CARGARON: 200 PUNTOS 
+Procesando la linea 293
+- FILA 293 SE CARGARON: 200 PUNTOS 
+Procesando la linea 294
+- FILA 294 SE CARGARON: 200 PUNTOS 
+Procesando la linea 295
+- FILA 295 SE CARGARON: 200 PUNTOS 
+Procesando la linea 296
+- FILA 296 SE CARGARON: 200 PUNTOS 
+Procesando la linea 297
+- FILA 297 SE CARGARON: 200 PUNTOS 
+Procesando la linea 298
+- FILA 298 SE CARGARON: 200 PUNTOS 
+Procesando la linea 299
+- FILA 299 SE CARGARON: 200 PUNTOS 
+Procesando la linea 300
+- FILA 300 SE CARGARON: 200 PUNTOS 
+Procesando la linea 301
+- FILA 301 SE CARGARON: 200 PUNTOS 
+Procesando la linea 302
+- FILA 302 SE CARGARON: 200 PUNTOS 
+Procesando la linea 303
+- FILA 303 SE CARGARON: 200 PUNTOS 
+Procesando la linea 304
+- FILA 304 SE CARGARON: 200 PUNTOS 
+Procesando la linea 305
+- FILA 305 SE CARGARON: 200 PUNTOS 
+Procesando la linea 306
+- FILA 306 SE CARGARON: 200 PUNTOS 
+Procesando la linea 307
+- FILA 307 SE CARGARON: 200 PUNTOS 
+Procesando la linea 308
+- FILA 308 SE CARGARON: 200 PUNTOS 
+Procesando la linea 309
+- FILA 309 SE CARGARON: 200 PUNTOS 
+Procesando la linea 310
+- FILA 310 SE CARGARON: 200 PUNTOS 
+Procesando la linea 311
+- FILA 311 SE CARGARON: 200 PUNTOS 
+Procesando la linea 312
+- FILA 312 SE CARGARON: 200 PUNTOS 
+Procesando la linea 313
+- FILA 313 SE CARGARON: 200 PUNTOS 
+Procesando la linea 314
+- FILA 314 SE CARGARON: 200 PUNTOS 
+Procesando la linea 315
+- FILA 315 SE CARGARON: 200 PUNTOS 
+Procesando la linea 316
+- FILA 316 SE CARGARON: 200 PUNTOS 
+Procesando la linea 317
+- FILA 317 SE CARGARON: 200 PUNTOS 
+Procesando la linea 318
+- FILA 318 SE CARGARON: 200 PUNTOS 
+Procesando la linea 319
+- FILA 319 SE CARGARON: 200 PUNTOS 
+Procesando la linea 320
+- FILA 320 SE CARGARON: 200 PUNTOS 
+Procesando la linea 321
+- FILA 321 SE CARGARON: 200 PUNTOS 
+Procesando la linea 322
+- FILA 322 SE CARGARON: 200 PUNTOS 
+Procesando la linea 323
+- FILA 323 SE CARGARON: 200 PUNTOS 
+Procesando la linea 324
+- FILA 324 SE CARGARON: 200 PUNTOS 
+Procesando la linea 325
+- FILA 325 SE CARGARON: 200 PUNTOS 
+Procesando la linea 326
+- FILA 326 SE CARGARON: 200 PUNTOS 
+Procesando la linea 327
+- FILA 327 SE CARGARON: 200 PUNTOS 
+Procesando la linea 328
+- FILA 328 SE CARGARON: 200 PUNTOS 
+Procesando la linea 329
+- FILA 329 SE CARGARON: 200 PUNTOS 
+Procesando la linea 330
+- FILA 330 SE CARGARON: 200 PUNTOS 
+Procesando la linea 331
+- FILA 331 SE CARGARON: 200 PUNTOS 
+Procesando la linea 332
+- FILA 332 SE CARGARON: 200 PUNTOS 
+Procesando la linea 333
+- FILA 333 SE CARGARON: 200 PUNTOS 
+Procesando la linea 334
+- FILA 334 SE CARGARON: 200 PUNTOS 
+Procesando la linea 335
+- FILA 335 SE CARGARON: 200 PUNTOS 
+Procesando la linea 336
+- FILA 336 SE CARGARON: 200 PUNTOS 
+Procesando la linea 337
+- FILA 337 SE CARGARON: 200 PUNTOS 
+Procesando la linea 338
+- FILA 338 SE CARGARON: 200 PUNTOS 
+Procesando la linea 339
+- FILA 339 SE CARGARON: 200 PUNTOS 
+Procesando la linea 340
+- FILA 340 SE CARGARON: 200 PUNTOS 
+Procesando la linea 341
+- FILA 341 SE CARGARON: 200 PUNTOS 
+Procesando la linea 342
+- FILA 342 SE CARGARON: 200 PUNTOS 
+Procesando la linea 343
+- FILA 343 SE CARGARON: 200 PUNTOS 
+Procesando la linea 344
+- FILA 344 SE CARGARON: 200 PUNTOS 
+Procesando la linea 345
+- FILA 345 SE CARGARON: 200 PUNTOS 
+Procesando la linea 346
+- FILA 346 SE CARGARON: 200 PUNTOS 
+Procesando la linea 347
+- FILA 347 SE CARGARON: 200 PUNTOS 
+Procesando la linea 348
+- FILA 348 SE CARGARON: 200 PUNTOS 
+Procesando la linea 349
+- FILA 349 SE CARGARON: 200 PUNTOS 
+Procesando la linea 350
+- FILA 350 SE CARGARON: 200 PUNTOS 
+Procesando la linea 351
+- FILA 351 SE CARGARON: 200 PUNTOS 
+Procesando la linea 352
+- FILA 352 SE CARGARON: 200 PUNTOS 
+Procesando la linea 353
+- FILA 353 SE CARGARON: 200 PUNTOS 
+Procesando la linea 354
+- FILA 354 SE CARGARON: 200 PUNTOS 
+Procesando la linea 355
+- FILA 355 SE CARGARON: 200 PUNTOS 
+Procesando la linea 356
+- FILA 356 SE CARGARON: 200 PUNTOS 
+Procesando la linea 357
+- FILA 357 SE CARGARON: 200 PUNTOS 
+Procesando la linea 358
+- FILA 358 SE CARGARON: 200 PUNTOS 
+Procesando la linea 359
+- FILA 359 SE CARGARON: 200 PUNTOS 
+Procesando la linea 360
+- FILA 360 SE CARGARON: 200 PUNTOS 
+Procesando la linea 361
+- FILA 361 SE CARGARON: 200 PUNTOS 
+Procesando la linea 362
+- FILA 362 SE CARGARON: 200 PUNTOS 
+Procesando la linea 363
+- FILA 363 SE CARGARON: 200 PUNTOS 
+Procesando la linea 364
+- FILA 364 SE CARGARON: 200 PUNTOS 
+Procesando la linea 365
+- FILA 365 SE CARGARON: 200 PUNTOS 
+Procesando la linea 366
+- FILA 366 SE CARGARON: 200 PUNTOS 
+Procesando la linea 367
+- FILA 367 SE CARGARON: 200 PUNTOS 
+Procesando la linea 368
+- FILA 368 SE CARGARON: 200 PUNTOS 
+Procesando la linea 369
+- FILA 369 SE CARGARON: 200 PUNTOS 
+Procesando la linea 370
+- FILA 370 SE CARGARON: 200 PUNTOS 
+Procesando la linea 371
+- FILA 371 SE CARGARON: 200 PUNTOS 
+Procesando la linea 372
+- FILA 372 SE CARGARON: 200 PUNTOS 
+Procesando la linea 373
+- FILA 373 SE CARGARON: 200 PUNTOS 
+Procesando la linea 374
+- FILA 374 SE CARGARON: 200 PUNTOS 
+Procesando la linea 375
+- FILA 375 SE CARGARON: 200 PUNTOS 
+Procesando la linea 376
+- FILA 376 SE CARGARON: 200 PUNTOS 
+Procesando la linea 377
+- FILA 377 SE CARGARON: 200 PUNTOS 
+Procesando la linea 378
+- FILA 378 SE CARGARON: 200 PUNTOS 
+Procesando la linea 379
+- FILA 379 SE CARGARON: 200 PUNTOS 
+Procesando la linea 380
+- FILA 380 SE CARGARON: 200 PUNTOS 
+Procesando la linea 381
+- FILA 381 SE CARGARON: 200 PUNTOS 
+Procesando la linea 382
+- FILA 382 SE CARGARON: 200 PUNTOS 
+Procesando la linea 383
+- FILA 383 SE CARGARON: 200 PUNTOS 
+Procesando la linea 384
+- FILA 384 SE CARGARON: 200 PUNTOS 
+Procesando la linea 385
+- FILA 385 SE CARGARON: 200 PUNTOS 
+Procesando la linea 386
+- FILA 386 SE CARGARON: 200 PUNTOS 
+Procesando la linea 387
+- FILA 387 SE CARGARON: 200 PUNTOS 
+Procesando la linea 388
+- FILA 388 SE CARGARON: 200 PUNTOS 
+Procesando la linea 389
+- FILA 389 SE CARGARON: 200 PUNTOS 
+Procesando la linea 390
+- FILA 390 SE CARGARON: 200 PUNTOS 
+Procesando la linea 391
+- FILA 391 SE CARGARON: 200 PUNTOS 
+Procesando la linea 392
+- FILA 392 SE CARGARON: 200 PUNTOS 
+Procesando la linea 393
+- FILA 393 SE CARGARON: 200 PUNTOS 
+Procesando la linea 394
+- FILA 394 SE CARGARON: 200 PUNTOS 
+Procesando la linea 395
+- FILA 395 SE CARGARON: 200 PUNTOS 
+Procesando la linea 396
+- FILA 396 SE CARGARON: 200 PUNTOS 
+Procesando la linea 397
+- FILA 397 SE CARGARON: 200 PUNTOS 
+Procesando la linea 398
+- FILA 398 SE CARGARON: 200 PUNTOS 
+Procesando la linea 399
+- FILA 399 SE CARGARON: 200 PUNTOS 
+Procesando la linea 400
+- FILA 400 SE CARGARON: 200 PUNTOS 
+Procesando la linea 401
+- FILA 401 SE CARGARON: 200 PUNTOS 
+Procesando la linea 402
+- FILA 402 SE CARGARON: 200 PUNTOS 
+Procesando la linea 403
+- FILA 403 SE CARGARON: 200 PUNTOS 
+Procesando la linea 404
+- FILA 404 SE CARGARON: 200 PUNTOS 
+Procesando la linea 405
+- FILA 405 SE CARGARON: 200 PUNTOS 
+Procesando la linea 406
+- FILA 406 SE CARGARON: 200 PUNTOS 
+Procesando la linea 407
+- FILA 407 SE CARGARON: 200 PUNTOS 
+Procesando la linea 408
+- FILA 408 SE CARGARON: 200 PUNTOS 
+Procesando la linea 409
+- FILA 409 SE CARGARON: 200 PUNTOS 
+Procesando la linea 410
+- FILA 410 SE CARGARON: 200 PUNTOS 
+Procesando la linea 411
+- FILA 411 SE CARGARON: 200 PUNTOS 
+Procesando la linea 412
+- FILA 412 SE CARGARON: 200 PUNTOS 
+Procesando la linea 413
+- FILA 413 SE CARGARON: 200 PUNTOS 
+Procesando la linea 414
+- FILA 414 SE CARGARON: 200 PUNTOS 
+Procesando la linea 415
+- FILA 415 SE CARGARON: 200 PUNTOS 
+Procesando la linea 416
+- FILA 416 SE CARGARON: 200 PUNTOS 
+Procesando la linea 417
+- FILA 417 SE CARGARON: 200 PUNTOS 
+Procesando la linea 418
+- FILA 418 SE CARGARON: 200 PUNTOS 
+Procesando la linea 419
+- FILA 419 SE CARGARON: 200 PUNTOS 
+Procesando la linea 420
+- FILA 420 SE CARGARON: 200 PUNTOS 
+Procesando la linea 421
+- FILA 421 SE CARGARON: 200 PUNTOS 
+Procesando la linea 422
+- FILA 422 SE CARGARON: 200 PUNTOS 
+Procesando la linea 423
+- FILA 423 SE CARGARON: 200 PUNTOS 
+Procesando la linea 424
+- FILA 424 SE CARGARON: 200 PUNTOS 
+Procesando la linea 425
+- FILA 425 SE CARGARON: 200 PUNTOS 
+Procesando la linea 426
+- FILA 426 SE CARGARON: 200 PUNTOS 
+Procesando la linea 427
+- FILA 427 SE CARGARON: 200 PUNTOS 
+Procesando la linea 428
+- FILA 428 SE CARGARON: 200 PUNTOS 
+Procesando la linea 429
+- FILA 429 SE CARGARON: 200 PUNTOS 
+Procesando la linea 430
+- FILA 430 SE CARGARON: 200 PUNTOS 
+Procesando la linea 431
+- FILA 431 SE CARGARON: 200 PUNTOS 
+Procesando la linea 432
+- FILA 432 SE CARGARON: 200 PUNTOS 
+Procesando la linea 433
+- FILA 433 SE CARGARON: 200 PUNTOS 
+Procesando la linea 434
+- FILA 434 SE CARGARON: 200 PUNTOS 
+Procesando la linea 435
+- FILA 435 SE CARGARON: 200 PUNTOS 
+Procesando la linea 436
+- FILA 436 SE CARGARON: 200 PUNTOS 
+Procesando la linea 437
+- FILA 437 SE CARGARON: 200 PUNTOS 
+Procesando la linea 438
+- FILA 438 SE CARGARON: 200 PUNTOS 
+Procesando la linea 439
+- FILA 439 SE CARGARON: 200 PUNTOS 
+Procesando la linea 440
+- FILA 440 SE CARGARON: 200 PUNTOS 
+Procesando la linea 441
+- FILA 441 SE CARGARON: 200 PUNTOS 
+Procesando la linea 442
+- FILA 442 SE CARGARON: 200 PUNTOS 
+Procesando la linea 443
+- FILA 443 SE CARGARON: 200 PUNTOS 
+Procesando la linea 444
+- FILA 444 SE CARGARON: 200 PUNTOS 
+Procesando la linea 445
+- FILA 445 SE CARGARON: 200 PUNTOS 
+Procesando la linea 446
+- FILA 446 SE CARGARON: 200 PUNTOS 
+Procesando la linea 447
+- FILA 447 SE CARGARON: 200 PUNTOS 
+Procesando la linea 448
+- FILA 448 SE CARGARON: 200 PUNTOS 
+Procesando la linea 449
+- FILA 449 SE CARGARON: 200 PUNTOS 
+Procesando la linea 450
+- FILA 450 SE CARGARON: 200 PUNTOS 
+Procesando la linea 451
+- FILA 451 SE CARGARON: 200 PUNTOS 
+Procesando la linea 452
+- FILA 452 SE CARGARON: 200 PUNTOS 
+Procesando la linea 453
+- FILA 453 SE CARGARON: 200 PUNTOS 
+Procesando la linea 454
+- FILA 454 SE CARGARON: 200 PUNTOS 
+Procesando la linea 455
+- FILA 455 SE CARGARON: 200 PUNTOS 
+Procesando la linea 456
+- FILA 456 SE CARGARON: 200 PUNTOS 
+Procesando la linea 457
+- FILA 457 SE CARGARON: 200 PUNTOS 
+Procesando la linea 458
+- FILA 458 SE CARGARON: 200 PUNTOS 
+Procesando la linea 459
+- FILA 459 SE CARGARON: 200 PUNTOS 
+Procesando la linea 460
+- FILA 460 SE CARGARON: 200 PUNTOS 
+Procesando la linea 461
+- FILA 461 SE CARGARON: 200 PUNTOS 
+Procesando la linea 462
+- FILA 462 SE CARGARON: 200 PUNTOS 
+Procesando la linea 463
+- FILA 463 SE CARGARON: 200 PUNTOS 
+Procesando la linea 464
+- FILA 464 SE CARGARON: 200 PUNTOS 
+Procesando la linea 465
+- FILA 465 SE CARGARON: 200 PUNTOS 
+Procesando la linea 466
+- FILA 466 SE CARGARON: 200 PUNTOS 
+Procesando la linea 467
+- FILA 467 SE CARGARON: 200 PUNTOS 
+Procesando la linea 468
+- FILA 468 SE CARGARON: 200 PUNTOS 
+Procesando la linea 469
+- FILA 469 SE CARGARON: 200 PUNTOS 
+Procesando la linea 470
+- FILA 470 SE CARGARON: 200 PUNTOS 
+Procesando la linea 471
+- FILA 471 SE CARGARON: 200 PUNTOS 
+Procesando la linea 472
+- FILA 472 SE CARGARON: 200 PUNTOS 
+Procesando la linea 473
+- FILA 473 SE CARGARON: 200 PUNTOS 
+Procesando la linea 474
+- FILA 474 SE CARGARON: 200 PUNTOS 
+Procesando la linea 475
+- FILA 475 SE CARGARON: 200 PUNTOS 
+Procesando la linea 476
+- FILA 476 SE CARGARON: 200 PUNTOS 
+Procesando la linea 477
+- FILA 477 SE CARGARON: 200 PUNTOS 
+Procesando la linea 478
+- FILA 478 SE CARGARON: 200 PUNTOS 
+Procesando la linea 479
+- FILA 479 SE CARGARON: 200 PUNTOS 
+Procesando la linea 480
+- FILA 480 SE CARGARON: 200 PUNTOS 
+Procesando la linea 481
+- FILA 481 SE CARGARON: 200 PUNTOS 
+Procesando la linea 482
+- FILA 482 SE CARGARON: 200 PUNTOS 
+Procesando la linea 483
+- FILA 483 SE CARGARON: 200 PUNTOS 
+Procesando la linea 484
+- FILA 484 SE CARGARON: 200 PUNTOS 
+Procesando la linea 485
+- FILA 485 SE CARGARON: 200 PUNTOS 
+Procesando la linea 486
+- FILA 486 SE CARGARON: 200 PUNTOS 
+Procesando la linea 487
+- FILA 487 SE CARGARON: 200 PUNTOS 
+Procesando la linea 488
+- FILA 488 SE CARGARON: 200 PUNTOS 
+Procesando la linea 489
+- FILA 489 SE CARGARON: 200 PUNTOS 
+Procesando la linea 490
+- FILA 490 SE CARGARON: 200 PUNTOS 
+Procesando la linea 491
+- FILA 491 SE CARGARON: 200 PUNTOS 
+Procesando la linea 492
+- FILA 492 SE CARGARON: 200 PUNTOS 
+Procesando la linea 493
+- FILA 493 SE CARGARON: 200 PUNTOS 
+Procesando la linea 494
+- FILA 494 SE CARGARON: 200 PUNTOS 
+Procesando la linea 495
+- FILA 495 SE CARGARON: 200 PUNTOS 
+Procesando la linea 496
+- FILA 496 SE CARGARON: 200 PUNTOS 
+Procesando la linea 497
+- FILA 497 SE CARGARON: 200 PUNTOS 
+Procesando la linea 498
+- FILA 498 SE CARGARON: 200 PUNTOS 
+Procesando la linea 499
+- FILA 499 SE CARGARON: 200 PUNTOS 
+Procesando la linea 500
+- FILA 500 SE CARGARON: 200 PUNTOS 
+Procesando la linea 501
+- FILA 501 SE CARGARON: 200 PUNTOS 
+Procesando la linea 502
+- FILA 502 SE CARGARON: 200 PUNTOS 
+Procesando la linea 503
+- FILA 503 SE CARGARON: 200 PUNTOS 
+Procesando la linea 504
+- FILA 504 SE CARGARON: 200 PUNTOS 
+Procesando la linea 505
+- FILA 505 SE CARGARON: 200 PUNTOS 
+Procesando la linea 506
+- FILA 506 SE CARGARON: 200 PUNTOS 
+Procesando la linea 507
+- FILA 507 SE CARGARON: 200 PUNTOS 
+Procesando la linea 508
+- FILA 508 SE CARGARON: 200 PUNTOS 
+Procesando la linea 509
+- FILA 509 SE CARGARON: 200 PUNTOS 
+Procesando la linea 510
+- FILA 510 SE CARGARON: 200 PUNTOS 
+Procesando la linea 511
+- FILA 511 SE CARGARON: 200 PUNTOS 
+Procesando la linea 512
+- FILA 512 SE CARGARON: 200 PUNTOS 
+Procesando la linea 513
+- FILA 513 SE CARGARON: 200 PUNTOS 
+Procesando la linea 514
+- FILA 514 SE CARGARON: 200 PUNTOS 
+Procesando la linea 515
+- FILA 515 SE CARGARON: 200 PUNTOS 
+Procesando la linea 516
+- FILA 516 SE CARGARON: 200 PUNTOS 
+Procesando la linea 517
+- FILA 517 SE CARGARON: 200 PUNTOS 
+Procesando la linea 518
+- FILA 518 SE CARGARON: 200 PUNTOS 
+Procesando la linea 519
+- FILA 519 SE CARGARON: 200 PUNTOS 
+Procesando la linea 520
+- FILA 520 SE CARGARON: 200 PUNTOS 
+Procesando la linea 521
+- FILA 521 SE CARGARON: 200 PUNTOS 
+Procesando la linea 522
+- FILA 522 SE CARGARON: 200 PUNTOS 
+Procesando la linea 523
+- FILA 523 SE CARGARON: 200 PUNTOS 
+Procesando la linea 524
+- FILA 524 SE CARGARON: 200 PUNTOS 
+Procesando la linea 525
+- FILA 525 SE CARGARON: 200 PUNTOS 
+Procesando la linea 526
+- FILA 526 SE CARGARON: 200 PUNTOS 
+Procesando la linea 527
+- FILA 527 SE CARGARON: 200 PUNTOS 
+Procesando la linea 528
+- FILA 528 SE CARGARON: 200 PUNTOS 
+Procesando la linea 529
+- FILA 529 SE CARGARON: 200 PUNTOS 
+Procesando la linea 530
+- FILA 530 SE CARGARON: 200 PUNTOS 
+Procesando la linea 531
+- FILA 531 SE CARGARON: 200 PUNTOS 
+Procesando la linea 532
+- FILA 532 SE CARGARON: 200 PUNTOS 
+Procesando la linea 533
+- FILA 533 SE CARGARON: 200 PUNTOS 
+Procesando la linea 534
+- FILA 534 SE CARGARON: 200 PUNTOS 
+Procesando la linea 535
+- FILA 535 SE CARGARON: 200 PUNTOS 
+Procesando la linea 536
+- FILA 536 SE CARGARON: 200 PUNTOS 
+Procesando la linea 537
+- FILA 537 SE CARGARON: 200 PUNTOS 
+Procesando la linea 538
+- FILA 538 SE CARGARON: 200 PUNTOS 
+Procesando la linea 539
+- FILA 539 SE CARGARON: 200 PUNTOS 
+Procesando la linea 540
+- FILA 540 SE CARGARON: 200 PUNTOS 
+Procesando la linea 541
+- FILA 541 SE CARGARON: 200 PUNTOS 
+Procesando la linea 542
+- FILA 542 SE CARGARON: 200 PUNTOS 
+Procesando la linea 543
+- FILA 543 SE CARGARON: 200 PUNTOS 
+Procesando la linea 544
+- FILA 544 SE CARGARON: 200 PUNTOS 
+Procesando la linea 545
+- FILA 545 SE CARGARON: 200 PUNTOS 
+Procesando la linea 546
+- FILA 546 SE CARGARON: 200 PUNTOS 
+Procesando la linea 547
+- FILA 547 SE CARGARON: 200 PUNTOS 
+Procesando la linea 548
+- FILA 548 SE CARGARON: 200 PUNTOS 
+Procesando la linea 549
+- FILA 549 SE CARGARON: 200 PUNTOS 
+Procesando la linea 550
+- FILA 550 SE CARGARON: 200 PUNTOS 
+Procesando la linea 551
+- FILA 551 SE CARGARON: 200 PUNTOS 
+Procesando la linea 552
+- FILA 552 SE CARGARON: 200 PUNTOS 
+Procesando la linea 553
+- FILA 553 SE CARGARON: 200 PUNTOS 
+Procesando la linea 554
+- FILA 554 SE CARGARON: 200 PUNTOS 
+Procesando la linea 555
+- FILA 555 SE CARGARON: 200 PUNTOS 
+Procesando la linea 556
+- FILA 556 SE CARGARON: 200 PUNTOS 
+Procesando la linea 557
+- FILA 557 SE CARGARON: 200 PUNTOS 
+Procesando la linea 558
+- FILA 558 SE CARGARON: 200 PUNTOS 
+Procesando la linea 559
+- FILA 559 SE CARGARON: 200 PUNTOS 
+Procesando la linea 560
+- FILA 560 SE CARGARON: 200 PUNTOS 
+Procesando la linea 561
+- FILA 561 SE CARGARON: 200 PUNTOS 
+Procesando la linea 562
+- FILA 562 SE CARGARON: 200 PUNTOS 
+Procesando la linea 563
+- FILA 563 SE CARGARON: 200 PUNTOS 
+Procesando la linea 564
+- FILA 564 SE CARGARON: 200 PUNTOS 
+Procesando la linea 565
+- FILA 565 SE CARGARON: 200 PUNTOS 
+Procesando la linea 566
+- FILA 566 SE CARGARON: 200 PUNTOS 
+Procesando la linea 567
+- FILA 567 SE CARGARON: 200 PUNTOS 
+Procesando la linea 568
+- FILA 568 SE CARGARON: 200 PUNTOS 
+Procesando la linea 569
+- FILA 569 SE CARGARON: 200 PUNTOS 
+Procesando la linea 570
+- FILA 570 SE CARGARON: 200 PUNTOS 
+Procesando la linea 571
+- FILA 571 SE CARGARON: 200 PUNTOS 
+Procesando la linea 572
+- FILA 572 SE CARGARON: 200 PUNTOS 
+Procesando la linea 573
+- FILA 573 SE CARGARON: 200 PUNTOS 
+Procesando la linea 574
+- FILA 574 SE CARGARON: 200 PUNTOS 
+Procesando la linea 575
+- FILA 575 SE CARGARON: 200 PUNTOS 
+Procesando la linea 576
+- FILA 576 SE CARGARON: 200 PUNTOS 
+Procesando la linea 577
+- FILA 577 SE CARGARON: 200 PUNTOS 
+Procesando la linea 578
+- FILA 578 SE CARGARON: 200 PUNTOS 
+Procesando la linea 579
+- FILA 579 SE CARGARON: 200 PUNTOS 
+Procesando la linea 580
+- FILA 580 SE CARGARON: 200 PUNTOS 
+Procesando la linea 581
+- FILA 581 SE CARGARON: 200 PUNTOS 
+Procesando la linea 582
+- FILA 582 SE CARGARON: 200 PUNTOS 
+Procesando la linea 583
+- FILA 583 SE CARGARON: 200 PUNTOS 
+Procesando la linea 584
+- FILA 584 SE CARGARON: 200 PUNTOS 
+Procesando la linea 585
+- FILA 585 SE CARGARON: 200 PUNTOS 
+Procesando la linea 586
+- FILA 586 SE CARGARON: 200 PUNTOS 
+Procesando la linea 587
+- FILA 587 SE CARGARON: 200 PUNTOS 
+Procesando la linea 588
+- FILA 588 SE CARGARON: 200 PUNTOS 
+Procesando la linea 589
+- FILA 589 SE CARGARON: 200 PUNTOS 
+Procesando la linea 590
+- FILA 590 SE CARGARON: 200 PUNTOS 
+Procesando la linea 591
+- FILA 591 SE CARGARON: 200 PUNTOS 
+Procesando la linea 592
+- FILA 592 SE CARGARON: 200 PUNTOS 
+Procesando la linea 593
+- FILA 593 SE CARGARON: 200 PUNTOS 
+Procesando la linea 594
+- FILA 594 SE CARGARON: 200 PUNTOS 
+Procesando la linea 595
+- FILA 595 SE CARGARON: 200 PUNTOS 
+Procesando la linea 596
+- FILA 596 SE CARGARON: 200 PUNTOS 
+Procesando la linea 597
+- FILA 597 SE CARGARON: 200 PUNTOS 
+Procesando la linea 598
+- FILA 598 SE CARGARON: 200 PUNTOS 
+Procesando la linea 599
+- FILA 599 SE CARGARON: 200 PUNTOS 
+Procesando la linea 600
+- FILA 600 SE CARGARON: 200 PUNTOS 
+Procesando la linea 601
+- FILA 601 SE CARGARON: 200 PUNTOS 
+Procesando la linea 602
+- FILA 602 SE CARGARON: 200 PUNTOS 
+Procesando la linea 603
+- FILA 603 SE CARGARON: 200 PUNTOS 
+Procesando la linea 604
+- FILA 604 SE CARGARON: 200 PUNTOS 
+Procesando la linea 605
+- FILA 605 SE CARGARON: 200 PUNTOS 
+Procesando la linea 606
+- FILA 606 SE CARGARON: 200 PUNTOS 
+Procesando la linea 607
+- FILA 607 SE CARGARON: 200 PUNTOS 
+Procesando la linea 608
+- FILA 608 SE CARGARON: 200 PUNTOS 
+Procesando la linea 609
+- FILA 609 SE CARGARON: 200 PUNTOS 
+Procesando la linea 610
+- FILA 610 SE CARGARON: 200 PUNTOS 
+Procesando la linea 611
+- FILA 611 SE CARGARON: 200 PUNTOS 
+Procesando la linea 612
+- FILA 612 SE CARGARON: 200 PUNTOS 
+Procesando la linea 613
+- FILA 613 SE CARGARON: 200 PUNTOS 
+Procesando la linea 614
+- FILA 614 SE CARGARON: 200 PUNTOS 
+Procesando la linea 615
+- FILA 615 SE CARGARON: 200 PUNTOS 
+Procesando la linea 616
+- FILA 616 SE CARGARON: 200 PUNTOS 
+Procesando la linea 617
+- FILA 617 SE CARGARON: 200 PUNTOS 
+Procesando la linea 618
+- FILA 618 SE CARGARON: 200 PUNTOS 
+Procesando la linea 619
+- FILA 619 SE CARGARON: 200 PUNTOS 
+Procesando la linea 620
+- FILA 620 SE CARGARON: 200 PUNTOS 
+Procesando la linea 621
+- FILA 621 SE CARGARON: 200 PUNTOS 
+Procesando la linea 622
+- FILA 622 SE CARGARON: 200 PUNTOS 
+Procesando la linea 623
+- FILA 623 SE CARGARON: 200 PUNTOS 
+Procesando la linea 624
+- FILA 624 SE CARGARON: 200 PUNTOS 
+Procesando la linea 625
+- FILA 625 SE CARGARON: 200 PUNTOS 
+Procesando la linea 626
+- FILA 626 SE CARGARON: 200 PUNTOS 
+Procesando la linea 627
+- FILA 627 SE CARGARON: 200 PUNTOS 
+Procesando la linea 628
+- FILA 628 SE CARGARON: 200 PUNTOS 
+Procesando la linea 629
+- FILA 629 SE CARGARON: 200 PUNTOS 
+Procesando la linea 630
+- FILA 630 SE CARGARON: 200 PUNTOS 
+Procesando la linea 631
+- FILA 631 SE CARGARON: 200 PUNTOS 
+Procesando la linea 632
+- FILA 632 SE CARGARON: 200 PUNTOS 
+Procesando la linea 633
+- FILA 633 SE CARGARON: 200 PUNTOS 
+Procesando la linea 634
+- FILA 634 SE CARGARON: 200 PUNTOS 
+Procesando la linea 635
+- FILA 635 SE CARGARON: 200 PUNTOS 
+Procesando la linea 636
+- FILA 636 SE CARGARON: 200 PUNTOS 
+Procesando la linea 637
+- FILA 637 SE CARGARON: 200 PUNTOS 
+Procesando la linea 638
+- FILA 638 SE CARGARON: 200 PUNTOS 
+Procesando la linea 639
+- FILA 639 SE CARGARON: 200 PUNTOS 
+Procesando la linea 640
+- FILA 640 SE CARGARON: 250 PUNTOS 
+Procesando la linea 641
+- FILA 641 SE CARGARON: 250 PUNTOS 
+Procesando la linea 642
+- FILA 642 SE CARGARON: 250 PUNTOS 
+Procesando la linea 643
+- FILA 643 SE CARGARON: 250 PUNTOS 
+Procesando la linea 644
+- FILA 644 SE CARGARON: 250 PUNTOS 
+Procesando la linea 645
+- FILA 645 SE CARGARON: 250 PUNTOS 
+Procesando la linea 646
+- FILA 646 SE CARGARON: 250 PUNTOS 
+Procesando la linea 647
+- FILA 647 SE CARGARON: 250 PUNTOS 
+Procesando la linea 648
+- FILA 648 SE CARGARON: 300 PUNTOS 
+Procesando la linea 649
+- FILA 649 SE CARGARON: 300 PUNTOS 
+Procesando la linea 650
+- FILA 650 SE CARGARON: 300 PUNTOS 
+Procesando la linea 651
+- FILA 651 SE CARGARON: 300 PUNTOS 
+Procesando la linea 652
+- FILA 652 SE CARGARON: 300 PUNTOS 
+Procesando la linea 653
+- FILA 653 SE CARGARON: 500 PUNTOS 
+Procesando la linea 654
+- FILA 654 SE CARGARON: 500 PUNTOS 
+Procesando la linea 655
+- FILA 655 SE CARGARON: 500 PUNTOS 
+Procesando la linea 656
+- FILA 656 SE CARGARON: 500 PUNTOS 
+Procesando la linea 657
+- FILA 657 SE CARGARON: 500 PUNTOS 
+Procesando la linea 658
+- FILA 658 SE CARGARON: 500 PUNTOS 
+Procesando la linea 659
+- FILA 659 SE CARGARON: 500 PUNTOS 
+Procesando la linea 660
+- FILA 660 SE CARGARON: 500 PUNTOS 
+Procesando la linea 661
+- FILA 661 SE CARGARON: 500 PUNTOS 
+Procesando la linea 662
+- FILA 662 SE CARGARON: 500 PUNTOS 
+Procesando la linea 663
+- FILA 663 SE CARGARON: 500 PUNTOS 
+Procesando la linea 664
+- FILA 664 SE CARGARON: 500 PUNTOS 
+Procesando la linea 665
+- FILA 665 SE CARGARON: 500 PUNTOS 
+Procesando la linea 666
+- FILA 666 SE CARGARON: 500 PUNTOS 
+Procesando la linea 667
+- FILA 667 SE CARGARON: 500 PUNTOS 
+Procesando la linea 668
+- FILA 668 SE CARGARON: 500 PUNTOS 
+Procesando la linea 669
+- FILA 669 SE CARGARON: 500 PUNTOS 
+Procesando la linea 670
+- FILA 670 SE CARGARON: 500 PUNTOS 
+Procesando la linea 671
+- FILA 671 SE CARGARON: 500 PUNTOS 
+Procesando la linea 672
+- FILA 672 SE CARGARON: 500 PUNTOS 
+Procesando la linea 673
+- FILA 673 SE CARGARON: 500 PUNTOS 
+Procesando la linea 674
+- FILA 674 SE CARGARON: 500 PUNTOS 
+Procesando la linea 675
+- FILA 675 SE CARGARON: 500 PUNTOS 
+Procesando la linea 676
+- FILA 676 SE CARGARON: 500 PUNTOS 
+Procesando la linea 677
+- FILA 677 SE CARGARON: 500 PUNTOS 
+Procesando la linea 678
+- FILA 678 SE CARGARON: 500 PUNTOS 
+Procesando la linea 679
+- FILA 679 SE CARGARON: 500 PUNTOS 
+Procesando la linea 680
+- FILA 680 SE CARGARON: 500 PUNTOS 
+Procesando la linea 681
+- FILA 681 SE CARGARON: 500 PUNTOS 
+Procesando la linea 682
+- FILA 682 SE CARGARON: 500 PUNTOS 
+Procesando la linea 683
+- FILA 683 SE CARGARON: 500 PUNTOS 
+Procesando la linea 684
+- FILA 684 SE CARGARON: 500 PUNTOS 
+Procesando la linea 685
+- FILA 685 SE CARGARON: 500 PUNTOS 
+Procesando la linea 686
+- FILA 686 SE CARGARON: 500 PUNTOS 
+Procesando la linea 687
+- FILA 687 SE CARGARON: 500 PUNTOS 
+Procesando la linea 688
+- FILA 688 SE CARGARON: 500 PUNTOS 
+Procesando la linea 689
+- FILA 689 SE CARGARON: 500 PUNTOS 
+Procesando la linea 690
+- FILA 690 SE CARGARON: 500 PUNTOS 
+Procesando la linea 691
+- FILA 691 SE CARGARON: 500 PUNTOS 
+Procesando la linea 692
+- FILA 692 SE CARGARON: 500 PUNTOS 
+Procesando la linea 693
+- FILA 693 SE CARGARON: 500 PUNTOS 
+Procesando la linea 694
+- FILA 694 SE CARGARON: 500 PUNTOS 
+Procesando la linea 695
+- FILA 695 SE CARGARON: 500 PUNTOS 
+Procesando la linea 696
+- FILA 696 SE CARGARON: 500 PUNTOS 
+Procesando la linea 697
+- FILA 697 SE CARGARON: 500 PUNTOS 
+Procesando la linea 698
+- FILA 698 SE CARGARON: 500 PUNTOS 
+Procesando la linea 699
+- FILA 699 SE CARGARON: 500 PUNTOS 
+Procesando la linea 700
+- FILA 700 SE CARGARON: 500 PUNTOS 
+Procesando la linea 701
+- FILA 701 SE CARGARON: 500 PUNTOS 
+Procesando la linea 702
+- FILA 702 SE CARGARON: 500 PUNTOS 
+Procesando la linea 703
+- FILA 703 SE CARGARON: 500 PUNTOS 
+Procesando la linea 704
+- FILA 704 SE CARGARON: 500 PUNTOS 
+Procesando la linea 705
+- FILA 705 SE CARGARON: 500 PUNTOS 
+Procesando la linea 706
+- FILA 706 SE CARGARON: 500 PUNTOS 
+Procesando la linea 707
+- FILA 707 SE CARGARON: 500 PUNTOS 
+Procesando la linea 708
+- FILA 708 SE CARGARON: 500 PUNTOS 
+Procesando la linea 709
+- FILA 709 SE CARGARON: 500 PUNTOS 
+Procesando la linea 710
+- FILA 710 SE CARGARON: 500 PUNTOS 
+Procesando la linea 711
+- FILA 711 SE CARGARON: 500 PUNTOS 
+Procesando la linea 712
+- FILA 712 SE CARGARON: 500 PUNTOS 
+Procesando la linea 713
+- FILA 713 SE CARGARON: 500 PUNTOS 
+Procesando la linea 714
+- FILA 714 SE CARGARON: 500 PUNTOS 
+Procesando la linea 715
+- FILA 715 SE CARGARON: 500 PUNTOS 
+Procesando la linea 716
+- FILA 716 SE CARGARON: 500 PUNTOS 
+Procesando la linea 717
+- FILA 717 SE CARGARON: 500 PUNTOS 
+Procesando la linea 718
+- FILA 718 SE CARGARON: 500 PUNTOS 
+Procesando la linea 719
+- FILA 719 SE CARGARON: 500 PUNTOS 
+Procesando la linea 720
+- FILA 720 SE CARGARON: 500 PUNTOS 
+Procesando la linea 721
+- FILA 721 SE CARGARON: 500 PUNTOS 
+Procesando la linea 722
+- FILA 722 SE CARGARON: 500 PUNTOS 
+Procesando la linea 723
+- FILA 723 SE CARGARON: 500 PUNTOS 
+Procesando la linea 724
+- FILA 724 SE CARGARON: 500 PUNTOS 
+Procesando la linea 725
+- FILA 725 SE CARGARON: 500 PUNTOS 
+Procesando la linea 726
+- FILA 726 SE CARGARON: 500 PUNTOS 
+Procesando la linea 727
+- FILA 727 SE CARGARON: 500 PUNTOS 
+Procesando la linea 728
+- FILA 728 SE CARGARON: 500 PUNTOS 
+Procesando la linea 729
+- FILA 729 SE CARGARON: 500 PUNTOS 
+Procesando la linea 730
+- FILA 730 SE CARGARON: 500 PUNTOS 
+Procesando la linea 731
+- FILA 731 SE CARGARON: 500 PUNTOS 
+Procesando la linea 732
+- FILA 732 SE CARGARON: 500 PUNTOS 
+Procesando la linea 733
+- FILA 733 SE CARGARON: 500 PUNTOS 
+Procesando la linea 734
+- FILA 734 SE CARGARON: 500 PUNTOS 
+Procesando la linea 735
+- FILA 735 SE CARGARON: 500 PUNTOS 
+Procesando la linea 736
+- FILA 736 SE CARGARON: 500 PUNTOS 
+Procesando la linea 737
+- FILA 737 SE CARGARON: 500 PUNTOS 
+Procesando la linea 738
+- FILA 738 SE CARGARON: 500 PUNTOS 
+Procesando la linea 739
+- FILA 739 SE CARGARON: 500 PUNTOS 
+Procesando la linea 740
+- FILA 740 SE CARGARON: 500 PUNTOS 
+Procesando la linea 741
+- FILA 741 SE CARGARON: 500 PUNTOS 
+Procesando la linea 742
+- FILA 742 SE CARGARON: 500 PUNTOS 
+Procesando la linea 743
+- FILA 743 SE CARGARON: 500 PUNTOS 
+Procesando la linea 744
+- FILA 744 SE CARGARON: 500 PUNTOS 
+Procesando la linea 745
+- FILA 745 SE CARGARON: 500 PUNTOS 
+Procesando la linea 746
+- FILA 746 SE CARGARON: 500 PUNTOS 
+Procesando la linea 747
+- FILA 747 SE CARGARON: 500 PUNTOS 
+Procesando la linea 748
+- FILA 748 SE CARGARON: 500 PUNTOS 
+Procesando la linea 749
+- FILA 749 SE CARGARON: 500 PUNTOS 
+Procesando la linea 750
+- FILA 750 SE CARGARON: 500 PUNTOS 
+Procesando la linea 751
+- FILA 751 SE CARGARON: 500 PUNTOS 
+Procesando la linea 752
+- FILA 752 SE CARGARON: 500 PUNTOS 
+Procesando la linea 753
+- FILA 753 SE CARGARON: 500 PUNTOS 
+Procesando la linea 754
+- FILA 754 SE CARGARON: 500 PUNTOS 
+Procesando la linea 755
+- FILA 755 SE CARGARON: 500 PUNTOS 
+Procesando la linea 756
+- FILA 756 SE CARGARON: 500 PUNTOS 
+Procesando la linea 757
+- FILA 757 SE CARGARON: 500 PUNTOS 
+Procesando la linea 758
+- FILA 758 SE CARGARON: 500 PUNTOS 
+Procesando la linea 759
+- FILA 759 SE CARGARON: 500 PUNTOS 
+Procesando la linea 760
+- FILA 760 SE CARGARON: 500 PUNTOS 
+Procesando la linea 761
+- FILA 761 SE CARGARON: 500 PUNTOS 
+Procesando la linea 762
+- FILA 762 SE CARGARON: 500 PUNTOS 
+Procesando la linea 763
+- FILA 763 SE CARGARON: 500 PUNTOS 
+Procesando la linea 764
+- FILA 764 SE CARGARON: 500 PUNTOS 
+Procesando la linea 765
+- FILA 765 SE CARGARON: 500 PUNTOS 
+Procesando la linea 766
+- FILA 766 SE CARGARON: 500 PUNTOS 
+Procesando la linea 767
+- FILA 767 SE CARGARON: 500 PUNTOS 
+Procesando la linea 768
+- FILA 768 SE CARGARON: 500 PUNTOS 
+Procesando la linea 769
+- FILA 769 SE CARGARON: 500 PUNTOS 
+Procesando la linea 770
+- FILA 770 SE CARGARON: 500 PUNTOS 
+Procesando la linea 771
+- FILA 771 SE CARGARON: 500 PUNTOS 
+Procesando la linea 772
+- FILA 772 SE CARGARON: 500 PUNTOS 
+Procesando la linea 773
+- FILA 773 SE CARGARON: 500 PUNTOS 
+Procesando la linea 774
+- FILA 774 SE CARGARON: 500 PUNTOS 
+Procesando la linea 775
+- FILA 775 SE CARGARON: 500 PUNTOS 
+Procesando la linea 776
+- FILA 776 SE CARGARON: 500 PUNTOS 
+Procesando la linea 777
+- FILA 777 SE CARGARON: 500 PUNTOS 
+Procesando la linea 778
+- FILA 778 SE CARGARON: 500 PUNTOS 
+Procesando la linea 779
+- FILA 779 SE CARGARON: 500 PUNTOS 
+Procesando la linea 780
+- FILA 780 SE CARGARON: 500 PUNTOS 
+Procesando la linea 781
+- FILA 781 SE CARGARON: 500 PUNTOS 
+Procesando la linea 782
+- FILA 782 SE CARGARON: 500 PUNTOS 
+Procesando la linea 783
+- FILA 783 SE CARGARON: 500 PUNTOS 
+Procesando la linea 784
+- FILA 784 SE CARGARON: 500 PUNTOS 
+Procesando la linea 785
+- FILA 785 SE CARGARON: 500 PUNTOS 
+Procesando la linea 786
+- FILA 786 SE CARGARON: 500 PUNTOS 
+Procesando la linea 787
+- FILA 787 SE CARGARON: 500 PUNTOS 
+Procesando la linea 788
+- FILA 788 SE CARGARON: 500 PUNTOS 
+Procesando la linea 789
+- FILA 789 SE CARGARON: 500 PUNTOS 
+Procesando la linea 790
+- FILA 790 SE CARGARON: 500 PUNTOS 
+Procesando la linea 791
+- FILA 791 SE CARGARON: 500 PUNTOS 
+Procesando la linea 792
+- FILA 792 SE CARGARON: 500 PUNTOS 
+Procesando la linea 793
+- FILA 793 SE CARGARON: 500 PUNTOS 
+Procesando la linea 794
+- FILA 794 SE CARGARON: 500 PUNTOS 
+Procesando la linea 795
+- FILA 795 SE CARGARON: 500 PUNTOS 
+Procesando la linea 796
+- FILA 796 SE CARGARON: 500 PUNTOS 
+Procesando la linea 797
+- FILA 797 SE CARGARON: 500 PUNTOS 
+Procesando la linea 798
+- FILA 798 SE CARGARON: 500 PUNTOS 
+Procesando la linea 799
+- FILA 799 SE CARGARON: 500 PUNTOS 
+Procesando la linea 800
+- FILA 800 SE CARGARON: 500 PUNTOS 
+Procesando la linea 801
+- FILA 801 SE CARGARON: 500 PUNTOS 
+Procesando la linea 802
+- FILA 802 SE CARGARON: 500 PUNTOS 
+Procesando la linea 803
+- FILA 803 SE CARGARON: 500 PUNTOS 
+Procesando la linea 804
+- FILA 804 SE CARGARON: 500 PUNTOS 
+Procesando la linea 805
+- FILA 805 SE CARGARON: 500 PUNTOS 
+Procesando la linea 806
+- FILA 806 SE CARGARON: 500 PUNTOS 
+Procesando la linea 807
+- FILA 807 SE CARGARON: 500 PUNTOS 
+Procesando la linea 808
+- FILA 808 SE CARGARON: 500 PUNTOS 
+Procesando la linea 809
+- FILA 809 SE CARGARON: 500 PUNTOS 
+Procesando la linea 810
+- FILA 810 SE CARGARON: 500 PUNTOS 
+Procesando la linea 811
+- FILA 811 SE CARGARON: 500 PUNTOS 
+Procesando la linea 812
+- FILA 812 SE CARGARON: 500 PUNTOS 
+Procesando la linea 813
+- FILA 813 SE CARGARON: 500 PUNTOS 
+Procesando la linea 814
+- FILA 814 SE CARGARON: 500 PUNTOS 
+Procesando la linea 815
+- FILA 815 SE CARGARON: 500 PUNTOS 
+Procesando la linea 816
+- FILA 816 SE CARGARON: 500 PUNTOS 
+Procesando la linea 817
+- FILA 817 SE CARGARON: 500 PUNTOS 
+Procesando la linea 818
+- FILA 818 SE CARGARON: 500 PUNTOS 
+Procesando la linea 819
+- FILA 819 SE CARGARON: 500 PUNTOS 
+Procesando la linea 820
+- FILA 820 SE CARGARON: 500 PUNTOS 
+Procesando la linea 821
+- FILA 821 SE CARGARON: 500 PUNTOS 
+Procesando la linea 822
+- FILA 822 SE CARGARON: 500 PUNTOS 
+Procesando la linea 823
+- FILA 823 SE CARGARON: 500 PUNTOS 
+Procesando la linea 824
+- FILA 824 SE CARGARON: 500 PUNTOS 
+Procesando la linea 825
+- FILA 825 SE CARGARON: 500 PUNTOS 
+Procesando la linea 826
+- FILA 826 SE CARGARON: 500 PUNTOS 
+Procesando la linea 827
+- FILA 827 SE CARGARON: 500 PUNTOS 
+Procesando la linea 828
+- FILA 828 SE CARGARON: 500 PUNTOS 
+Procesando la linea 829
+- FILA 829 SE CARGARON: 500 PUNTOS 
+Procesando la linea 830
+- FILA 830 SE CARGARON: 500 PUNTOS 
+Procesando la linea 831
+- FILA 831 SE CARGARON: 500 PUNTOS 
+Procesando la linea 832
+- FILA 832 SE CARGARON: 500 PUNTOS 
+Procesando la linea 833
+- FILA 833 SE CARGARON: 500 PUNTOS 
+Procesando la linea 834
+- FILA 834 SE CARGARON: 500 PUNTOS 
+Procesando la linea 835
+- FILA 835 SE CARGARON: 500 PUNTOS 
+Procesando la linea 836
+- FILA 836 SE CARGARON: 500 PUNTOS 
+Procesando la linea 837
+- FILA 837 SE CARGARON: 500 PUNTOS 
+Procesando la linea 838
+- FILA 838 SE CARGARON: 500 PUNTOS 
+Procesando la linea 839
+- FILA 839 SE CARGARON: 500 PUNTOS 
+Procesando la linea 840
+- FILA 840 SE CARGARON: 500 PUNTOS 
+Procesando la linea 841
+- FILA 841 SE CARGARON: 500 PUNTOS 
+Procesando la linea 842
+- FILA 842 SE CARGARON: 500 PUNTOS 
+Procesando la linea 843
+- FILA 843 SE CARGARON: 500 PUNTOS 
+Procesando la linea 844
+- FILA 844 SE CARGARON: 500 PUNTOS 
+Procesando la linea 845
+- FILA 845 SE CARGARON: 500 PUNTOS 
+Procesando la linea 846
+- FILA 846 SE CARGARON: 500 PUNTOS 
+Procesando la linea 847
+- FILA 847 SE CARGARON: 500 PUNTOS 
+Procesando la linea 848
+- FILA 848 SE CARGARON: 500 PUNTOS 
+Procesando la linea 849
+- FILA 849 SE CARGARON: 500 PUNTOS 
+Procesando la linea 850
+- FILA 850 SE CARGARON: 500 PUNTOS 
+Procesando la linea 851
+- FILA 851 SE CARGARON: 500 PUNTOS 
+Procesando la linea 852
+- FILA 852 SE CARGARON: 500 PUNTOS 
+Procesando la linea 853
+- FILA 853 SE CARGARON: 500 PUNTOS 
+Procesando la linea 854
+- FILA 854 SE CARGARON: 500 PUNTOS 
+Procesando la linea 855
+- FILA 855 SE CARGARON: 500 PUNTOS 
+Procesando la linea 856
+- FILA 856 SE CARGARON: 500 PUNTOS 
+Procesando la linea 857
+- FILA 857 SE CARGARON: 500 PUNTOS 
+Procesando la linea 858
+- FILA 858 SE CARGARON: 500 PUNTOS 
+Procesando la linea 859
+- FILA 859 SE CARGARON: 500 PUNTOS 
+Procesando la linea 860
+- FILA 860 SE CARGARON: 500 PUNTOS 
+Procesando la linea 861
+- FILA 861 SE CARGARON: 500 PUNTOS 
+Procesando la linea 862
+- FILA 862 SE CARGARON: 500 PUNTOS 
+Procesando la linea 863
+- FILA 863 SE CARGARON: 500 PUNTOS 
+Procesando la linea 864
+- FILA 864 SE CARGARON: 500 PUNTOS 
+Procesando la linea 865
+- FILA 865 SE CARGARON: 500 PUNTOS 
+Procesando la linea 866
+- FILA 866 SE CARGARON: 500 PUNTOS 
+Procesando la linea 867
+- FILA 867 SE CARGARON: 500 PUNTOS 
+Procesando la linea 868
+- FILA 868 SE CARGARON: 500 PUNTOS 
+Procesando la linea 869
+- FILA 869 SE CARGARON: 500 PUNTOS 
+Procesando la linea 870
+- FILA 870 SE CARGARON: 500 PUNTOS 
+Procesando la linea 871
+- FILA 871 SE CARGARON: 500 PUNTOS 
+Procesando la linea 872
+- FILA 872 SE CARGARON: 500 PUNTOS 
+Procesando la linea 873
+- FILA 873 SE CARGARON: 500 PUNTOS 
+Procesando la linea 874
+- FILA 874 SE CARGARON: 500 PUNTOS 
+Procesando la linea 875
+- FILA 875 SE CARGARON: 500 PUNTOS 
+Procesando la linea 876
+- FILA 876 SE CARGARON: 500 PUNTOS 
+Procesando la linea 877
+- FILA 877 SE CARGARON: 500 PUNTOS 
+Procesando la linea 878
+- FILA 878 SE CARGARON: 500 PUNTOS 
+Procesando la linea 879
+- FILA 879 SE CARGARON: 500 PUNTOS 
+Procesando la linea 880
+- FILA 880 SE CARGARON: 500 PUNTOS 
+Procesando la linea 881
+- FILA 881 SE CARGARON: 500 PUNTOS 
+Procesando la linea 882
+- FILA 882 SE CARGARON: 500 PUNTOS 
+Procesando la linea 883
+- FILA 883 SE CARGARON: 500 PUNTOS 
+Procesando la linea 884
+- FILA 884 SE CARGARON: 500 PUNTOS 
+Procesando la linea 885
+- FILA 885 SE CARGARON: 500 PUNTOS 
+Procesando la linea 886
+- FILA 886 SE CARGARON: 500 PUNTOS 
+Procesando la linea 887
+- FILA 887 SE CARGARON: 500 PUNTOS 
+Procesando la linea 888
+- FILA 888 SE CARGARON: 500 PUNTOS 
+Procesando la linea 889
+- FILA 889 SE CARGARON: 500 PUNTOS 
+Procesando la linea 890
+- FILA 890 SE CARGARON: 500 PUNTOS 
+Procesando la linea 891
+- FILA 891 SE CARGARON: 500 PUNTOS 
+Procesando la linea 892
+- FILA 892 SE CARGARON: 500 PUNTOS 
+Procesando la linea 893
+- FILA 893 SE CARGARON: 500 PUNTOS 
+Procesando la linea 894
+- FILA 894 SE CARGARON: 500 PUNTOS 
+Procesando la linea 895
+- FILA 895 SE CARGARON: 500 PUNTOS 
+Procesando la linea 896
+- FILA 896 SE CARGARON: 500 PUNTOS 
+Procesando la linea 897
+- FILA 897 SE CARGARON: 500 PUNTOS 
+Procesando la linea 898
+- FILA 898 SE CARGARON: 500 PUNTOS 
+Procesando la linea 899
+- FILA 899 SE CARGARON: 500 PUNTOS 
+Procesando la linea 900
+- FILA 900 SE CARGARON: 500 PUNTOS 
+Procesando la linea 901
+- FILA 901 SE CARGARON: 500 PUNTOS 
+Procesando la linea 902
+- FILA 902 SE CARGARON: 500 PUNTOS 
+Procesando la linea 903
+- FILA 903 SE CARGARON: 500 PUNTOS 
+Procesando la linea 904
+- FILA 904 SE CARGARON: 500 PUNTOS 
+Procesando la linea 905
+- FILA 905 SE CARGARON: 500 PUNTOS 
+Procesando la linea 906
+- FILA 906 SE CARGARON: 500 PUNTOS 
+Procesando la linea 907
+- FILA 907 SE CARGARON: 500 PUNTOS 
+Procesando la linea 908
+- FILA 908 SE CARGARON: 500 PUNTOS 
+Procesando la linea 909
+- FILA 909 SE CARGARON: 500 PUNTOS 
+Procesando la linea 910
+- FILA 910 SE CARGARON: 500 PUNTOS 
+Procesando la linea 911
+- FILA 911 SE CARGARON: 500 PUNTOS 
+Procesando la linea 912
+- FILA 912 SE CARGARON: 500 PUNTOS 
+Procesando la linea 913
+- FILA 913 SE CARGARON: 500 PUNTOS 
+Procesando la linea 914
+- FILA 914 SE CARGARON: 500 PUNTOS 
+Procesando la linea 915
+- FILA 915 SE CARGARON: 500 PUNTOS 
+Procesando la linea 916
+- FILA 916 SE CARGARON: 500 PUNTOS 
+Procesando la linea 917
+- FILA 917 SE CARGARON: 500 PUNTOS 
+Procesando la linea 918
+- FILA 918 SE CARGARON: 500 PUNTOS 
+Procesando la linea 919
+- FILA 919 SE CARGARON: 500 PUNTOS 
+Procesando la linea 920
+- FILA 920 SE CARGARON: 500 PUNTOS 
+Procesando la linea 921
+- FILA 921 SE CARGARON: 500 PUNTOS 
+Procesando la linea 922
+- FILA 922 SE CARGARON: 500 PUNTOS 
+Procesando la linea 923
+- FILA 923 SE CARGARON: 500 PUNTOS 
+Procesando la linea 924
+- FILA 924 SE CARGARON: 500 PUNTOS 
+Procesando la linea 925
+- FILA 925 SE CARGARON: 500 PUNTOS 
+Procesando la linea 926
+- FILA 926 SE CARGARON: 500 PUNTOS 
+Procesando la linea 927
+- FILA 927 SE CARGARON: 500 PUNTOS 
+Procesando la linea 928
+- FILA 928 SE CARGARON: 500 PUNTOS 
+Procesando la linea 929
+- FILA 929 SE CARGARON: 500 PUNTOS 
+Procesando la linea 930
+- FILA 930 SE CARGARON: 500 PUNTOS 
+Procesando la linea 931
+- FILA 931 SE CARGARON: 500 PUNTOS 
+Procesando la linea 932
+- FILA 932 SE CARGARON: 500 PUNTOS 
+Procesando la linea 933
+- FILA 933 SE CARGARON: 500 PUNTOS 
+Procesando la linea 934
+- FILA 934 SE CARGARON: 500 PUNTOS 
+Procesando la linea 935
+- FILA 935 SE CARGARON: 500 PUNTOS 
+Procesando la linea 936
+- FILA 936 SE CARGARON: 500 PUNTOS 
+Procesando la linea 937
+- FILA 937 SE CARGARON: 500 PUNTOS 
+Procesando la linea 938
+- FILA 938 SE CARGARON: 500 PUNTOS 
+Procesando la linea 939
+- FILA 939 SE CARGARON: 500 PUNTOS 
+Procesando la linea 940
+- FILA 940 SE CARGARON: 500 PUNTOS 
+Procesando la linea 941
+- FILA 941 SE CARGARON: 500 PUNTOS 
+Procesando la linea 942
+- FILA 942 SE CARGARON: 500 PUNTOS 
+Procesando la linea 943
+- FILA 943 SE CARGARON: 500 PUNTOS 
+Procesando la linea 944
+- FILA 944 SE CARGARON: 500 PUNTOS 
+Procesando la linea 945
+- FILA 945 SE CARGARON: 500 PUNTOS 
+Procesando la linea 946
+- FILA 946 SE CARGARON: 500 PUNTOS 
+Procesando la linea 947
+- FILA 947 SE CARGARON: 500 PUNTOS 
+Procesando la linea 948
+- FILA 948 SE CARGARON: 500 PUNTOS 
+Procesando la linea 949
+- FILA 949 SE CARGARON: 500 PUNTOS 
+Procesando la linea 950
+- FILA 950 SE CARGARON: 500 PUNTOS 
+Procesando la linea 951
+- FILA 951 SE CARGARON: 500 PUNTOS 
+Procesando la linea 952
+- FILA 952 SE CARGARON: 500 PUNTOS 
+Procesando la linea 953
+- FILA 953 SE CARGARON: 500 PUNTOS 
+Procesando la linea 954
+- FILA 954 SE CARGARON: 500 PUNTOS 
+Procesando la linea 955
+- FILA 955 SE CARGARON: 500 PUNTOS 
+Procesando la linea 956
+- FILA 956 SE CARGARON: 500 PUNTOS 
+Procesando la linea 957
+- FILA 957 SE CARGARON: 500 PUNTOS 
+Procesando la linea 958
+- FILA 958 SE CARGARON: 500 PUNTOS 
+Procesando la linea 959
+- FILA 959 SE CARGARON: 500 PUNTOS 
+Procesando la linea 960
+- FILA 960 SE CARGARON: 500 PUNTOS 
+Procesando la linea 961
+- FILA 961 SE CARGARON: 500 PUNTOS 
+Procesando la linea 962
+- FILA 962 SE CARGARON: 500 PUNTOS 
+Procesando la linea 963
+- FILA 963 SE CARGARON: 500 PUNTOS 
+Procesando la linea 964
+- FILA 964 SE CARGARON: 500 PUNTOS 
+Procesando la linea 965
+- FILA 965 SE CARGARON: 500 PUNTOS 
+Procesando la linea 966
+- FILA 966 SE CARGARON: 500 PUNTOS 
+Procesando la linea 967
+- FILA 967 SE CARGARON: 500 PUNTOS 
+Procesando la linea 968
+- FILA 968 SE CARGARON: 500 PUNTOS 
+Procesando la linea 969
+- FILA 969 SE CARGARON: 500 PUNTOS 
+Procesando la linea 970
+- FILA 970 SE CARGARON: 500 PUNTOS 
+Procesando la linea 971
+- FILA 971 SE CARGARON: 500 PUNTOS 
+Procesando la linea 972
+- FILA 972 SE CARGARON: 500 PUNTOS 
+Procesando la linea 973
+- FILA 973 SE CARGARON: 500 PUNTOS 
+Procesando la linea 974
+- FILA 974 SE CARGARON: 500 PUNTOS 
+Procesando la linea 975
+- FILA 975 SE CARGARON: 500 PUNTOS 
+Procesando la linea 1
+- FILA 1 SE CARGARON: 50 PUNTOS 
+Procesando la linea 2
+- FILA 2 SE CARGARON: 50 PUNTOS 
+Procesando la linea 3
+- FILA 3 SE CARGARON: 50 PUNTOS 
+Procesando la linea 4
+- FILA 4 SE CARGARON: 50 PUNTOS 
+Procesando la linea 5
+- FILA 5 SE CARGARON: 50 PUNTOS 
+Procesando la linea 6
+- FILA 6 SE CARGARON: 50 PUNTOS 
+Procesando la linea 7
+- FILA 7 SE CARGARON: 50 PUNTOS 
+Procesando la linea 8
+- FILA 8 SE CARGARON: 50 PUNTOS 
+Procesando la linea 9
+- FILA 9 SE CARGARON: 50 PUNTOS 
+Procesando la linea 10
+- FILA 10 SE CARGARON: 50 PUNTOS 
+Procesando la linea 11
+- FILA 11 SE CARGARON: 50 PUNTOS 
+Procesando la linea 12
+- FILA 12 SE CARGARON: 50 PUNTOS 
+Procesando la linea 13
+- FILA 13 SE CARGARON: 50 PUNTOS 
+Procesando la linea 14
+- FILA 14 SE CARGARON: 50 PUNTOS 
+Procesando la linea 15
+- FILA 15 SE CARGARON: 50 PUNTOS 
+Procesando la linea 16
+- FILA 16 SE CARGARON: 50 PUNTOS 
+Procesando la linea 17
+- FILA 17 SE CARGARON: 50 PUNTOS 
+Procesando la linea 18
+- FILA 18 SE CARGARON: 50 PUNTOS 
+Procesando la linea 19
+- FILA 19 SE CARGARON: 50 PUNTOS 
+Procesando la linea 20
+- FILA 20 SE CARGARON: 50 PUNTOS 
+Procesando la linea 21
+- FILA 21 SE CARGARON: 50 PUNTOS 
+Procesando la linea 22
+- FILA 22 SE CARGARON: 50 PUNTOS 
+Procesando la linea 23
+- FILA 23 SE CARGARON: 50 PUNTOS 
+Procesando la linea 24
+- FILA 24 SE CARGARON: 50 PUNTOS 
+Procesando la linea 25
+- FILA 25 SE CARGARON: 50 PUNTOS 
+Procesando la linea 26
+- FILA 26 SE CARGARON: 50 PUNTOS 
+Procesando la linea 27
+- FILA 27 SE CARGARON: 50 PUNTOS 
+Procesando la linea 28
+- FILA 28 SE CARGARON: 50 PUNTOS 
+Procesando la linea 29
+- FILA 29 SE CARGARON: 50 PUNTOS 
+Procesando la linea 30
+- FILA 30 SE CARGARON: 50 PUNTOS 
+Procesando la linea 31
+- FILA 31 SE CARGARON: 50 PUNTOS 
+Procesando la linea 32
+- FILA 32 SE CARGARON: 50 PUNTOS 
+Procesando la linea 33
+- FILA 33 SE CARGARON: 50 PUNTOS 
+Procesando la linea 34
+- FILA 34 SE CARGARON: 50 PUNTOS 
+Procesando la linea 35
+- FILA 35 SE CARGARON: 50 PUNTOS 
+Procesando la linea 36
+- FILA 36 SE CARGARON: 50 PUNTOS 
+Procesando la linea 37
+- FILA 37 SE CARGARON: 50 PUNTOS 
+Procesando la linea 38
+- FILA 38 SE CARGARON: 50 PUNTOS 
+Procesando la linea 39
+- FILA 39 SE CARGARON: 50 PUNTOS 
+Procesando la linea 40
+- FILA 40 SE CARGARON: 50 PUNTOS 
+Procesando la linea 41
+- FILA 41 SE CARGARON: 50 PUNTOS 
+Procesando la linea 42
+- FILA 42 SE CARGARON: 50 PUNTOS 
+Procesando la linea 43
+- FILA 43 SE CARGARON: 50 PUNTOS 
+Procesando la linea 44
+- FILA 44 SE CARGARON: 50 PUNTOS 
+Procesando la linea 45
+- FILA 45 SE CARGARON: 50 PUNTOS 
+Procesando la linea 46
+- FILA 46 SE CARGARON: 50 PUNTOS 
+Procesando la linea 47
+- FILA 47 SE CARGARON: 50 PUNTOS 
+Procesando la linea 48
+- FILA 48 SE CARGARON: 50 PUNTOS 
+Procesando la linea 49
+- FILA 49 SE CARGARON: 50 PUNTOS 
+Procesando la linea 50
+- FILA 50 SE CARGARON: 50 PUNTOS 
+Procesando la linea 51
+- FILA 51 SE CARGARON: 50 PUNTOS 
+Procesando la linea 52
+- FILA 52 SE CARGARON: 50 PUNTOS 
+Procesando la linea 53
+- FILA 53 SE CARGARON: 50 PUNTOS 
+Procesando la linea 54
+- FILA 54 SE CARGARON: 50 PUNTOS 
+Procesando la linea 55
+- FILA 55 SE CARGARON: 50 PUNTOS 
+Procesando la linea 56
+- FILA 56 SE CARGARON: 50 PUNTOS 
+Procesando la linea 57
+- FILA 57 SE CARGARON: 50 PUNTOS 
+Procesando la linea 58
+- FILA 58 SE CARGARON: 50 PUNTOS 
+Procesando la linea 59
+- FILA 59 SE CARGARON: 50 PUNTOS 
+Procesando la linea 60
+- FILA 60 SE CARGARON: 50 PUNTOS 
+Procesando la linea 61
+- FILA 61 SE CARGARON: 50 PUNTOS 
+Procesando la linea 62
+- FILA 62 SE CARGARON: 50 PUNTOS 
+Procesando la linea 63
+- FILA 63 SE CARGARON: 50 PUNTOS 
+Procesando la linea 64
+- FILA 64 SE CARGARON: 50 PUNTOS 
+Procesando la linea 65
+- FILA 65 SE CARGARON: 50 PUNTOS 
+Procesando la linea 66
+- FILA 66 SE CARGARON: 50 PUNTOS 
+Procesando la linea 67
+- FILA 67 SE CARGARON: 50 PUNTOS 
+Procesando la linea 68
+- FILA 68 SE CARGARON: 50 PUNTOS 
+Procesando la linea 69
+- FILA 69 SE CARGARON: 50 PUNTOS 
+Procesando la linea 70
+- FILA 70 SE CARGARON: 50 PUNTOS 
+Procesando la linea 71
+- FILA 71 SE CARGARON: 50 PUNTOS 
+Procesando la linea 72
+- FILA 72 SE CARGARON: 50 PUNTOS 
+Procesando la linea 73
+- FILA 73 SE CARGARON: 50 PUNTOS 
+Procesando la linea 74
+- FILA 74 SE CARGARON: 50 PUNTOS 
+Procesando la linea 75
+- FILA 75 SE CARGARON: 50 PUNTOS 
+Procesando la linea 76
+- FILA 76 SE CARGARON: 50 PUNTOS 
+Procesando la linea 77
+- FILA 77 SE CARGARON: 50 PUNTOS 
+Procesando la linea 78
+- FILA 78 SE CARGARON: 50 PUNTOS 
+Procesando la linea 79
+- FILA 79 SE CARGARON: 50 PUNTOS 
+Procesando la linea 80
+- FILA 80 SE CARGARON: 50 PUNTOS 
+Procesando la linea 81
+- FILA 81 SE CARGARON: 50 PUNTOS 
+Procesando la linea 82
+- FILA 82 SE CARGARON: 50 PUNTOS 
+Procesando la linea 83
+- FILA 83 SE CARGARON: 50 PUNTOS 
+Procesando la linea 84
+- FILA 84 SE CARGARON: 50 PUNTOS 
+Procesando la linea 85
+- FILA 85 SE CARGARON: 50 PUNTOS 
+Procesando la linea 86
+- FILA 86 SE CARGARON: 50 PUNTOS 
+Procesando la linea 87
+- FILA 87 SE CARGARON: 50 PUNTOS 
+Procesando la linea 88
+- FILA 88 SE CARGARON: 50 PUNTOS 
+Procesando la linea 89
+- FILA 89 SE CARGARON

@@ -1,0 +1,6 @@
+Procesando la linea 1
+- FILA 1 SE CARGARON: 10000 MILLAS 
+Procesando la linea 2
+- FILA 2 SE CARGARON:  MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font><font color="RED"> | FALTA EL VALOR DE MILLAS A CARGAR</font>
+Procesando la linea 3
+- FILA 3 SE CARGARON:  MILLAS <font color="RED"> | FALTA EL ID DEL SOCIO &#211; NO FUE ENCONTRADO POR EL CODIGO </font><font color="RED"> | FALTA EL VALOR DE MILLAS A CARGAR</font>

@@ -1,0 +1,213 @@
+Año;Mes en curso;Distri / directa;Region;Distribuidores;Linea Comercial;Objetivo;Suma de Avance CCC;Suma de Avance %;Ejecutivo;Jefe;Gerente;FDV;Peso;Millas;Millas individual;Posicion ranking mes;Posicion ranking acum;COD DI;Legajo
+2020;ago-20;Distribuidor;AMBA;DIRECTA SERVIMAR;Smirnoff Bitter Citric;40;9;23%;;Jaime Arocena;Alejandro Perrot;8;40%;0;0;30;27;47120000;102460
+2020;ago-20;Distribuidor;AMBA;DIRECTA SERVIMAR;Dada La7a;35;24;69%;;Jaime Arocena;Alejandro Perrot;8;30%;0;0;30;27;47120000;102460
+2020;ago-20;Distribuidor;AMBA;DIRECTA SERVIMAR;Frizze Lata;70;11;16%;;Jaime Arocena;Alejandro Perrot;8;30%;0;0;30;27;47120000;102460
+2020;ago-20;Distribuidor;AMBA;DISTRIBUIDORA TRINIDAD;Smirnoff Bitter Citric;100;144;144%;;Jaime Arocena;Alejandro Perrot;11;40%;528;48;11;12;49001000;102460
+2020;ago-20;Distribuidor;AMBA;DISTRIBUIDORA TRINIDAD;Dada La7a;90;94;104%;;Jaime Arocena;Alejandro Perrot;11;30%;352;32;11;12;49001000;105154
+2020;ago-20;Distribuidor;AMBA;DISTRIBUIDORA TRINIDAD;Frizze Lata;110;143;130%;;Jaime Arocena;Alejandro Perrot;11;30%;396;36;11;12;49001000;105154
+2020;ago-20;Distribuidor;AMBA;ITATI;Smirnoff Bitter Citric;110;90;82%;Matias Garcen;Aldana Tancredi;Alejandro Perrot;17;40%;0;0;20;5;66636000;105154
+2020;ago-20;Distribuidor;AMBA;ITATI;Dada La7a;60;88;147%;Matias Garcen;Aldana Tancredi;Alejandro Perrot;17;30%;612;36;20;5;66636000;105154
+2020;ago-20;Distribuidor;AMBA;ITATI;Frizze Lata;90;118;131%;Matias Garcen;Aldana Tancredi;Alejandro Perrot;17;30%;612;36;20;5;66636000;105197
+2020;ago-20;Distribuidor;AMBA;ICN RN SAS;Smirnoff Bitter Citric;40;39;98%;Matias Garcen;Aldana Tancredi;Alejandro Perrot;6;40%;120;20;22;37;68982000;105197
+2020;ago-20;Distribuidor;AMBA;ICN RN SAS;Dada La7a;40;23;58%;Matias Garcen;Aldana Tancredi;Alejandro Perrot;6;30%;0;0;22;37;68982000;105197
+2020;ago-20;Distribuidor;AMBA;ICN RN SAS;Frizze Lata;40;51;128%;Matias Garcen;Aldana Tancredi;Alejandro Perrot;6;30%;216;36;22;37;68982000;105197
+2020;ago-20;Distribuidor;CENTRO;CHESI;Smirnoff Bitter Citric;50;21;42%;Jorge Abud ;Guido Lopez;María Perak;7;40%;0;0;26;22;47162000;103268
+2020;ago-20;Distribuidor;CENTRO;CHESI;Dada La7a;35;15;43%;Jorge Abud ;Guido Lopez;María Perak;7;30%;0;0;26;22;47162000;103268
+2020;ago-20;Distribuidor;CENTRO;CHESI;Frizze Lata;60;54;90%;Jorge Abud ;Guido Lopez;María Perak;7;30%;98;14;26;22;47162000;103268
+2020;ago-20;Distribuidor;CENTRO;Cordoba Distribuciones;Smirnoff Bitter Citric;50;160;320%;Silvio Zavala;Ariel Llebeili ;María Perak;14;40%;672;48;25;13;68978000;103268
+2020;ago-20;Distribuidor;CENTRO;Cordoba Distribuciones;Dada La7a;60;50;83%;Silvio Zavala;Ariel Llebeili ;María Perak;14;30%;0;0;25;13;68978000;102089
+2020;ago-20;Distribuidor;CENTRO;VAFOOD SRL;Smirnoff Bitter Citric;50;77;154%;Matias Campos;Ariel Llebeili ;María Perak;7;40%;336;48;15;17;69094000;102089
+2020;ago-20;Distribuidor;CENTRO;VAFOOD SRL;Dada La7a;30;0;0%;Matias Campos;Ariel Llebeili ;María Perak;7;30%;0;0;15;17;69094000;102089
+2020;ago-20;Distribuidor;CENTRO;VAFOOD SRL;Frizze Lata;70;219;313%;Matias Campos;Ariel Llebeili ;María Perak;7;30%;252;36;15;17;69094000;102089
+2020;ago-20;Distribuidor;CENTRO;VALENTI FABIANA ANDREA;Smirnoff Bitter Citric;40;16;40%;Facundo Pacheco ;Guido Lopez;María Perak;6;50%;0;0;37;23;66146000;101989
+2020;ago-20;Distribuidor;CENTRO;VALENTI FABIANA ANDREA;Dada La7a;40;29;73%;Facundo Pacheco ;Guido Lopez;María Perak;6;50%;0;0;37;23;66146000;101989
+2020;ago-20;Distribuidor;CUYO;GINO SRL;Smirnoff Bitter Citric;90;126;140%;Nicolas Perez;Natalia Girolimini;Nicolas Klappenbach;6;50%;360;60;2;6;68552000;101989
+2020;ago-20;Distribuidor;CUYO;GINO SRL;Dada La7a;35;44;126%;Nicolas Perez;Natalia Girolimini;Nicolas Klappenbach;6;50%;360;60;2;6;68552000;101989
+2020;ago-20;Distribuidor;CUYO;ROVLAN SA (GO BAR);Smirnoff Bitter Citric;130;136;105%;Alexander Lopez;Natalia Girolimini;Nicolas Klappenbach;11;50%;583;53;23;29;64425000;104653
+2020;ago-20;Distribuidor;CUYO;ROVLAN SA (GO BAR);Dada La7a;100;12;12%;Alexander Lopez;Natalia Girolimini;Nicolas Klappenbach;11;50%;0;0;23;29;64425000;104653
+2020;ago-20;Distribuidor;LITORAL;CENTRO DISTRIBUCION PERGAMINO;Smirnoff Bitter Citric;30;42;140%;Daniel Diaz;Virginia Camacho;Belen Reale;5;40%;240;48;6;15;50340000;104653
+2020;ago-20;Distribuidor;LITORAL;CENTRO DISTRIBUCION PERGAMINO;Dada La7a;40;93;233%;Daniel Diaz;Virginia Camacho;Belen Reale;5;30%;180;36;6;15;50340000;104653
+2020;ago-20;Distribuidor;LITORAL;CENTRO DISTRIBUCION PERGAMINO;Frizze Lata;35;50;143%;Daniel Diaz;Virginia Camacho;Belen Reale;5;30%;180;36;6;15;50340000;102249
+2020;ago-20;Distribuidor;LITORAL;FULL POINT;Smirnoff Bitter Citric;100;167;167%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;40;50%;2400;60;14;20;66431000;102249
+2020;ago-20;Distribuidor;LITORAL;FULL POINT;Dada La7a;80;79;99%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;40;50%;1000;25;14;20;66431000;102249
+2020;ago-20;Distribuidor;LITORAL;FULL POINT;Frizze Lata;190;118;62%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;40;0%;0;0;14;20;66431000;102249
+2020;ago-20;Distribuidor;LITORAL;HUGO O. ISAAC DISTRIBUCIONES;Smirnoff Bitter Citric;65;122;188%;Mariano Stoddart;Candelaria Calvo;Belen Reale;14;50%;840;60;7;16;63612000;104275
+2020;ago-20;Distribuidor;LITORAL;HUGO O. ISAAC DISTRIBUCIONES;Dada La7a;55;105;191%;Mariano Stoddart;Candelaria Calvo;Belen Reale;14;50%;840;60;7;16;63612000;104275
+2020;ago-20;Distribuidor;LITORAL;JOMAG REPRESENTACIONES S.R.L.;Smirnoff Bitter Citric;70;76;109%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;15;40%;660;44;18;8;64650000;104275
+2020;ago-20;Distribuidor;LITORAL;JOMAG REPRESENTACIONES S.R.L.;Dada La7a;100;65;65%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;15;30%;0;0;18;8;64650000;104275
+2020;ago-20;Distribuidor;LITORAL;JOMAG REPRESENTACIONES S.R.L.;Frizze Lata;70;125;179%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;15;30%;540;36;18;8;64650000;105195
+2020;ago-20;Distribuidor;LITORAL;DYA DISTRIBUCIONES SRL;Smirnoff Bitter Citric;60;73;122%;Federico Trentin;Candelaria Calvo;Belen Reale;14;40%;672;48;16;18;63506000;105195
+2020;ago-20;Distribuidor;LITORAL;DYA DISTRIBUCIONES SRL;Dada La7a;65;40;62%;Federico Trentin;Candelaria Calvo;Belen Reale;14;30%;0;0;16;18;63506000;105195
+2020;ago-20;Distribuidor;LITORAL;DYA DISTRIBUCIONES SRL;Frizze Lata;75;84;112%;Federico Trentin;Candelaria Calvo;Belen Reale;14;30%;476;34;16;18;63506000;105195
+2020;ago-20;Distribuidor;LITORAL;MAR CAM SRL;Smirnoff Bitter Citric;55;28;51%;Rodrigo Acosta;Bruno Sinopoli;Belen Reale;8;40%;0;0;38;38;41230000;102265
+2020;ago-20;Distribuidor;LITORAL;MAR CAM SRL;Dada La7a;40;9;23%;Rodrigo Acosta;Bruno Sinopoli;Belen Reale;8;30%;0;0;38;38;41230000;102265
+2020;ago-20;Distribuidor;LITORAL;MAR CAM SRL;Frizze Lata;30;1;3%;Rodrigo Acosta;Bruno Sinopoli;Belen Reale;8;30%;0;0;38;38;41230000;102265
+2020;ago-20;Distribuidor;LITORAL;ALCO SA;Smirnoff Bitter Citric;35;35;100%;Mariano Stoddart;Candelaria Calvo;Belen Reale;11;40%;440;40;12;34;10713;102265
+2020;ago-20;Distribuidor;LITORAL;ALCO SA;Dada La7a;35;66;189%;Mariano Stoddart;Candelaria Calvo;Belen Reale;11;30%;396;36;12;34;10713;104725
+2020;ago-20;Distribuidor;LITORAL;ALCO SA;Frizze Lata;25;41;164%;Mariano Stoddart;Candelaria Calvo;Belen Reale;11;30%;396;36;12;34;10713;104725
+2020;ago-20;Distribuidor;NEA;Bamana S.R.L.;Smirnoff Bitter Citric;115;191;166%;Sebastian Gomez;Maxi Marco;Belen Reale;23;40%;1104;48;24;30;67560000;104725
+2020;ago-20;Distribuidor;NEA;Bamana S.R.L.;Dada La7a;70;10;14%;Sebastian Gomez;Maxi Marco;Belen Reale;23;30%;0;0;24;30;67560000;104725
+2020;ago-20;Distribuidor;NEA;Bamana S.R.L.;Frizze Lata;70;33;47%;Sebastian Gomez;Maxi Marco;Belen Reale;23;30%;0;0;24;30;67560000;103538
+2020;ago-20;Distribuidor;NEA;DON SENDO S.A.;Smirnoff Bitter Citric;200;372;186%;Romina Velazquez;Maxi Marco;Belen Reale;32;40%;1536;48;9;2;50117000;103538
+2020;ago-20;Distribuidor;NEA;DON SENDO S.A.;Dada La7a;170;192;113%;Romina Velazquez;Maxi Marco;Belen Reale;32;30%;1088;34;9;2;50117000;103538
+2020;ago-20;Distribuidor;NEA;DON SENDO S.A.;Frizze Lata;290;365;126%;Romina Velazquez;Maxi Marco;Belen Reale;32;30%;1152;36;9;2;50117000;103538
+2020;ago-20;Distribuidor;NEA;LOGEX SRL;Smirnoff Bitter Citric;130;143;110%;German Curchmar Perez;Maxi Marco;Belen Reale;35;40%;1540;44;19;4;60531000;101920
+2020;ago-20;Distribuidor;NEA;LOGEX SRL;Dada La7a;100;92;92%;German Curchmar Perez;Maxi Marco;Belen Reale;35;30%;490;14;19;4;60531000;101920
+2020;ago-20;Distribuidor;NEA;LOGEX SRL;Frizze Lata;200;197;99%;German Curchmar Perez;Maxi Marco;Belen Reale;35;30%;525;15;19;4;60531000;101920
+2020;ago-20;Distribuidor;NEA;SPILERE JUAN  CEFERINO;Smirnoff Bitter Citric;35;16;46%;Tomas Mendez;Maxi Marco;Belen Reale;11;40%;0;0;36;36;50109000;101920
+2020;ago-20;Distribuidor;NEA;SPILERE JUAN  CEFERINO;Dada La7a;45;8;18%;Tomas Mendez;Maxi Marco;Belen Reale;11;30%;0;0;36;36;50109000;103291
+2020;ago-20;Distribuidor;NEA;SPILERE JUAN  CEFERINO;Frizze Lata;45;6;13%;Tomas Mendez;Maxi Marco;Belen Reale;11;30%;0;0;36;36;50109000;103291
+2020;ago-20;Distribuidor;NOA;CODENOA;Smirnoff Bitter Citric;100;118;118%;Agustin Rojas Alvarez;Patricio Araoz;María Perak;23;50%;1357;59;8;7;61986000;103291
+2020;ago-20;Distribuidor;NOA;CODENOA;Dada La7a;60;96;160%;Agustin Rojas Alvarez;Patricio Araoz;María Perak;23;50%;1380;60;8;7;61986000;103291
+2020;ago-20;Distribuidor;NOA;SEJO;Smirnoff Bitter Citric;80;40;50%;Francisco Soria;Patricio Araoz;María Perak;22;50%;0;0;35;31;67522000;102679
+2020;ago-20;Distribuidor;NOA;SEJO;Dada La7a;80;4;5%;Francisco Soria;Patricio Araoz;María Perak;22;50%;0;0;35;31;67522000;102679
+2020;ago-20;Distribuidor;NOA;ZACARIAS PEJINAKIS (Jujuy);Smirnoff Bitter Citric;40;74;185%;Serapio De Tezanos Pinto ;Patricio Araoz;María Perak;13;40%;624;48;4;14;60577001;102679
+2020;ago-20;Distribuidor;NOA;ZACARIAS PEJINAKIS (Jujuy);Dada La7a;55;87;158%;Serapio De Tezanos Pinto ;Patricio Araoz;María Perak;13;30%;468;36;4;14;60577001;102679
+2020;ago-20;Distribuidor;NOA;ZACARIAS PEJINAKIS (Jujuy);Frizze Lata;55;95;173%;Serapio De Tezanos Pinto ;Patricio Araoz;María Perak;13;30%;468;36;4;14;60577001;123450
+2020;ago-20;Distribuidor;NOA;Zacarias Pejinakis (Salta);Smirnoff Bitter Citric;45;50;111%;Marina Sanchez;Patricio Araoz;María Perak;14;40%;630;45;10;33;60577000;123450
+2020;ago-20;Distribuidor;NOA;Zacarias Pejinakis (Salta);Dada La7a;55;63;115%;Marina Sanchez;Patricio Araoz;María Perak;14;30%;490;35;10;33;60577000;123450
+2020;ago-20;Distribuidor;NOA;Zacarias Pejinakis (Salta);Frizze Lata;55;83;151%;Marina Sanchez;Patricio Araoz;María Perak;14;30%;504;36;10;33;60577000;123450
+2020;ago-20;Distribuidor;PBA;BEYCO S.A.;Smirnoff Bitter Citric;90;123;137%;Diego Logotetti;Guido Pagliettini;Nicolas Klappenbach;17;50%;1020;60;3;1;60727000;102443
+2020;ago-20;Distribuidor;PBA;BEYCO S.A.;Dada La7a;60;102;170%;Diego Logotetti;Guido Pagliettini;Nicolas Klappenbach;17;50%;1020;60;3;1;60727000;102443
+2020;ago-20;Distribuidor;PBA;CD 9 DE JULIO;Smirnoff Bitter Citric;80;132;165%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;10;50%;600;60;5;3;50032000;102443
+2020;ago-20;Distribuidor;PBA;CD 9 DE JULIO;Dada La7a;80;144;180%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;10;50%;600;60;5;3;50032000;102443
+2020;ago-20;Distribuidor;PBA;CD JUNIN;Smirnoff Bitter Citric;40;8;20%;Anabella Mecozzi;Guido Pagliettini;Nicolas Klappenbach;8;50%;0;0;29;28;50342000;103337
+2020;ago-20;Distribuidor;PBA;CD JUNIN;Dada La7a;40;9;23%;Anabella Mecozzi;Guido Pagliettini;Nicolas Klappenbach;8;50%;0;0;29;28;50342000;103337
+2020;ago-20;Distribuidor;PBA;CHACABUCO;Smirnoff Bitter Citric;35;37;106%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;6;50%;318;53;13;21;50341000;103337
+2020;ago-20;Distribuidor;PBA;CHACABUCO;Dada La7a;35;40;114%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;6;50%;348;58;13;21;50341000;103337
+2020;ago-20;Distribuidor;PBA;HILLER;Smirnoff Bitter Citric;70;30;43%;Nahuel Montironi;Jorgelina Pollice;Nicolas Klappenbach;17;40%;0;0;33;25;50638000;103281
+2020;ago-20;Distribuidor;PBA;HILLER;Dada La7a;60;44;73%;Nahuel Montironi;Jorgelina Pollice;Nicolas Klappenbach;17;30%;0;0;33;25;50638000;103281
+2020;ago-20;Distribuidor;PBA;HILLER;Frizze Lata;130;70;54%;Nahuel Montironi;Jorgelina Pollice;Nicolas Klappenbach;17;30%;0;0;33;25;50638000;103281
+2020;ago-20;Distribuidor;PBA;LATITUD 37 SRL;Smirnoff Bitter Citric;90;102;113%;Juan Salomone;Jorgelina Pollice;Nicolas Klappenbach;11;50%;627;57;17;9;61067000;103281
+2020;ago-20;Distribuidor;PBA;LATITUD 37 SRL;Dada La7a;100;99;99%;Juan Salomone;Jorgelina Pollice;Nicolas Klappenbach;11;50%;275;25;17;9;61067000;104841
+2020;ago-20;Distribuidor;PBA;MACO COAST BEER SAS;Smirnoff Bitter Citric;40;55;138%;Nicolás Pelegrín;Guido Pagliettini;Nicolas Klappenbach;6;50%;360;60;21;10;68804000;104841
+2020;ago-20;Distribuidor;PBA;MACO COAST BEER SAS;Dada La7a;55;12;22%;Nicolás Pelegrín;Guido Pagliettini;Nicolas Klappenbach;6;50%;0;0;21;10;68804000;104841
+2020;ago-20;Distribuidor;PBA;MIGUEL FRAIFER SA;Smirnoff Bitter Citric;30;24;80%;Agustin Porto;Guido Pagliettini;Nicolas Klappenbach;6;40%;0;0;27;11;62379000;104841
+2020;ago-20;Distribuidor;PBA;MIGUEL FRAIFER SA;Dada La7a;35;21;60%;Agustin Porto;Guido Pagliettini;Nicolas Klappenbach;6;30%;0;0;27;11;62379000;102332
+2020;ago-20;Distribuidor;PBA;MIGUEL FRAIFER SA;Frizze Lata;50;44;88%;Agustin Porto;Guido Pagliettini;Nicolas Klappenbach;6;30%;84;14;27;11;62379000;102332
+2020;ago-20;Distribuidor;SUR;CASANOVA DANIEL (Interfaz);Smirnoff Bitter Citric;50;21;42%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;7;40%;0;0;28;24;68233000;102332
+2020;ago-20;Distribuidor;SUR;CASANOVA DANIEL (Interfaz);Dada La7a;40;20;50%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;7;30%;0;0;28;24;68233000;102332
+2020;ago-20;Distribuidor;SUR;CASANOVA DANIEL (Interfaz);Frizze Lata;70;10;14%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;7;30%;0;0;28;24;68233000;102329
+2020;ago-20;Distribuidor;SUR;DISLAC TRELEW S.R.L.;Smirnoff Bitter Citric;50;9;18%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;11;40%;0;0;31;26;41055000;102329
+2020;ago-20;Distribuidor;SUR;DISLAC TRELEW S.R.L.;Dada La7a;40;0;0%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;11;30%;0;0;31;26;41055000;102329
+2020;ago-20;Distribuidor;SUR;DISLAC TRELEW S.R.L.;Frizze Lata;40;14;35%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;11;30%;0;0;31;26;41055000;102329
+2020;ago-20;Distribuidor;SUR;PUELCHE;Smirnoff Bitter Citric;35;5;14%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;7;50%;0;0;34;32;43713000;102680
+2020;ago-20;Distribuidor;SUR;PUELCHE;Dada La7a;35;5;14%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;7;50%;0;0;34;32;43713000;102680
+2020;ago-20;Distribuidor;SUR;SPA PATAGONIA SRL;Smirnoff Bitter Citric;40;49;123%;Federico Perfare;Ignacio Sciarra;Nicolas Klappenbach;5;50%;300;60;1;19;68221000;102680
+2020;ago-20;Distribuidor;SUR;SPA PATAGONIA SRL;Dada La7a;30;36;120%;Federico Perfare;Ignacio Sciarra;Nicolas Klappenbach;5;50%;300;60;1;19;68221000;102680
+2020;ago-20;Distribuidor;SUR;GRUPO SERRA;Smirnoff Bitter Citric;30;7;23%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;6;40%;0;0;32;35;63131000;102677
+2020;ago-20;Distribuidor;SUR;GRUPO SERRA;Dada La7a;30;0;0%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;6;30%;0;0;32;35;63131000;102677
+2020;ago-20;Distribuidor;SUR;GRUPO SERRA;Frizze Lata;50;3;6%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;6;30%;0;0;32;35;63131000;102677
+2020;ago-20;Distribuidor;PBA;Agustin Porto;MIGUEL FRAIFER SA;115;89;77%;Agustin Porto;Guido Pagliettini;Nicolas Klappenbach;1;100%;0;0;;;102659;102677
+2020;ago-20;Distribuidor;NOA;Agustin Rojas Alvarez;CODENOA;160;214;134%;Agustin Rojas Alvarez;Patricio Araoz;María Perak;1;100%;60;60;;;102440;102188
+2020;ago-20;Distribuidor;PBA;Alejandro Salman;CD 9 DE JULIO;160;276;173%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;1;100%;60;60;;;102250;102188
+2020;ago-20;Distribuidor;PBA;Alejandro Salman;CHACABUCO;70;77;110%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;1;100%;60;60;;;102250;102188
+2020;ago-20;Distribuidor;CUYO;Alexander Lopez;ROVLAN SA (GO BAR);230;148;64%;Alexander Lopez;Natalia Girolimini;Nicolas Klappenbach;1;100%;0;0;;;101179;102188
+2020;ago-20;Distribuidor;PBA;Anabella Mecozzi;CD JUNIN;80;17;21%;Anabella Mecozzi;Guido Pagliettini;Nicolas Klappenbach;1;100%;0;0;;;101802;102277
+2020;ago-20;Distribuidor;LITORAL;Daniel Diaz;CENTRO DISTRIBUCION PERGAMINO;105;185;176%;Daniel Diaz;Virginia Camacho;Belen Reale;1;100%;60;60;;;100641;102277
+2020;ago-20;Distribuidor;PBA;Diego Logotetti;BEYCO S.A.;150;225;150%;Diego Logotetti;Guido Pagliettini;Nicolas Klappenbach;1;100%;60;60;;;102665;102277
+2020;ago-20;Distribuidor;SUR;Eduardo Fuentes;CASANOVA DANIEL (Interfaz);160;51;32%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;1;100%;0;0;;;101648;102277
+2020;ago-20;Distribuidor;SUR;Eduardo Fuentes;DISLAC TRELEW S.R.L.;130;23;18%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;1;100%;;;;;;102252
+2020;ago-20;Distribuidor;CENTRO;Facundo Pacheco ;VALENTI FABIANA ANDREA;80;45;56%;Facundo Pacheco ;Guido Lopez;María Perak;1;100%;0;0;;;105046;102252
+2020;ago-20;Distribuidor;SUR;Federico Perfare;SPA PATAGONIA SRL;70;85;121%;Federico Perfare;Ignacio Sciarra;Nicolas Klappenbach;1;100%;60;60;;;102087;102252
+2020;ago-20;Distribuidor;LITORAL;Federico Trentin;DYA DISTRIBUCIONES SRL;200;197;99%;Federico Trentin;Candelaria Calvo;Belen Reale;1;100%;25;25;;;102262;102252
+2020;ago-20;Distribuidor;NOA;Francisco Soria;SEJO;160;44;28%;Francisco Soria;Patricio Araoz;María Perak;1;100%;0;0;;;102054;102266
+2020;ago-20;Distribuidor;NEA;German Curchmar Perez;LOGEX SRL;430;432;100%;German Curchmar Perez;Maxi Marco;Belen Reale;1;100%;51;51;;;101853;102266
+2020;ago-20;Distribuidor;CENTRO;Jorge Abud ;CHESI;145;90;62%;Jorge Abud ;Guido Lopez;María Perak;1;100%;0;0;;;105247;102266
+2020;ago-20;Distribuidor;SUR;José Berlingo;GRUPO SERRA;110;10;9%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;1;100%;0;0;;;105205;102266
+2020;ago-20;Distribuidor;SUR;José Berlingo;PUELCHE;70;10;14%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;1;100%;;;;;;102251
+2020;ago-20;Distribuidor;LITORAL;Juan Manuel Rojas;FULL POINT;370;364;98%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;1;100%;53;53;;;102260;102251
+2020;ago-20;Distribuidor;LITORAL;Juan Manuel Rojas;JOMAG REPRESENTACIONES S.R.L.;240;266;111%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;1;100%;;;;;;102251
+2020;ago-20;Distribuidor;PBA;Juan Salomone;LATITUD 37 SRL;190;201;106%;Juan Salomone;Jorgelina Pollice;Nicolas Klappenbach;1;100%;53;53;;;107278;102251
+2020;ago-20;Distribuidor;LITORAL;Mariano Stoddart;ALCO SA;95;142;149%;Mariano Stoddart;Candelaria Calvo;Belen Reale;1;100%;60;60;;;106996;102204
+2020;ago-20;Distribuidor;LITORAL;Mariano Stoddart;HUGO O. ISAAC DISTRIBUCIONES;120;227;189%;Mariano Stoddart;Candelaria Calvo;Belen Reale;1;100%;;;;;;102204
+2020;ago-20;Distribuidor;NOA;Marina Sanchez;Zacarias Pejinakis (Salta);155;196;126%;Marina Sanchez;Patricio Araoz;María Perak;1;100%;60;60;;;102258;102204
+2020;ago-20;Distribuidor;CENTRO;Matias Campos;VAFOOD SRL;150;296;197%;Matias Campos;Ariel Llebeili ;María Perak;1;100%;60;60;;;106958;102204
+2020;ago-20;Distribuidor;AMBA;Matias Garcen;ICN RN SAS;120;113;94%;Matias Garcen;Aldana Tancredi;Alejandro Perrot;1;100%;53;53;;;104719;102362
+2020;ago-20;Distribuidor;AMBA;Matias Garcen;ITATI;260;296;114%;Matias Garcen;Aldana Tancredi;Alejandro Perrot;1;100%;;;;;;102362
+2020;ago-20;Distribuidor;PBA;Nahuel Montironi;HILLER;260;144;55%;Nahuel Montironi;Jorgelina Pollice;Nicolas Klappenbach;1;100%;0;0;;;102174;102362
+2020;ago-20;Distribuidor;PBA;Nicolás Pelegrín;MACO COAST BEER SAS;95;67;71%;Nicolás Pelegrín;Guido Pagliettini;Nicolas Klappenbach;1;100%;0;0;;;102501;102362
+2020;ago-20;Distribuidor;CUYO;Nicolas Perez;GINO SRL;125;170;136%;Nicolas Perez;Natalia Girolimini;Nicolas Klappenbach;1;100%;60;60;;;104890;108031
+2020;ago-20;Distribuidor;LITORAL;Rodrigo Acosta;MAR CAM SRL;125;38;30%;Rodrigo Acosta;Bruno Sinopoli;Belen Reale;1;100%;0;0;;;101817;108031
+2020;ago-20;Distribuidor;NEA;Romina Velazquez;DON SENDO S.A.;660;929;141%;Romina Velazquez;Maxi Marco;Belen Reale;1;100%;60;60;;;103272;108031
+2020;ago-20;Distribuidor;NEA;Sebastian Gomez;Bamana S.R.L.;255;234;92%;Sebastian Gomez;Maxi Marco;Belen Reale;1;100%;23;23;;;102139;108031
+2020;ago-20;Distribuidor;NOA;Serapio De Tezanos Pinto ;ZACARIAS PEJINAKIS (Jujuy);150;256;171%;Serapio De Tezanos Pinto ;Patricio Araoz;María Perak;1;100%;60;60;;;102442;103266
+2020;ago-20;Distribuidor;CENTRO;Silvio Zavala;Cordoba Distribuciones;110;210;191%;Silvio Zavala;Ariel Llebeili ;María Perak;1;100%;60;60;;;102498;103266
+2020;ago-20;Distribuidor;NEA;Tomas Mendez;SPILERE JUAN  CEFERINO;125;30;24%;Tomas Mendez;Maxi Marco;Belen Reale;1;100%;0;0;;;102207;103266
+2020;ago-20;Distribuidor;AMBA;DIRECTA SERVIMAR;Supervisor;145;44;30%;;Jaime Arocena;Alejandro Perrot;1;100%;0;0;;;47120000;103266
+2020;ago-20;Distribuidor;AMBA;DIRECTA SERVIMAR;Jefe;145;44;30%;;Jaime Arocena;Alejandro Perrot;0;100%;0;0;;;47120000;104642
+2020;ago-20;Distribuidor;AMBA;DISTRIBUIDORA TRINIDAD;Supervisor;300;381;127%;;Jaime Arocena;Alejandro Perrot;2;100%;120;60;;;49001000;104642
+2020;ago-20;Distribuidor;AMBA;DISTRIBUIDORA TRINIDAD;Jefe;300;381;127%;;Jaime Arocena;Alejandro Perrot;0;100%;0;0;;;49001000;104642
+2020;ago-20;Distribuidor;AMBA;ITATI;Supervisor;260;296;114%;Matias Garcen;Aldana Tancredi;Alejandro Perrot;1;100%;57;57;;;66636000;104642
+2020;ago-20;Distribuidor;AMBA;ITATI;Jefe;260;296;114%;Matias Garcen;Aldana Tancredi;Alejandro Perrot;1;100%;57;57;;;66636000;104663
+2020;ago-20;Distribuidor;AMBA;ICN RN SAS;Supervisor;120;113;94%;Matias Garcen;Aldana Tancredi;Alejandro Perrot;1;100%;24;24;;;68982000;104663
+2020;ago-20;Distribuidor;AMBA;ICN RN SAS;Jefe;120;113;94%;Matias Garcen;Aldana Tancredi;Alejandro Perrot;1;100%;24;24;;;68982000;104663
+2020;ago-20;Distribuidor;CENTRO;CHESI;Supervisor;145;90;62%;Jorge Abud ;Guido Lopez;María Perak;2;100%;0;0;;;47162000;104663
+2020;ago-20;Distribuidor;CENTRO;CHESI;Jefe;145;90;62%;Jorge Abud ;Guido Lopez;María Perak;0;100%;0;0;;;47162000;104960
+2020;ago-20;Distribuidor;CENTRO;Cordoba Distribuciones;Supervisor;110;210;191%;Silvio Zavala;Ariel Llebeili ;María Perak;1;100%;60;60;;;68978000;104960
+2020;ago-20;Distribuidor;CENTRO;Cordoba Distribuciones;Jefe;110;210;191%;Silvio Zavala;Ariel Llebeili ;María Perak;1;100%;60;60;;;68978000;104960
+2020;ago-20;Distribuidor;CENTRO;VAFOOD SRL;Supervisor;150;296;197%;Matias Campos;Ariel Llebeili ;María Perak;0;100%;0;0;;;69094000;104960
+2020;ago-20;Distribuidor;CENTRO;VAFOOD SRL;Jefe;150;296;197%;Matias Campos;Ariel Llebeili ;María Perak;0;100%;0;0;;;69094000;104958
+2020;ago-20;Distribuidor;CENTRO;VALENTI FABIANA ANDREA;Supervisor;80;45;56%;Facundo Pacheco ;Guido Lopez;María Perak;1;100%;0;0;;;66146000;104958
+2020;ago-20;Distribuidor;CENTRO;VALENTI FABIANA ANDREA;Jefe;80;45;56%;Facundo Pacheco ;Guido Lopez;María Perak;0;100%;0;0;;;66146000;104958
+2020;ago-20;Distribuidor;CUYO;GINO SRL;Supervisor;125;170;136%;Nicolas Perez;Natalia Girolimini;Nicolas Klappenbach;2;100%;120;60;;;68552000;104958
+2020;ago-20;Distribuidor;CUYO;GINO SRL;Jefe;125;170;136%;Nicolas Perez;Natalia Girolimini;Nicolas Klappenbach;1;100%;60;60;;;68552000;103267
+2020;ago-20;Distribuidor;CUYO;ROVLAN SA (GO BAR);Supervisor;230;148;64%;Alexander Lopez;Natalia Girolimini;Nicolas Klappenbach;1;100%;0;0;;;64425000;103267
+2020;ago-20;Distribuidor;CUYO;ROVLAN SA (GO BAR);Jefe;230;148;64%;Alexander Lopez;Natalia Girolimini;Nicolas Klappenbach;1;100%;0;0;;;64425000;103267
+2020;ago-20;Distribuidor;LITORAL;CENTRO DISTRIBUCION PERGAMINO;Supervisor;105;185;176%;Daniel Diaz;Virginia Camacho;Belen Reale;1;100%;60;60;;;50340000;103267
+2020;ago-20;Distribuidor;LITORAL;CENTRO DISTRIBUCION PERGAMINO;Jefe;105;185;176%;Daniel Diaz;Virginia Camacho;Belen Reale;0;100%;0;0;;;50340000;103269
+2020;ago-20;Distribuidor;LITORAL;FULL POINT;Supervisor;370;364;98%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;4;100%;100;25;;;66431000;103269
+2020;ago-20;Distribuidor;LITORAL;FULL POINT;Jefe;370;364;98%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;0;100%;0;0;;;66431000;103269
+2020;ago-20;Distribuidor;LITORAL;HUGO O. ISAAC DISTRIBUCIONES;Supervisor;120;227;189%;Mariano Stoddart;Candelaria Calvo;Belen Reale;2;100%;120;60;;;63612000;103269
+2020;ago-20;Distribuidor;LITORAL;HUGO O. ISAAC DISTRIBUCIONES;Jefe;120;227;189%;Mariano Stoddart;Candelaria Calvo;Belen Reale;0;100%;0;0;;;63612000;102596
+2020;ago-20;Distribuidor;LITORAL;JOMAG REPRESENTACIONES S.R.L.;Supervisor;240;266;111%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;2;100%;112;56;;;64650000;102596
+2020;ago-20;Distribuidor;LITORAL;JOMAG REPRESENTACIONES S.R.L.;Jefe;240;266;111%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;0;100%;0;0;;;64650000;102596
+2020;ago-20;Distribuidor;LITORAL;DYA DISTRIBUCIONES SRL;Supervisor;200;197;99%;Federico Trentin;Candelaria Calvo;Belen Reale;1;100%;25;25;;;63506000;102596
+2020;ago-20;Distribuidor;LITORAL;DYA DISTRIBUCIONES SRL;Jefe;200;197;99%;Federico Trentin;Candelaria Calvo;Belen Reale;1;100%;25;25;;;63506000;104957
+2020;ago-20;Distribuidor;LITORAL;MAR CAM SRL;Supervisor;125;38;30%;Rodrigo Acosta;Bruno Sinopoli;Belen Reale;;100%;0;0;;;41230000;104957
+2020;ago-20;Distribuidor;LITORAL;MAR CAM SRL;Jefe;125;38;30%;Rodrigo Acosta;Bruno Sinopoli;Belen Reale;;100%;0;0;;;41230000;104957
+2020;ago-20;Distribuidor;LITORAL;ALCO SA;Supervisor;95;142;149%;Mariano Stoddart;Candelaria Calvo;Belen Reale;1;100%;60;60;;;10713;104957
+2020;ago-20;Distribuidor;LITORAL;ALCO SA;Jefe;95;142;149%;Mariano Stoddart;Candelaria Calvo;Belen Reale;0;100%;0;0;;;10713;102593
+2020;ago-20;Distribuidor;NEA;Bamana S.R.L.;Supervisor;255;234;92%;Sebastian Gomez;Maxi Marco;Belen Reale;2;100%;46;23;;;67560000;102593
+2020;ago-20;Distribuidor;NEA;Bamana S.R.L.;Jefe;255;234;92%;Sebastian Gomez;Maxi Marco;Belen Reale;0;100%;0;0;;;67560000;102593
+2020;ago-20;Distribuidor;NEA;DON SENDO S.A.;Supervisor;660;929;141%;Romina Velazquez;Maxi Marco;Belen Reale;3;100%;180;60;;;50117000;102593
+2020;ago-20;Distribuidor;NEA;DON SENDO S.A.;Jefe;660;929;141%;Romina Velazquez;Maxi Marco;Belen Reale;1;100%;60;60;;;50117000;104908
+2020;ago-20;Distribuidor;NEA;LOGEX SRL;Supervisor;430;432;100%;German Curchmar Perez;Maxi Marco;Belen Reale;3;100%;153;51;;;60531000;104908
+2020;ago-20;Distribuidor;NEA;LOGEX SRL;Jefe;430;432;100%;German Curchmar Perez;Maxi Marco;Belen Reale;1;100%;51;51;;;60531000;104908
+2020;ago-20;Distribuidor;NEA;SPILERE JUAN  CEFERINO;Supervisor;125;30;24%;Tomas Mendez;Maxi Marco;Belen Reale;1;100%;0;0;;;50109000;104908
+2020;ago-20;Distribuidor;NEA;SPILERE JUAN  CEFERINO;Jefe;125;30;24%;Tomas Mendez;Maxi Marco;Belen Reale;1;100%;0;0;;;50109000;103107
+2020;ago-20;Distribuidor;NOA;CODENOA;Supervisor;160;214;134%;Agustin Rojas Alvarez;Patricio Araoz;María Perak;3;100%;180;60;;;61986000;103107
+2020;ago-20;Distribuidor;NOA;CODENOA;Jefe;160;214;134%;Agustin Rojas Alvarez;Patricio Araoz;María Perak;1;100%;60;60;;;61986000;103107
+2020;ago-20;Distribuidor;NOA;SEJO;Supervisor;160;44;28%;Francisco Soria;Patricio Araoz;María Perak;0;100%;0;0;;;67522000;103107
+2020;ago-20;Distribuidor;NOA;SEJO;Jefe;160;44;28%;Francisco Soria;Patricio Araoz;María Perak;0;100%;0;0;;;67522000;102458
+2020;ago-20;Distribuidor;NOA;ZACARIAS PEJINAKIS (Jujuy);Supervisor;150;256;171%;Serapio De Tezanos Pinto ;Patricio Araoz;María Perak;2;100%;120;60;;;60577001;102458
+2020;ago-20;Distribuidor;NOA;ZACARIAS PEJINAKIS (Jujuy);Jefe;150;256;171%;Serapio De Tezanos Pinto ;Patricio Araoz;María Perak;1;100%;60;60;;;60577001;102458
+2020;ago-20;Distribuidor;NOA;Zacarias Pejinakis (Salta);Supervisor;155;196;126%;Marina Sanchez;Patricio Araoz;María Perak;1;100%;60;60;;;60577000;102458
+2020;ago-20;Distribuidor;NOA;Zacarias Pejinakis (Salta);Jefe;155;196;126%;Marina Sanchez;Patricio Araoz;María Perak;1;100%;60;60;;;60577000;102562
+2020;ago-20;Distribuidor;PBA;BEYCO S.A.;Supervisor;150;225;150%;Diego Logotetti;Guido Pagliettini;Nicolas Klappenbach;2;100%;120;60;;;60727000;102562
+2020;ago-20;Distribuidor;PBA;BEYCO S.A.;Jefe;150;225;150%;Diego Logotetti;Guido Pagliettini;Nicolas Klappenbach;1;100%;60;60;;;60727000;102562
+2020;ago-20;Distribuidor;PBA;CD 9 DE JULIO;Supervisor;160;276;173%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;1;100%;60;60;;;50032000;102562
+2020;ago-20;Distribuidor;PBA;CD 9 DE JULIO;Jefe;160;276;173%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;1;100%;60;60;;;50032000;104670
+2020;ago-20;Distribuidor;PBA;CD JUNIN;Supervisor;80;17;21%;Anabella Mecozzi;Guido Pagliettini;Nicolas Klappenbach;1;100%;0;0;;;50342000;104670
+2020;ago-20;Distribuidor;PBA;CD JUNIN;Jefe;80;17;21%;Anabella Mecozzi;Guido Pagliettini;Nicolas Klappenbach;0;100%;0;0;;;50342000;104670
+2020;ago-20;Distribuidor;PBA;CHACABUCO;Supervisor;70;77;110%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;1;100%;55;55;;;50341000;104670
+2020;ago-20;Distribuidor;PBA;CHACABUCO;Jefe;70;77;110%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;0;100%;0;0;;;50341000;105217
+2020;ago-20;Distribuidor;PBA;HILLER;Supervisor;260;144;55%;Nahuel Montironi;Jorgelina Pollice;Nicolas Klappenbach;3;100%;0;0;;;50638000;105217
+2020;ago-20;Distribuidor;PBA;HILLER;Jefe;260;144;55%;Nahuel Montironi;Jorgelina Pollice;Nicolas Klappenbach;1;100%;0;0;;;50638000;105217
+2020;ago-20;Distribuidor;PBA;LATITUD 37 SRL;Supervisor;190;201;106%;Juan Salomone;Jorgelina Pollice;Nicolas Klappenbach;1;100%;53;53;;;61067000;105217
+2020;ago-20;Distribuidor;PBA;LATITUD 37 SRL;Jefe;190;201;106%;Juan Salomone;Jorgelina Pollice;Nicolas Klappenbach;0;100%;0;0;;;61067000;106958
+2020;ago-20;Distribuidor;PBA;MACO COAST BEER SAS;Supervisor;95;67;71%;Nicolás Pelegrín;Guido Pagliettini;Nicolas Klappenbach;1;100%;0;0;;;68804000;106958
+2020;ago-20;Distribuidor;PBA;MACO COAST BEER SAS;Jefe;95;67;71%;Nicolás Pelegrín;Guido Pagliettini;Nicolas Klappenbach;1;100%;0;0;;;68804000;106958
+2020;ago-20;Distribuidor;PBA;MIGUEL FRAIFER SA;Supervisor;115;89;77%;Agustin Porto;Guido Pagliettini;Nicolas Klappenbach;1;100%;0;0;;;62379000;106958
+2020;ago-20;Distribuidor;PBA;MIGUEL FRAIFER SA;Jefe;115;89;77%;Agustin Porto;Guido Pagliettini;Nicolas Klappenbach;1;100%;0;0;;;62379000;100984
+2020;ago-20;Distribuidor;SUR;CASANOVA DANIEL (Interfaz);Supervisor;160;51;32%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;1;100%;0;0;;;68233000;100984
+2020;ago-20;Distribuidor;SUR;CASANOVA DANIEL (Interfaz);Jefe;160;51;32%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;0;100%;0;0;;;68233000;100984
+2020;ago-20;Distribuidor;SUR;DISLAC TRELEW S.R.L.;Supervisor;130;23;18%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;1;100%;0;0;;;41055000;100984
+2020;ago-20;Distribuidor;SUR;DISLAC TRELEW S.R.L.;Jefe;130;23;18%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;0;100%;0;0;;;41055000;101904
+2020;ago-20;Distribuidor;SUR;PUELCHE;Supervisor;70;10;14%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;1;100%;0;0;;;43713000;101904
+2020;ago-20;Distribuidor;SUR;PUELCHE;Jefe;70;10;14%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;0;100%;0;0;;;43713000;101904
+2020;ago-20;Distribuidor;SUR;SPA PATAGONIA SRL;Supervisor;70;85;121%;Federico Perfare;Ignacio Sciarra;Nicolas Klappenbach;0;100%;0;0;;;68221000;101904
+2020;ago-20;Distribuidor;SUR;SPA PATAGONIA SRL;Jefe;70;85;121%;Federico Perfare;Ignacio Sciarra;Nicolas Klappenbach;0;100%;0;0;;;68221000;104710
+2020;ago-20;Distribuidor;SUR;GRUPO SERRA;Supervisor;110;10;9%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;0;100%;0;0;;;63131000;104710
+2020;ago-20;Distribuidor;SUR;GRUPO SERRA;Jefe;110;10;9%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;1;100%;0;0;;;63131000;104710
+2020;ago-20;Directa;AMBA;DIRECTA LA PLATA;Romina Gulo;Dada La7a;40;107;268%;Romina Gulo;Aldana Tancredi;Alejandro Perrot;104710;20%;12;DIRECTA LA PLATA;;;104710

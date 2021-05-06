@@ -1,0 +1,103 @@
+Año;Mes en curso;Tipo;Region;Directa;Codigo;Usuario;linea;objetivo;avance;avance_por;ejecutivo;jefe;generente;Peso;Millas;individuales;ranking_mes;ranking_total
+2020;5;Distribuidor;AMBA;;47120000;DIRECTA SERVIMAR;Alto;95;129;136%;Federico Romano;Jaime Arocena;Alejandro Perrot;50%;480;60;10;10
+2020;5;Distribuidor;AMBA;;47120000;DIRECTA SERVIMAR;JW RED;10;13;130%;Federico Romano;Jaime Arocena;Alejandro Perrot;25%;240;30;10;10
+2020;5;Distribuidor;AMBA;;47120000;DIRECTA SERVIMAR;Vat 69;15;24;160%;Federico Romano;Jaime Arocena;Alejandro Perrot;25%;240;30;10;10
+2020;5;Distribuidor;AMBA;;49001000;DISTRIBUIDORA TRINIDAD;Alto;750;941;125%;Federico Romano;Jaime Arocena;Alejandro Perrot;50%;660;60;11;11
+2020;5;Distribuidor;AMBA;;49001000;DISTRIBUIDORA TRINIDAD;JW RED;40;85;213%;Federico Romano;Jaime Arocena;Alejandro Perrot;25%;330;30;11;11
+2020;5;Distribuidor;AMBA;;49001000;DISTRIBUIDORA TRINIDAD;Vat 69;90;127;141%;Federico Romano;Jaime Arocena;Alejandro Perrot;25%;330;30;11;11
+2020;5;Distribuidor;AMBA;;66636000;ITATI;Alto;500;822;164%;Romina Gulo;Aldana Tancredi;Alejandro Perrot;50%;1.080;60;7;7
+2020;5;Distribuidor;AMBA;;66636000;ITATI;Vat 69;40;76;190%;Romina Gulo;Aldana Tancredi;Alejandro Perrot;25%;540;30;7;7
+2020;5;Distribuidor;AMBA;;66636000;ITATI;White Horse;25;72;288%;Romina Gulo;Aldana Tancredi;Alejandro Perrot;25%;540;30;7;7
+2020;5;Distribuidor;CENTRO;;47162000;CHESI;Alto;160;222;139%;Jorge Abud ;Guido Lopez;María Perak;50%;420;60;16;16
+2020;5;Distribuidor;CENTRO;;47162000;CHESI;Vat 69;25;36;141%;Jorge Abud ;Guido Lopez;María Perak;25%;210;30;16;16
+2020;5;Distribuidor;CENTRO;;47162000;CHESI;White Horse;20;17;85%;Jorge Abud ;Guido Lopez;María Perak;25%;74;11;16;16
+2020;5;Distribuidor;CENTRO;;68978000;Cordoba Distribuciones;Alto;140;411;294%;Silvio Zavala;Ariel Llebeili ;María Perak;50%;840;60;1;1
+2020;5;Distribuidor;CENTRO;;68978000;Cordoba Distribuciones;Vat 69;45;70;156%;Silvio Zavala;Ariel Llebeili ;María Perak;25%;420;30;1;1
+2020;5;Distribuidor;CENTRO;;68978000;Cordoba Distribuciones;White Horse;35;54;154%;Silvio Zavala;Ariel Llebeili ;María Perak;25%;420;30;1;1
+2020;5;Distribuidor;CENTRO;;69094000;VAFOOD SRL;Alto;150;352;235%;Matias Campos;Ariel Llebeili ;María Perak;50%;480;60;27;27
+2020;5;Distribuidor;CENTRO;;69094000;VAFOOD SRL;Vat 69;25;0;0%;Matias Campos;Ariel Llebeili ;María Perak;25%;0;0;27;27
+2020;5;Distribuidor;CENTRO;;69094000;VAFOOD SRL;White Horse;20;0;0%;Matias Campos;Ariel Llebeili ;María Perak;25%;0;0;27;27
+2020;5;Distribuidor;CENTRO;;66146000;VALENTI FABIANA ANDREA;Alto;150;166;111%;Facundo Pacheco ;Guido Lopez;María Perak;50%;332;55;25;25
+2020;5;Distribuidor;CENTRO;;66146000;VALENTI FABIANA ANDREA;Vat 69;20;27;80%;Facundo Pacheco ;Guido Lopez;María Perak;25%;0;0;25;25
+2020;5;Distribuidor;CENTRO;;66146000;VALENTI FABIANA ANDREA;White Horse;30;87;290%;Facundo Pacheco ;Guido Lopez;María Perak;25%;180;30;25;25
+2020;5;Distribuidor;CUYO;;68552000;GINO SRL;Alto;155;217;140%;Nicolas Perez;Natalia Girolimini;Nicolas Klappenbach;50%;360;60;19;19
+2020;5;Distribuidor;CUYO;;68552000;GINO SRL;Vat 69;40;58;145%;Nicolas Perez;Natalia Girolimini;Nicolas Klappenbach;25%;180;30;19;19
+2020;5;Distribuidor;CUYO;;68552000;GINO SRL;White Horse;30;11;37%;Nicolas Perez;Natalia Girolimini;Nicolas Klappenbach;25%;0;0;19;19
+2020;5;Distribuidor;CUYO;;64425000;ROVLAN SA (GO BAR);Alto;240;282;118%;Alexander Lopez;Natalia Girolimini;Nicolas Klappenbach;50%;646;59;23;23
+2020;5;Distribuidor;CUYO;;64425000;ROVLAN SA (GO BAR);Vat 69;40;30;75%;Alexander Lopez;Natalia Girolimini;Nicolas Klappenbach;25%;0;0;23;23
+2020;5;Distribuidor;CUYO;;64425000;ROVLAN SA (GO BAR);White Horse;30;42;140%;Alexander Lopez;Natalia Girolimini;Nicolas Klappenbach;25%;330;30;23;23
+2020;5;Distribuidor;LITORAL;;50340000;CENTRO DISTRIBUCION PERGAMINO;Alto;50;42;84%;Daniel Diaz;Virginia Camacho;Belen Reale;50%;105;21;33;33
+2020;5;Distribuidor;LITORAL;;50340000;CENTRO DISTRIBUCION PERGAMINO;Vat 69;20;2;10%;Daniel Diaz;Virginia Camacho;Belen Reale;25%;0;0;33;33
+2020;5;Distribuidor;LITORAL;;50340000;CENTRO DISTRIBUCION PERGAMINO;White Horse;10;0;0%;Daniel Diaz;Virginia Camacho;Belen Reale;25%;0;0;33;33
+2020;5;Distribuidor;LITORAL;;66431000;FULL POINT;Alto;850;1517;178%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;50%;2.400;60;5;5
+2020;5;Distribuidor;LITORAL;;66431000;FULL POINT;Vat 69;55;84;153%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;25%;1.200;30;5;5
+2020;5;Distribuidor;LITORAL;;66431000;FULL POINT;White Horse;25;60;240%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;25%;1.200;30;5;5
+2020;5;Distribuidor;LITORAL;;63612000;HUGO O. ISAAC DISTRIBUCIONES;Alto;220;298;135%;Mariano Stoddart;Candelaria Calvo;Belen Reale;50%;840;60;21;21
+2020;5;Distribuidor;LITORAL;;63612000;HUGO O. ISAAC DISTRIBUCIONES;Vat 69;45;52;116%;Mariano Stoddart;Candelaria Calvo;Belen Reale;25%;404;29;21;21
+2020;5;Distribuidor;LITORAL;;63612000;HUGO O. ISAAC DISTRIBUCIONES;White Horse;25;0;0%;Mariano Stoddart;Candelaria Calvo;Belen Reale;25%;0;0;21;21
+2020;5;Distribuidor;LITORAL;;64650000;JOMAG REPRESENTACIONES S.R.L.;Alto;380;507;133%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;50%;900;60;6;6
+2020;5;Distribuidor;LITORAL;;64650000;JOMAG REPRESENTACIONES S.R.L.;Vat 69;45;160;356%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;25%;450;30;6;6
+2020;5;Distribuidor;LITORAL;;64650000;JOMAG REPRESENTACIONES S.R.L.;White Horse;40;156;390%;Juan Manuel Rojas;Virginia Camacho;Belen Reale;25%;450;30;6;6
+2020;5;Distribuidor;NEA;;67560000;Bamana S.R.L.;Alto;250;470;188%;Sebastian Gomez;Maxi Marco;Belen Reale;50%;1.380;60;28;28
+2020;5;Distribuidor;NEA;;67560000;Bamana S.R.L.;Vat 69;50;25;50%;Sebastian Gomez;Maxi Marco;Belen Reale;25%;0;0;28;28
+2020;5;Distribuidor;NEA;;67560000;Bamana S.R.L.;White Horse;40;27;68%;Sebastian Gomez;Maxi Marco;Belen Reale;25%;0;0;28;28
+2020;5;Distribuidor;NEA;;50117000;DON SENDO S.A.;Alto;1100;1885;171%;Romina Velazquez;Maxi Marco;Belen Reale;50%;1.920;60;4;4
+2020;5;Distribuidor;NEA;;50117000;DON SENDO S.A.;Vat 69;60;202;337%;Romina Velazquez;Maxi Marco;Belen Reale;25%;960;30;4;4
+2020;5;Distribuidor;NEA;;50117000;DON SENDO S.A.;White Horse;20;40;200%;Romina Velazquez;Maxi Marco;Belen Reale;25%;960;30;4;4
+2020;5;Distribuidor;NEA;;60531000;LOGEX SRL;Alto;1000;1811;181%;German Curchmar Perez;Maxi Marco;Belen Reale;50%;2.100;60;3;3
+2020;5;Distribuidor;NEA;;60531000;LOGEX SRL;Vat 69;65;163;251%;German Curchmar Perez;Maxi Marco;Belen Reale;25%;1.050;30;3;3
+2020;5;Distribuidor;NEA;;60531000;LOGEX SRL;White Horse;60;143;238%;German Curchmar Perez;Maxi Marco;Belen Reale;25%;1.050;30;3;3
+2020;5;Distribuidor;NEA;;50109000;Spilere Juan  Ceferino ;Alto;190;281;148%;Tomas Mendez;Maxi Marco;Belen Reale;50%;660;60;18;18
+2020;5;Distribuidor;NEA;;50109000;Spilere Juan  Ceferino ;Vat 69;30;39;130%;Tomas Mendez;Maxi Marco;Belen Reale;25%;330;30;18;18
+2020;5;Distribuidor;NEA;;50109000;Spilere Juan  Ceferino ;White Horse;40;12;30%;Tomas Mendez;Maxi Marco;Belen Reale;25%;0;0;18;18
+2020;5;Distribuidor;NOA;;61986000;CODENOA;Alto;300;478;159%;Agustin Rojas Alvarez;Patricio Araoz;María Perak;50%;1.380;60;22;22
+2020;5;Distribuidor;NOA;;61986000;CODENOA;Vat 69;60;69;115%;Agustin Rojas Alvarez;Patricio Araoz;María Perak;25%;661;29;22;22
+2020;5;Distribuidor;NOA;;61986000;CODENOA;White Horse;30;0;0%;Agustin Rojas Alvarez;Patricio Araoz;María Perak;25%;0;0;22;22
+2020;5;Distribuidor;NOA;;67522000;SEJO;Alto;215;439;204%;Francisco Soria;Patricio Araoz;María Perak;50%;1.320;60;24;24
+2020;5;Distribuidor;NOA;;67522000;SEJO;Vat 69;70;79;113%;Francisco Soria;Patricio Araoz;María Perak;25%;621;28;24;24
+2020;5;Distribuidor;NOA;;67522000;SEJO;White Horse;50;40;80%;Francisco Soria;Patricio Araoz;María Perak;25%;0;0;24;24
+2020;5;Distribuidor;NOA;;60577000;ZACARIAS PEJINAKIS (Jujuy);Alto;100;193;193%;Serapio De Tezanos Pinto ;Patricio Araoz;María Perak;50%;780;60;17;17
+2020;5;Distribuidor;NOA;;60577000;ZACARIAS PEJINAKIS (Jujuy);Vat 69;40;54;135%;Serapio De Tezanos Pinto ;Patricio Araoz;María Perak;25%;390;30;17;17
+2020;5;Distribuidor;NOA;;60577000;ZACARIAS PEJINAKIS (Jujuy);White Horse;30;6;20%;Serapio De Tezanos Pinto ;Patricio Araoz;María Perak;25%;0;0;17;17
+2020;5;Distribuidor;NOA;;60577001;Zacarias Pejinakis (Salta);Alto;70;49;70%;Marina Sanchez;Patricio Araoz;María Perak;50%;0;0;34;34
+2020;5;Distribuidor;NOA;;60577001;Zacarias Pejinakis (Salta);Vat 69;30;2;7%;Marina Sanchez;Patricio Araoz;María Perak;25%;0;0;34;34
+2020;5;Distribuidor;NOA;;60577001;Zacarias Pejinakis (Salta);White Horse;15;0;0%;Marina Sanchez;Patricio Araoz;María Perak;25%;0;0;34;34
+2020;5;Distribuidor;PBA;;60727000;BEYCO S.A.;Alto;300;380;127%;Diego Logotetti;Guido Pagliettini;Nicolas Klappenbach;50%;1.020;60;9;9
+2020;5;Distribuidor;PBA;;60727000;BEYCO S.A.;Vat 69;40;74;185%;Diego Logotetti;Guido Pagliettini;Nicolas Klappenbach;25%;510;30;9;9
+2020;5;Distribuidor;PBA;;60727000;BEYCO S.A.;White Horse;30;61;203%;Diego Logotetti;Guido Pagliettini;Nicolas Klappenbach;25%;510;30;9;9
+2020;5;Distribuidor;PBA;;50032000;CD 9 DE JULIO;Alto;230;256;111%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;50%;557;56;14;14
+2020;5;Distribuidor;PBA;;50032000;CD 9 DE JULIO;Vat 69;60;61;102%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;25%;254;25;14;14
+2020;5;Distribuidor;PBA;;50032000;CD 9 DE JULIO;White Horse;40;72;180%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;25%;300;30;14;14
+2020;5;Distribuidor;PBA;;50342000;CD JUNIN;Alto;105;152;145%;Anabella Mecozzi;Guido Pagliettini;Nicolas Klappenbach;50%;480;60;30;30
+2020;5;Distribuidor;PBA;;50342000;CD JUNIN;Vat 69;25;0;0%;Anabella Mecozzi;Guido Pagliettini;Nicolas Klappenbach;25%;0;0;30;30
+2020;5;Distribuidor;PBA;;50342000;CD JUNIN;White Horse;20;0;0%;Anabella Mecozzi;Guido Pagliettini;Nicolas Klappenbach;25%;0;0;30;30
+2020;5;Distribuidor;PBA;;50341000;CHACABUCO;Alto;105;98;93%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;50%;140;23;32;32
+2020;5;Distribuidor;PBA;;50341000;CHACABUCO;Vat 69;25;10;40%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;25%;0;0;32;32
+2020;5;Distribuidor;PBA;;50341000;CHACABUCO;White Horse;20;0;0%;Alejandro Salman;Guido Pagliettini;Nicolas Klappenbach;25%;0;0;32;32
+2020;5;Distribuidor;PBA;;50638000;HILLER;Alto;420;677;161%;Mariano Jabif;Jorgelina Pollice;Nicolas Klappenbach;50%;1.020;60;12;12
+2020;5;Distribuidor;PBA;;50638000;HILLER;Vat 69;80;114;143%;Mariano Jabif;Jorgelina Pollice;Nicolas Klappenbach;25%;510;30;12;12
+2020;5;Distribuidor;PBA;;50638000;HILLER;White Horse;55;62;113%;Mariano Jabif;Jorgelina Pollice;Nicolas Klappenbach;25%;479;28;12;12
+2020;5;Distribuidor;PBA;;61067000;LATITUD 37 SRL;Alto;300;306;102%;Juan Salomone;Jorgelina Pollice;Nicolas Klappenbach;50%;561;51;15;15
+2020;5;Distribuidor;PBA;;61067000;LATITUD 37 SRL;Vat 69;60;70;117%;Juan Salomone;Jorgelina Pollice;Nicolas Klappenbach;25%;321;29;15;15
+2020;5;Distribuidor;PBA;;61067000;LATITUD 37 SRL;White Horse;50;50;100%;Juan Salomone;Jorgelina Pollice;Nicolas Klappenbach;25%;275;25;15;15
+2020;5;Distribuidor;PBA;;68804000;MACO COAST BEER SAS;Alto;80;186;233%;Nicolás Pelegrín;Guido Pagliettini;Nicolas Klappenbach;50%;360;60;2;2
+2020;5;Distribuidor;PBA;;68804000;MACO COAST BEER SAS;Vat 69;30;39;130%;Nicolás Pelegrín;Guido Pagliettini;Nicolas Klappenbach;25%;180;30;2;2
+2020;5;Distribuidor;PBA;;68804000;MACO COAST BEER SAS;White Horse;20;53;265%;Nicolás Pelegrín;Guido Pagliettini;Nicolas Klappenbach;25%;180;30;2;2
+2020;5;Distribuidor;PBA;;62379000;MIGUEL FRAIFER SA;Alto;115;167;145%;Agustin Porto;Guido Pagliettini;Nicolas Klappenbach;50%;360;60;8;8
+2020;5;Distribuidor;PBA;;62379000;MIGUEL FRAIFER SA;Vat 69;25;49;196%;Agustin Porto;Guido Pagliettini;Nicolas Klappenbach;25%;180;30;8;8
+2020;5;Distribuidor;PBA;;62379000;MIGUEL FRAIFER SA;White Horse;20;43;215%;Agustin Porto;Guido Pagliettini;Nicolas Klappenbach;25%;180;30;8;8
+2020;5;Distribuidor;SUR;;68233000;CASANOVA DANIEL (Interfaz);Alto;130;238;183%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;50%;420;60;13;13
+2020;5;Distribuidor;SUR;;68233000;CASANOVA DANIEL (Interfaz);Vat 69;15;38;253%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;25%;210;30;13;13
+2020;5;Distribuidor;SUR;;68233000;CASANOVA DANIEL (Interfaz);White Horse;20;20;100%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;25%;175;25;13;13
+2020;5;Distribuidor;SUR;;41055000;DISLAC TRELEW S.R.L.;Alto;150;207;138%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;50%;660;60;20;20
+2020;5;Distribuidor;SUR;;41055000;DISLAC TRELEW S.R.L.;Vat 69;25;30;120%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;25%;330;30;20;20
+2020;5;Distribuidor;SUR;;41055000;DISLAC TRELEW S.R.L.;White Horse;20;9;45%;Eduardo Fuentes;Ignacio Sciarra;Nicolas Klappenbach;25%;0;0;20;20
+2020;5;Distribuidor;SUR;;43713000;PUELCHE;Alto;115;189;164%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;50%;420;60;29;29
+2020;5;Distribuidor;SUR;;43713000;PUELCHE;Vat 69;25;2;8%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;25%;0;0;29;29
+2020;5;Distribuidor;SUR;;43713000;PUELCHE;White Horse;20;0;0%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;25%;0;0;29;29
+2020;5;Distribuidor;SUR;;68221000;SPA PATAGONIA SRL;Alto;70;101;144%;Federico Perfare;Ignacio Sciarra;Nicolas Klappenbach;50%;240;60;26;26
+2020;5;Distribuidor;SUR;;68221000;SPA PATAGONIA SRL;Vat 69;15;14;93%;Federico Perfare;Ignacio Sciarra;Nicolas Klappenbach;25%;47;12;26;26
+2020;5;Distribuidor;SUR;;68221000;SPA PATAGONIA SRL;White Horse;15;1;7%;Federico Perfare;Ignacio Sciarra;Nicolas Klappenbach;25%;0;0;26;26
+2020;5;Distribuidor;SUR;;63131000;GRUPO SERRA;Alto;65;86;132%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;50%;360;60;31;31
+2020;5;Distribuidor;SUR;;63131000;GRUPO SERRA;Vat 69;25;5;20%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;25%;0;0;31;31
+2020;5;Distribuidor;SUR;;63131000;GRUPO SERRA;White Horse;20;5;25%;José Berlingo;Ignacio Sciarra;Nicolas Klappenbach;25%;0;0;31;31

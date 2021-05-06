@@ -1,0 +1,20 @@
+-	Al menu categorias renombrarlo a categorías de premios, y moverlo a arriba de premios y grupo de sumermercados arroba de supermercados.
+-	Al crear un grupo (si edite antes) le queda la descripción del anterior
+-	Nombre chino y descripción chino al grupo
+
+-	En supermercados: El combo que arranque con “seleccione el grupo al que pertenece ”
+-	En premios al editar o agregar: si no selecciono ninguno avisar que debe seleccionar al menos uno.
+
+Front End:
+
+-	Si un usuario (super) no tiene grupo asignado entonces que se le asigne la sesión de id grupo ponerla en valor cero. 
+-	Si tiene un grupo (entonces tine solo un grupo), todo lo que vea en cuanto a premios debe tener la condicion de relacionarse con su grupo
+o	Ej:
+	function getPremiosHomeDestacados()
+	antes: 
+
+$sql = 'select p.idpremio, p.nombre, p.nombre_ch, p.imagen, p.valor, p.chances from premios p where p.estado = "P" and destacado = "S" order by p.idpremio desc limit 4 ';
+
+Ahora:
+
+$sql = 'select p.idpremio, p.nombre, p.nombre_ch, p.imagen, p.valor, p.chances from premios p, premios_grupos pg where p.estado = "P" and destacado = "S" and p.idpremio = pg.idpremio and pg.idgrupo = 5 order by p.idpremio desc limit 4 ';
